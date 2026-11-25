@@ -1,0 +1,11 @@
+timestamp,location,traffic_volume,hour,weekend,cluster,pattern,centroid_margin
+2025-01-28 14:00:00,IT Park Road,461.0,14,0,0,Highest-volume pattern,0.00708506596876235
+2025-01-30 06:00:00,Central Junction,491.0,6,0,0,Highest-volume pattern,0.014570789232463799
+2025-01-31 15:00:00,IT Park Road,464.0,15,0,0,Highest-volume pattern,0.016891426469149873
+2025-01-31 07:00:00,Market Street,486.0,7,0,0,Highest-volume pattern,0.018033869844917505
+2025-01-31 13:00:00,Residential Road,458.0,13,0,1,Lowest-volume pattern,0.018673934151415716
+2025-02-02 11:00:00,Central Junction,468.0,11,1,0,Highest-volume pattern,0.02016712908576357
+2025-02-01 19:00:00,Market Street,483.0,19,1,0,Highest-volume pattern,0.025297017677718858
+2025-01-31 12:00:00,Residential Road,458.0,12,0,1,Lowest-volume pattern,0.028050647285577712
+2025-01-28 20:00:00,Central Junction,488.0,20,0,0,Highest-volume pattern,0.03141827665175889
+2025-01-28 21:00:00,Ring Road,495.0,21,0,0,Highest-volume pattern,0.045113808734496885

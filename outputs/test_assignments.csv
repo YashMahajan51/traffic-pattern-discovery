@@ -1,0 +1,718 @@
+timestamp,location,traffic_volume,hour,weekend,cluster,pattern
+2025-01-28 00:00:00,Central Junction,219.0,0,0,1,Lowest-volume pattern
+2025-01-28 00:00:00,IT Park Road,106.0,0,0,1,Lowest-volume pattern
+2025-01-28 00:00:00,Market Street,134.0,0,0,1,Lowest-volume pattern
+2025-01-28 00:00:00,Residential Road,140.0,0,0,1,Lowest-volume pattern
+2025-01-28 00:00:00,Ring Road,255.0,0,0,1,Lowest-volume pattern
+2025-01-28 01:00:00,Central Junction,261.0,1,0,1,Lowest-volume pattern
+2025-01-28 01:00:00,IT Park Road,133.0,1,0,1,Lowest-volume pattern
+2025-01-28 01:00:00,Market Street,56.0,1,0,1,Lowest-volume pattern
+2025-01-28 01:00:00,Residential Road,172.0,1,0,1,Lowest-volume pattern
+2025-01-28 01:00:00,Ring Road,288.0,1,0,1,Lowest-volume pattern
+2025-01-28 02:00:00,Central Junction,204.0,2,0,1,Lowest-volume pattern
+2025-01-28 02:00:00,IT Park Road,59.0,2,0,1,Lowest-volume pattern
+2025-01-28 02:00:00,Market Street,152.0,2,0,1,Lowest-volume pattern
+2025-01-28 02:00:00,Residential Road,82.0,2,0,1,Lowest-volume pattern
+2025-01-28 02:00:00,Ring Road,307.0,2,0,1,Lowest-volume pattern
+2025-01-28 03:00:00,Central Junction,153.0,3,0,1,Lowest-volume pattern
+2025-01-28 03:00:00,IT Park Road,74.0,3,0,1,Lowest-volume pattern
+2025-01-28 03:00:00,Market Street,103.0,3,0,1,Lowest-volume pattern
+2025-01-28 03:00:00,Residential Road,157.0,3,0,1,Lowest-volume pattern
+2025-01-28 03:00:00,Ring Road,181.0,3,0,1,Lowest-volume pattern
+2025-01-28 04:00:00,Central Junction,149.0,4,0,1,Lowest-volume pattern
+2025-01-28 04:00:00,IT Park Road,132.0,4,0,1,Lowest-volume pattern
+2025-01-28 04:00:00,Market Street,172.0,4,0,1,Lowest-volume pattern
+2025-01-28 04:00:00,Residential Road,115.0,4,0,1,Lowest-volume pattern
+2025-01-28 04:00:00,Ring Road,301.0,4,0,1,Lowest-volume pattern
+2025-01-28 05:00:00,Central Junction,295.0,5,0,1,Lowest-volume pattern
+2025-01-28 05:00:00,IT Park Road,211.0,5,0,1,Lowest-volume pattern
+2025-01-28 05:00:00,Market Street,193.0,5,0,1,Lowest-volume pattern
+2025-01-28 05:00:00,Residential Road,261.0,5,0,1,Lowest-volume pattern
+2025-01-28 05:00:00,Ring Road,292.0,5,0,1,Lowest-volume pattern
+2025-01-28 06:00:00,Central Junction,595.0,6,0,0,Highest-volume pattern
+2025-01-28 06:00:00,IT Park Road,589.0,6,0,0,Highest-volume pattern
+2025-01-28 06:00:00,Market Street,342.0,6,0,1,Lowest-volume pattern
+2025-01-28 06:00:00,Residential Road,299.0,6,0,1,Lowest-volume pattern
+2025-01-28 06:00:00,Ring Road,457.0,6,0,1,Lowest-volume pattern
+2025-01-28 07:00:00,Central Junction,864.0,7,0,0,Highest-volume pattern
+2025-01-28 07:00:00,IT Park Road,981.0,7,0,0,Highest-volume pattern
+2025-01-28 07:00:00,Market Street,525.0,7,0,0,Highest-volume pattern
+2025-01-28 07:00:00,Residential Road,598.0,7,0,0,Highest-volume pattern
+2025-01-28 07:00:00,Ring Road,694.0,7,0,0,Highest-volume pattern
+2025-01-28 08:00:00,Central Junction,1071.0,8,0,0,Highest-volume pattern
+2025-01-28 08:00:00,IT Park Road,1343.0,8,0,0,Highest-volume pattern
+2025-01-28 08:00:00,Market Street,686.0,8,0,0,Highest-volume pattern
+2025-01-28 08:00:00,Residential Road,661.0,8,0,0,Highest-volume pattern
+2025-01-28 08:00:00,Ring Road,1055.0,8,0,0,Highest-volume pattern
+2025-01-28 09:00:00,Central Junction,1073.0,9,0,0,Highest-volume pattern
+2025-01-28 09:00:00,IT Park Road,1012.0,9,0,0,Highest-volume pattern
+2025-01-28 09:00:00,Market Street,654.0,9,0,0,Highest-volume pattern
+2025-01-28 09:00:00,Residential Road,578.0,9,0,0,Highest-volume pattern
+2025-01-28 09:00:00,Ring Road,928.0,9,0,0,Highest-volume pattern
+2025-01-28 10:00:00,Central Junction,661.0,10,0,0,Highest-volume pattern
+2025-01-28 10:00:00,IT Park Road,487.0,10,0,0,Highest-volume pattern
+2025-01-28 10:00:00,Market Street,521.0,10,0,0,Highest-volume pattern
+2025-01-28 10:00:00,Residential Road,449.0,10,0,1,Lowest-volume pattern
+2025-01-28 10:00:00,Ring Road,771.0,10,0,0,Highest-volume pattern
+2025-01-28 11:00:00,Central Junction,356.0,11,0,1,Lowest-volume pattern
+2025-01-28 11:00:00,IT Park Road,249.0,11,0,1,Lowest-volume pattern
+2025-01-28 11:00:00,Market Street,518.0,11,0,0,Highest-volume pattern
+2025-01-28 11:00:00,Residential Road,318.0,11,0,1,Lowest-volume pattern
+2025-01-28 11:00:00,Ring Road,711.0,11,0,0,Highest-volume pattern
+2025-01-28 12:00:00,Central Junction,500.0,12,0,0,Highest-volume pattern
+2025-01-28 12:00:00,IT Park Road,286.0,12,0,1,Lowest-volume pattern
+2025-01-28 12:00:00,Market Street,657.0,12,0,0,Highest-volume pattern
+2025-01-28 12:00:00,Residential Road,338.0,12,0,1,Lowest-volume pattern
+2025-01-28 12:00:00,Ring Road,552.0,12,0,0,Highest-volume pattern
+2025-01-28 13:00:00,Central Junction,501.0,13,0,0,Highest-volume pattern
+2025-01-28 13:00:00,IT Park Road,328.0,13,0,1,Lowest-volume pattern
+2025-01-28 13:00:00,Market Street,611.0,13,0,0,Highest-volume pattern
+2025-01-28 13:00:00,Residential Road,433.0,13,0,1,Lowest-volume pattern
+2025-01-28 13:00:00,Ring Road,667.0,13,0,0,Highest-volume pattern
+2025-01-28 14:00:00,Central Junction,472.0,14,0,0,Highest-volume pattern
+2025-01-28 14:00:00,IT Park Road,461.0,14,0,0,Highest-volume pattern
+2025-01-28 14:00:00,Market Street,560.0,14,0,0,Highest-volume pattern
+2025-01-28 14:00:00,Residential Road,292.0,14,0,1,Lowest-volume pattern
+2025-01-28 14:00:00,Ring Road,721.0,14,0,0,Highest-volume pattern
+2025-01-28 15:00:00,Central Junction,468.0,15,0,0,Highest-volume pattern
+2025-01-28 15:00:00,IT Park Road,501.0,15,0,0,Highest-volume pattern
+2025-01-28 15:00:00,Market Street,691.0,15,0,0,Highest-volume pattern
+2025-01-28 15:00:00,Residential Road,447.0,15,0,1,Lowest-volume pattern
+2025-01-28 15:00:00,Ring Road,521.0,15,0,0,Highest-volume pattern
+2025-01-28 16:00:00,Central Junction,719.0,16,0,0,Highest-volume pattern
+2025-01-28 16:00:00,IT Park Road,593.0,16,0,0,Highest-volume pattern
+2025-01-28 16:00:00,Market Street,940.0,16,0,0,Highest-volume pattern
+2025-01-28 16:00:00,Residential Road,544.0,16,0,0,Highest-volume pattern
+2025-01-28 16:00:00,Ring Road,857.0,16,0,0,Highest-volume pattern
+2025-01-28 17:00:00,Central Junction,1058.0,17,0,0,Highest-volume pattern
+2025-01-28 17:00:00,IT Park Road,1056.0,17,0,0,Highest-volume pattern
+2025-01-28 17:00:00,Market Street,876.0,17,0,0,Highest-volume pattern
+2025-01-28 17:00:00,Residential Road,522.0,17,0,0,Highest-volume pattern
+2025-01-28 17:00:00,Ring Road,858.0,17,0,0,Highest-volume pattern
+2025-01-28 18:00:00,Central Junction,868.0,18,0,0,Highest-volume pattern
+2025-01-28 18:00:00,IT Park Road,1060.0,18,0,0,Highest-volume pattern
+2025-01-28 18:00:00,Market Street,804.0,18,0,0,Highest-volume pattern
+2025-01-28 18:00:00,Residential Road,647.0,18,0,0,Highest-volume pattern
+2025-01-28 18:00:00,Ring Road,1290.0,18,0,0,Highest-volume pattern
+2025-01-28 19:00:00,Central Junction,881.0,19,0,0,Highest-volume pattern
+2025-01-28 19:00:00,IT Park Road,1006.0,19,0,0,Highest-volume pattern
+2025-01-28 19:00:00,Market Street,652.0,19,0,0,Highest-volume pattern
+2025-01-28 19:00:00,Residential Road,552.0,19,0,0,Highest-volume pattern
+2025-01-28 19:00:00,Ring Road,953.0,19,0,0,Highest-volume pattern
+2025-01-28 20:00:00,Central Junction,488.0,20,0,0,Highest-volume pattern
+2025-01-28 20:00:00,IT Park Road,591.0,20,0,0,Highest-volume pattern
+2025-01-28 20:00:00,Market Street,442.0,20,0,1,Lowest-volume pattern
+2025-01-28 20:00:00,Residential Road,382.0,20,0,1,Lowest-volume pattern
+2025-01-28 20:00:00,Ring Road,667.0,20,0,0,Highest-volume pattern
+2025-01-28 21:00:00,Central Junction,311.0,21,0,1,Lowest-volume pattern
+2025-01-28 21:00:00,IT Park Road,263.0,21,0,1,Lowest-volume pattern
+2025-01-28 21:00:00,Market Street,332.0,21,0,1,Lowest-volume pattern
+2025-01-28 21:00:00,Residential Road,305.0,21,0,1,Lowest-volume pattern
+2025-01-28 21:00:00,Ring Road,495.0,21,0,0,Highest-volume pattern
+2025-01-28 22:00:00,Central Junction,232.0,22,0,1,Lowest-volume pattern
+2025-01-28 22:00:00,IT Park Road,166.0,22,0,1,Lowest-volume pattern
+2025-01-28 22:00:00,Market Street,236.0,22,0,1,Lowest-volume pattern
+2025-01-28 22:00:00,Residential Road,214.0,22,0,1,Lowest-volume pattern
+2025-01-28 22:00:00,Ring Road,370.0,22,0,1,Lowest-volume pattern
+2025-01-28 23:00:00,Central Junction,171.0,23,0,1,Lowest-volume pattern
+2025-01-28 23:00:00,IT Park Road,101.0,23,0,1,Lowest-volume pattern
+2025-01-28 23:00:00,Market Street,159.0,23,0,1,Lowest-volume pattern
+2025-01-28 23:00:00,Residential Road,111.0,23,0,1,Lowest-volume pattern
+2025-01-28 23:00:00,Ring Road,220.0,23,0,1,Lowest-volume pattern
+2025-01-29 00:00:00,Central Junction,155.0,0,0,1,Lowest-volume pattern
+2025-01-29 00:00:00,IT Park Road,160.0,0,0,1,Lowest-volume pattern
+2025-01-29 00:00:00,Market Street,89.0,0,0,1,Lowest-volume pattern
+2025-01-29 00:00:00,Residential Road,186.0,0,0,1,Lowest-volume pattern
+2025-01-29 00:00:00,Ring Road,222.0,0,0,1,Lowest-volume pattern
+2025-01-29 01:00:00,Central Junction,76.0,1,0,1,Lowest-volume pattern
+2025-01-29 01:00:00,IT Park Road,133.0,1,0,1,Lowest-volume pattern
+2025-01-29 01:00:00,Market Street,151.0,1,0,1,Lowest-volume pattern
+2025-01-29 01:00:00,Residential Road,123.0,1,0,1,Lowest-volume pattern
+2025-01-29 01:00:00,Ring Road,234.0,1,0,1,Lowest-volume pattern
+2025-01-29 02:00:00,Central Junction,128.0,2,0,1,Lowest-volume pattern
+2025-01-29 02:00:00,IT Park Road,103.0,2,0,1,Lowest-volume pattern
+2025-01-29 02:00:00,Market Street,128.0,2,0,1,Lowest-volume pattern
+2025-01-29 02:00:00,Residential Road,127.0,2,0,1,Lowest-volume pattern
+2025-01-29 02:00:00,Ring Road,282.0,2,0,1,Lowest-volume pattern
+2025-01-29 03:00:00,Central Junction,109.0,3,0,1,Lowest-volume pattern
+2025-01-29 03:00:00,IT Park Road,85.0,3,0,1,Lowest-volume pattern
+2025-01-29 03:00:00,Market Street,157.0,3,0,1,Lowest-volume pattern
+2025-01-29 03:00:00,Residential Road,155.0,3,0,1,Lowest-volume pattern
+2025-01-29 03:00:00,Ring Road,298.0,3,0,1,Lowest-volume pattern
+2025-01-29 04:00:00,Central Junction,158.0,4,0,1,Lowest-volume pattern
+2025-01-29 04:00:00,IT Park Road,112.0,4,0,1,Lowest-volume pattern
+2025-01-29 04:00:00,Market Street,121.0,4,0,1,Lowest-volume pattern
+2025-01-29 04:00:00,Residential Road,180.0,4,0,1,Lowest-volume pattern
+2025-01-29 04:00:00,Ring Road,236.0,4,0,1,Lowest-volume pattern
+2025-01-29 05:00:00,Central Junction,274.0,5,0,1,Lowest-volume pattern
+2025-01-29 05:00:00,IT Park Road,224.0,5,0,1,Lowest-volume pattern
+2025-01-29 05:00:00,Market Street,201.0,5,0,1,Lowest-volume pattern
+2025-01-29 05:00:00,Residential Road,155.0,5,0,1,Lowest-volume pattern
+2025-01-29 05:00:00,Ring Road,347.0,5,0,1,Lowest-volume pattern
+2025-01-29 06:00:00,Central Junction,553.0,6,0,0,Highest-volume pattern
+2025-01-29 06:00:00,IT Park Road,462.0,6,0,1,Lowest-volume pattern
+2025-01-29 06:00:00,Market Street,321.0,6,0,1,Lowest-volume pattern
+2025-01-29 06:00:00,Residential Road,415.0,6,0,1,Lowest-volume pattern
+2025-01-29 06:00:00,Ring Road,583.0,6,0,0,Highest-volume pattern
+2025-01-29 07:00:00,Central Junction,936.0,7,0,0,Highest-volume pattern
+2025-01-29 07:00:00,IT Park Road,861.0,7,0,0,Highest-volume pattern
+2025-01-29 07:00:00,Market Street,467.0,7,0,1,Lowest-volume pattern
+2025-01-29 07:00:00,Residential Road,522.0,7,0,0,Highest-volume pattern
+2025-01-29 07:00:00,Ring Road,989.0,7,0,0,Highest-volume pattern
+2025-01-29 08:00:00,Central Junction,1153.0,8,0,0,Highest-volume pattern
+2025-01-29 08:00:00,IT Park Road,1027.0,8,0,0,Highest-volume pattern
+2025-01-29 08:00:00,Market Street,645.0,8,0,0,Highest-volume pattern
+2025-01-29 08:00:00,Residential Road,725.0,8,0,0,Highest-volume pattern
+2025-01-29 08:00:00,Ring Road,1115.0,8,0,0,Highest-volume pattern
+2025-01-29 09:00:00,Central Junction,800.0,9,0,0,Highest-volume pattern
+2025-01-29 09:00:00,IT Park Road,1045.0,9,0,0,Highest-volume pattern
+2025-01-29 09:00:00,Market Street,571.0,9,0,0,Highest-volume pattern
+2025-01-29 09:00:00,Residential Road,585.0,9,0,0,Highest-volume pattern
+2025-01-29 09:00:00,Ring Road,954.0,9,0,0,Highest-volume pattern
+2025-01-29 10:00:00,Central Junction,790.0,10,0,0,Highest-volume pattern
+2025-01-29 10:00:00,IT Park Road,535.0,10,0,0,Highest-volume pattern
+2025-01-29 10:00:00,Market Street,549.0,10,0,0,Highest-volume pattern
+2025-01-29 10:00:00,Residential Road,380.0,10,0,1,Lowest-volume pattern
+2025-01-29 10:00:00,Ring Road,694.0,10,0,0,Highest-volume pattern
+2025-01-29 11:00:00,Central Junction,570.0,11,0,0,Highest-volume pattern
+2025-01-29 11:00:00,IT Park Road,394.0,11,0,1,Lowest-volume pattern
+2025-01-29 11:00:00,Market Street,576.0,11,0,0,Highest-volume pattern
+2025-01-29 11:00:00,Residential Road,332.0,11,0,1,Lowest-volume pattern
+2025-01-29 11:00:00,Ring Road,694.0,11,0,0,Highest-volume pattern
+2025-01-29 12:00:00,Central Junction,523.0,12,0,0,Highest-volume pattern
+2025-01-29 12:00:00,IT Park Road,313.0,12,0,1,Lowest-volume pattern
+2025-01-29 12:00:00,Market Street,617.0,12,0,0,Highest-volume pattern
+2025-01-29 12:00:00,Residential Road,325.0,12,0,1,Lowest-volume pattern
+2025-01-29 12:00:00,Ring Road,625.0,12,0,0,Highest-volume pattern
+2025-01-29 13:00:00,Central Junction,448.0,13,0,1,Lowest-volume pattern
+2025-01-29 13:00:00,IT Park Road,373.0,13,0,1,Lowest-volume pattern
+2025-01-29 13:00:00,Market Street,634.0,13,0,0,Highest-volume pattern
+2025-01-29 13:00:00,Residential Road,344.0,13,0,1,Lowest-volume pattern
+2025-01-29 13:00:00,Ring Road,765.0,13,0,0,Highest-volume pattern
+2025-01-29 14:00:00,Central Junction,567.0,14,0,0,Highest-volume pattern
+2025-01-29 14:00:00,IT Park Road,339.0,14,0,1,Lowest-volume pattern
+2025-01-29 14:00:00,Market Street,711.0,14,0,0,Highest-volume pattern
+2025-01-29 14:00:00,Residential Road,392.0,14,0,1,Lowest-volume pattern
+2025-01-29 14:00:00,Ring Road,649.0,14,0,0,Highest-volume pattern
+2025-01-29 15:00:00,Central Junction,439.0,15,0,1,Lowest-volume pattern
+2025-01-29 15:00:00,IT Park Road,291.0,15,0,1,Lowest-volume pattern
+2025-01-29 15:00:00,Market Street,680.0,15,0,0,Highest-volume pattern
+2025-01-29 15:00:00,Residential Road,418.0,15,0,1,Lowest-volume pattern
+2025-01-29 15:00:00,Ring Road,694.0,15,0,0,Highest-volume pattern
+2025-01-29 16:00:00,Central Junction,710.0,16,0,0,Highest-volume pattern
+2025-01-29 16:00:00,IT Park Road,763.0,16,0,0,Highest-volume pattern
+2025-01-29 16:00:00,Market Street,578.0,16,0,0,Highest-volume pattern
+2025-01-29 16:00:00,Residential Road,608.0,16,0,0,Highest-volume pattern
+2025-01-29 16:00:00,Ring Road,664.0,16,0,0,Highest-volume pattern
+2025-01-29 17:00:00,Central Junction,969.0,17,0,0,Highest-volume pattern
+2025-01-29 17:00:00,IT Park Road,1041.0,17,0,0,Highest-volume pattern
+2025-01-29 17:00:00,Market Street,614.0,17,0,0,Highest-volume pattern
+2025-01-29 17:00:00,Residential Road,610.0,17,0,0,Highest-volume pattern
+2025-01-29 17:00:00,Ring Road,985.0,17,0,0,Highest-volume pattern
+2025-01-29 18:00:00,Central Junction,1032.0,18,0,0,Highest-volume pattern
+2025-01-29 18:00:00,IT Park Road,1035.0,18,0,0,Highest-volume pattern
+2025-01-29 18:00:00,Market Street,824.0,18,0,0,Highest-volume pattern
+2025-01-29 18:00:00,Residential Road,784.0,18,0,0,Highest-volume pattern
+2025-01-29 18:00:00,Ring Road,973.0,18,0,0,Highest-volume pattern
+2025-01-29 19:00:00,Central Junction,798.0,19,0,0,Highest-volume pattern
+2025-01-29 19:00:00,IT Park Road,909.0,19,0,0,Highest-volume pattern
+2025-01-29 19:00:00,Market Street,525.0,19,0,0,Highest-volume pattern
+2025-01-29 19:00:00,Residential Road,579.0,19,0,0,Highest-volume pattern
+2025-01-29 19:00:00,Ring Road,928.0,19,0,0,Highest-volume pattern
+2025-01-29 20:00:00,Central Junction,549.0,20,0,0,Highest-volume pattern
+2025-01-29 20:00:00,IT Park Road,566.0,20,0,0,Highest-volume pattern
+2025-01-29 20:00:00,Market Street,545.0,20,0,0,Highest-volume pattern
+2025-01-29 20:00:00,Residential Road,363.0,20,0,1,Lowest-volume pattern
+2025-01-29 20:00:00,Ring Road,702.0,20,0,0,Highest-volume pattern
+2025-01-29 21:00:00,Central Junction,473.0,21,0,1,Lowest-volume pattern
+2025-01-29 21:00:00,IT Park Road,306.0,21,0,1,Lowest-volume pattern
+2025-01-29 21:00:00,Market Street,278.0,21,0,1,Lowest-volume pattern
+2025-01-29 21:00:00,Residential Road,310.0,21,0,1,Lowest-volume pattern
+2025-01-29 21:00:00,Ring Road,396.0,21,0,1,Lowest-volume pattern
+2025-01-29 22:00:00,Central Junction,225.0,22,0,1,Lowest-volume pattern
+2025-01-29 22:00:00,IT Park Road,201.0,22,0,1,Lowest-volume pattern
+2025-01-29 22:00:00,Market Street,215.0,22,0,1,Lowest-volume pattern
+2025-01-29 22:00:00,Residential Road,143.0,22,0,1,Lowest-volume pattern
+2025-01-29 22:00:00,Ring Road,327.0,22,0,1,Lowest-volume pattern
+2025-01-29 23:00:00,Central Junction,236.0,23,0,1,Lowest-volume pattern
+2025-01-29 23:00:00,IT Park Road,134.0,23,0,1,Lowest-volume pattern
+2025-01-29 23:00:00,Market Street,131.0,23,0,1,Lowest-volume pattern
+2025-01-29 23:00:00,Residential Road,90.0,23,0,1,Lowest-volume pattern
+2025-01-29 23:00:00,Ring Road,330.0,23,0,1,Lowest-volume pattern
+2025-01-30 00:00:00,Central Junction,187.0,0,0,1,Lowest-volume pattern
+2025-01-30 00:00:00,IT Park Road,101.0,0,0,1,Lowest-volume pattern
+2025-01-30 00:00:00,Market Street,46.0,0,0,1,Lowest-volume pattern
+2025-01-30 00:00:00,Residential Road,157.0,0,0,1,Lowest-volume pattern
+2025-01-30 00:00:00,Ring Road,321.0,0,0,1,Lowest-volume pattern
+2025-01-30 01:00:00,Central Junction,77.0,1,0,1,Lowest-volume pattern
+2025-01-30 01:00:00,IT Park Road,158.0,1,0,1,Lowest-volume pattern
+2025-01-30 01:00:00,Market Street,140.0,1,0,1,Lowest-volume pattern
+2025-01-30 01:00:00,Residential Road,135.0,1,0,1,Lowest-volume pattern
+2025-01-30 01:00:00,Ring Road,165.0,1,0,1,Lowest-volume pattern
+2025-01-30 02:00:00,Central Junction,217.0,2,0,1,Lowest-volume pattern
+2025-01-30 02:00:00,IT Park Road,125.0,2,0,1,Lowest-volume pattern
+2025-01-30 02:00:00,Market Street,41.0,2,0,1,Lowest-volume pattern
+2025-01-30 02:00:00,Residential Road,174.0,2,0,1,Lowest-volume pattern
+2025-01-30 02:00:00,Ring Road,221.0,2,0,1,Lowest-volume pattern
+2025-01-30 03:00:00,Central Junction,201.0,3,0,1,Lowest-volume pattern
+2025-01-30 03:00:00,IT Park Road,149.0,3,0,1,Lowest-volume pattern
+2025-01-30 03:00:00,Market Street,85.0,3,0,1,Lowest-volume pattern
+2025-01-30 03:00:00,Residential Road,111.0,3,0,1,Lowest-volume pattern
+2025-01-30 03:00:00,Ring Road,279.0,3,0,1,Lowest-volume pattern
+2025-01-30 04:00:00,Central Junction,315.0,4,0,1,Lowest-volume pattern
+2025-01-30 04:00:00,IT Park Road,93.0,4,0,1,Lowest-volume pattern
+2025-01-30 04:00:00,Market Street,110.0,4,0,1,Lowest-volume pattern
+2025-01-30 04:00:00,Residential Road,143.0,4,0,1,Lowest-volume pattern
+2025-01-30 04:00:00,Ring Road,269.0,4,0,1,Lowest-volume pattern
+2025-01-30 05:00:00,Central Junction,342.0,5,0,1,Lowest-volume pattern
+2025-01-30 05:00:00,IT Park Road,203.0,5,0,1,Lowest-volume pattern
+2025-01-30 05:00:00,Market Street,180.0,5,0,1,Lowest-volume pattern
+2025-01-30 05:00:00,Residential Road,323.0,5,0,1,Lowest-volume pattern
+2025-01-30 05:00:00,Ring Road,416.0,5,0,1,Lowest-volume pattern
+2025-01-30 06:00:00,Central Junction,491.0,6,0,0,Highest-volume pattern
+2025-01-30 06:00:00,IT Park Road,387.0,6,0,1,Lowest-volume pattern
+2025-01-30 06:00:00,Market Street,332.0,6,0,1,Lowest-volume pattern
+2025-01-30 06:00:00,Residential Road,314.0,6,0,1,Lowest-volume pattern
+2025-01-30 06:00:00,Ring Road,479.0,6,0,1,Lowest-volume pattern
+2025-01-30 07:00:00,Central Junction,990.0,7,0,0,Highest-volume pattern
+2025-01-30 07:00:00,IT Park Road,835.0,7,0,0,Highest-volume pattern
+2025-01-30 07:00:00,Market Street,668.0,7,0,0,Highest-volume pattern
+2025-01-30 07:00:00,Residential Road,435.0,7,0,1,Lowest-volume pattern
+2025-01-30 07:00:00,Ring Road,764.0,7,0,0,Highest-volume pattern
+2025-01-30 08:00:00,Central Junction,1050.0,8,0,0,Highest-volume pattern
+2025-01-30 08:00:00,IT Park Road,1193.0,8,0,0,Highest-volume pattern
+2025-01-30 08:00:00,Market Street,577.0,8,0,0,Highest-volume pattern
+2025-01-30 08:00:00,Residential Road,595.0,8,0,0,Highest-volume pattern
+2025-01-30 08:00:00,Ring Road,963.0,8,0,0,Highest-volume pattern
+2025-01-30 09:00:00,Central Junction,1154.0,9,0,0,Highest-volume pattern
+2025-01-30 09:00:00,IT Park Road,990.0,9,0,0,Highest-volume pattern
+2025-01-30 09:00:00,Market Street,661.0,9,0,0,Highest-volume pattern
+2025-01-30 09:00:00,Residential Road,612.0,9,0,0,Highest-volume pattern
+2025-01-30 09:00:00,Ring Road,959.0,9,0,0,Highest-volume pattern
+2025-01-30 10:00:00,Central Junction,636.0,10,0,0,Highest-volume pattern
+2025-01-30 10:00:00,IT Park Road,588.0,10,0,0,Highest-volume pattern
+2025-01-30 10:00:00,Market Street,635.0,10,0,0,Highest-volume pattern
+2025-01-30 10:00:00,Residential Road,295.0,10,0,1,Lowest-volume pattern
+2025-01-30 10:00:00,Ring Road,656.0,10,0,0,Highest-volume pattern
+2025-01-30 11:00:00,Central Junction,427.0,11,0,1,Lowest-volume pattern
+2025-01-30 11:00:00,IT Park Road,378.0,11,0,1,Lowest-volume pattern
+2025-01-30 11:00:00,Market Street,623.0,11,0,0,Highest-volume pattern
+2025-01-30 11:00:00,Residential Road,333.0,11,0,1,Lowest-volume pattern
+2025-01-30 11:00:00,Ring Road,565.0,11,0,0,Highest-volume pattern
+2025-01-30 12:00:00,Central Junction,440.0,12,0,1,Lowest-volume pattern
+2025-01-30 12:00:00,IT Park Road,317.0,12,0,1,Lowest-volume pattern
+2025-01-30 12:00:00,Market Street,673.0,12,0,0,Highest-volume pattern
+2025-01-30 12:00:00,Residential Road,422.0,12,0,1,Lowest-volume pattern
+2025-01-30 12:00:00,Ring Road,599.0,12,0,0,Highest-volume pattern
+2025-01-30 13:00:00,Central Junction,566.0,13,0,0,Highest-volume pattern
+2025-01-30 13:00:00,IT Park Road,366.0,13,0,1,Lowest-volume pattern
+2025-01-30 13:00:00,Market Street,693.0,13,0,0,Highest-volume pattern
+2025-01-30 13:00:00,Residential Road,300.0,13,0,1,Lowest-volume pattern
+2025-01-30 13:00:00,Ring Road,660.0,13,0,0,Highest-volume pattern
+2025-01-30 14:00:00,Central Junction,606.0,14,0,0,Highest-volume pattern
+2025-01-30 14:00:00,IT Park Road,305.0,14,0,1,Lowest-volume pattern
+2025-01-30 14:00:00,Market Street,586.0,14,0,0,Highest-volume pattern
+2025-01-30 14:00:00,Residential Road,340.0,14,0,1,Lowest-volume pattern
+2025-01-30 14:00:00,Ring Road,575.0,14,0,0,Highest-volume pattern
+2025-01-30 15:00:00,Central Junction,627.0,15,0,0,Highest-volume pattern
+2025-01-30 15:00:00,IT Park Road,494.0,15,0,0,Highest-volume pattern
+2025-01-30 15:00:00,Market Street,542.0,15,0,0,Highest-volume pattern
+2025-01-30 15:00:00,Residential Road,430.0,15,0,1,Lowest-volume pattern
+2025-01-30 15:00:00,Ring Road,623.0,15,0,0,Highest-volume pattern
+2025-01-30 16:00:00,Central Junction,858.0,16,0,0,Highest-volume pattern
+2025-01-30 16:00:00,IT Park Road,800.0,16,0,0,Highest-volume pattern
+2025-01-30 16:00:00,Market Street,771.0,16,0,0,Highest-volume pattern
+2025-01-30 16:00:00,Residential Road,524.0,16,0,0,Highest-volume pattern
+2025-01-30 16:00:00,Ring Road,844.0,16,0,0,Highest-volume pattern
+2025-01-30 17:00:00,Central Junction,1019.0,17,0,0,Highest-volume pattern
+2025-01-30 17:00:00,IT Park Road,1046.0,17,0,0,Highest-volume pattern
+2025-01-30 17:00:00,Market Street,792.0,17,0,0,Highest-volume pattern
+2025-01-30 17:00:00,Residential Road,816.0,17,0,0,Highest-volume pattern
+2025-01-30 17:00:00,Ring Road,1044.0,17,0,0,Highest-volume pattern
+2025-01-30 18:00:00,Central Junction,1038.0,18,0,0,Highest-volume pattern
+2025-01-30 18:00:00,IT Park Road,1070.0,18,0,0,Highest-volume pattern
+2025-01-30 18:00:00,Market Street,951.0,18,0,0,Highest-volume pattern
+2025-01-30 18:00:00,Residential Road,686.0,18,0,0,Highest-volume pattern
+2025-01-30 18:00:00,Ring Road,1049.0,18,0,0,Highest-volume pattern
+2025-01-30 19:00:00,Central Junction,918.0,19,0,0,Highest-volume pattern
+2025-01-30 19:00:00,IT Park Road,1066.0,19,0,0,Highest-volume pattern
+2025-01-30 19:00:00,Market Street,701.0,19,0,0,Highest-volume pattern
+2025-01-30 19:00:00,Residential Road,649.0,19,0,0,Highest-volume pattern
+2025-01-30 19:00:00,Ring Road,911.0,19,0,0,Highest-volume pattern
+2025-01-30 20:00:00,Central Junction,624.0,20,0,0,Highest-volume pattern
+2025-01-30 20:00:00,IT Park Road,576.0,20,0,0,Highest-volume pattern
+2025-01-30 20:00:00,Market Street,361.0,20,0,1,Lowest-volume pattern
+2025-01-30 20:00:00,Residential Road,604.0,20,0,0,Highest-volume pattern
+2025-01-30 20:00:00,Ring Road,645.0,20,0,0,Highest-volume pattern
+2025-01-30 21:00:00,Central Junction,399.0,21,0,1,Lowest-volume pattern
+2025-01-30 21:00:00,IT Park Road,352.0,21,0,1,Lowest-volume pattern
+2025-01-30 21:00:00,Market Street,179.0,21,0,1,Lowest-volume pattern
+2025-01-30 21:00:00,Residential Road,261.0,21,0,1,Lowest-volume pattern
+2025-01-30 21:00:00,Ring Road,363.0,21,0,1,Lowest-volume pattern
+2025-01-30 22:00:00,Central Junction,253.0,22,0,1,Lowest-volume pattern
+2025-01-30 22:00:00,IT Park Road,86.0,22,0,1,Lowest-volume pattern
+2025-01-30 22:00:00,Market Street,224.0,22,0,1,Lowest-volume pattern
+2025-01-30 22:00:00,Residential Road,223.0,22,0,1,Lowest-volume pattern
+2025-01-30 22:00:00,Ring Road,366.0,22,0,1,Lowest-volume pattern
+2025-01-30 23:00:00,Central Junction,245.0,23,0,1,Lowest-volume pattern
+2025-01-30 23:00:00,IT Park Road,19.0,23,0,1,Lowest-volume pattern
+2025-01-30 23:00:00,Market Street,122.0,23,0,1,Lowest-volume pattern
+2025-01-30 23:00:00,Residential Road,76.0,23,0,1,Lowest-volume pattern
+2025-01-30 23:00:00,Ring Road,224.0,23,0,1,Lowest-volume pattern
+2025-01-31 00:00:00,Central Junction,111.0,0,0,1,Lowest-volume pattern
+2025-01-31 00:00:00,IT Park Road,83.0,0,0,1,Lowest-volume pattern
+2025-01-31 00:00:00,Market Street,203.0,0,0,1,Lowest-volume pattern
+2025-01-31 00:00:00,Residential Road,223.0,0,0,1,Lowest-volume pattern
+2025-01-31 00:00:00,Ring Road,218.0,0,0,1,Lowest-volume pattern
+2025-01-31 01:00:00,Central Junction,186.0,1,0,1,Lowest-volume pattern
+2025-01-31 01:00:00,IT Park Road,118.0,1,0,1,Lowest-volume pattern
+2025-01-31 01:00:00,Market Street,50.0,1,0,1,Lowest-volume pattern
+2025-01-31 01:00:00,Residential Road,141.0,1,0,1,Lowest-volume pattern
+2025-01-31 01:00:00,Ring Road,230.0,1,0,1,Lowest-volume pattern
+2025-01-31 02:00:00,Central Junction,113.0,2,0,1,Lowest-volume pattern
+2025-01-31 02:00:00,IT Park Road,163.0,2,0,1,Lowest-volume pattern
+2025-01-31 02:00:00,Market Street,13.0,2,0,1,Lowest-volume pattern
+2025-01-31 02:00:00,Residential Road,147.0,2,0,1,Lowest-volume pattern
+2025-01-31 02:00:00,Ring Road,252.0,2,0,1,Lowest-volume pattern
+2025-01-31 03:00:00,Central Junction,191.0,3,0,1,Lowest-volume pattern
+2025-01-31 03:00:00,IT Park Road,13.0,3,0,1,Lowest-volume pattern
+2025-01-31 03:00:00,Market Street,80.0,3,0,1,Lowest-volume pattern
+2025-01-31 03:00:00,Residential Road,162.0,3,0,1,Lowest-volume pattern
+2025-01-31 03:00:00,Ring Road,274.0,3,0,1,Lowest-volume pattern
+2025-01-31 04:00:00,Central Junction,208.0,4,0,1,Lowest-volume pattern
+2025-01-31 04:00:00,IT Park Road,129.0,4,0,1,Lowest-volume pattern
+2025-01-31 04:00:00,Market Street,0.0,4,0,1,Lowest-volume pattern
+2025-01-31 04:00:00,Residential Road,199.0,4,0,1,Lowest-volume pattern
+2025-01-31 04:00:00,Ring Road,220.0,4,0,1,Lowest-volume pattern
+2025-01-31 05:00:00,Central Junction,266.0,5,0,1,Lowest-volume pattern
+2025-01-31 05:00:00,IT Park Road,125.0,5,0,1,Lowest-volume pattern
+2025-01-31 05:00:00,Market Street,128.0,5,0,1,Lowest-volume pattern
+2025-01-31 05:00:00,Residential Road,377.0,5,0,1,Lowest-volume pattern
+2025-01-31 05:00:00,Ring Road,250.0,5,0,1,Lowest-volume pattern
+2025-01-31 06:00:00,Central Junction,499.0,6,0,0,Highest-volume pattern
+2025-01-31 06:00:00,IT Park Road,351.0,6,0,1,Lowest-volume pattern
+2025-01-31 06:00:00,Market Street,227.0,6,0,1,Lowest-volume pattern
+2025-01-31 06:00:00,Residential Road,243.0,6,0,1,Lowest-volume pattern
+2025-01-31 06:00:00,Ring Road,538.0,6,0,0,Highest-volume pattern
+2025-01-31 07:00:00,Central Junction,964.0,7,0,0,Highest-volume pattern
+2025-01-31 07:00:00,IT Park Road,911.0,7,0,0,Highest-volume pattern
+2025-01-31 07:00:00,Market Street,486.0,7,0,0,Highest-volume pattern
+2025-01-31 07:00:00,Residential Road,606.0,7,0,0,Highest-volume pattern
+2025-01-31 07:00:00,Ring Road,808.0,7,0,0,Highest-volume pattern
+2025-01-31 08:00:00,Central Junction,1012.0,8,0,0,Highest-volume pattern
+2025-01-31 08:00:00,IT Park Road,1355.0,8,0,0,Highest-volume pattern
+2025-01-31 08:00:00,Market Street,718.0,8,0,0,Highest-volume pattern
+2025-01-31 08:00:00,Residential Road,514.0,8,0,0,Highest-volume pattern
+2025-01-31 08:00:00,Ring Road,1116.0,8,0,0,Highest-volume pattern
+2025-01-31 09:00:00,Central Junction,1045.0,9,0,0,Highest-volume pattern
+2025-01-31 09:00:00,IT Park Road,859.0,9,0,0,Highest-volume pattern
+2025-01-31 09:00:00,Market Street,631.0,9,0,0,Highest-volume pattern
+2025-01-31 09:00:00,Residential Road,466.0,9,0,1,Lowest-volume pattern
+2025-01-31 09:00:00,Ring Road,977.0,9,0,0,Highest-volume pattern
+2025-01-31 10:00:00,Central Junction,623.0,10,0,0,Highest-volume pattern
+2025-01-31 10:00:00,IT Park Road,559.0,10,0,0,Highest-volume pattern
+2025-01-31 10:00:00,Market Street,575.0,10,0,0,Highest-volume pattern
+2025-01-31 10:00:00,Residential Road,383.0,10,0,1,Lowest-volume pattern
+2025-01-31 10:00:00,Ring Road,696.0,10,0,0,Highest-volume pattern
+2025-01-31 11:00:00,Central Junction,620.0,11,0,0,Highest-volume pattern
+2025-01-31 11:00:00,IT Park Road,405.0,11,0,1,Lowest-volume pattern
+2025-01-31 11:00:00,Market Street,475.0,11,0,0,Highest-volume pattern
+2025-01-31 11:00:00,Residential Road,275.0,11,0,1,Lowest-volume pattern
+2025-01-31 11:00:00,Ring Road,627.0,11,0,0,Highest-volume pattern
+2025-01-31 12:00:00,Central Junction,485.0,12,0,0,Highest-volume pattern
+2025-01-31 12:00:00,IT Park Road,436.0,12,0,1,Lowest-volume pattern
+2025-01-31 12:00:00,Market Street,537.0,12,0,0,Highest-volume pattern
+2025-01-31 12:00:00,Residential Road,458.0,12,0,1,Lowest-volume pattern
+2025-01-31 12:00:00,Ring Road,584.0,12,0,0,Highest-volume pattern
+2025-01-31 13:00:00,Central Junction,421.0,13,0,1,Lowest-volume pattern
+2025-01-31 13:00:00,IT Park Road,374.0,13,0,1,Lowest-volume pattern
+2025-01-31 13:00:00,Market Street,649.0,13,0,0,Highest-volume pattern
+2025-01-31 13:00:00,Residential Road,458.0,13,0,1,Lowest-volume pattern
+2025-01-31 13:00:00,Ring Road,549.0,13,0,0,Highest-volume pattern
+2025-01-31 14:00:00,Central Junction,553.0,14,0,0,Highest-volume pattern
+2025-01-31 14:00:00,IT Park Road,429.0,14,0,1,Lowest-volume pattern
+2025-01-31 14:00:00,Market Street,608.0,14,0,0,Highest-volume pattern
+2025-01-31 14:00:00,Residential Road,429.0,14,0,1,Lowest-volume pattern
+2025-01-31 14:00:00,Ring Road,555.0,14,0,0,Highest-volume pattern
+2025-01-31 15:00:00,Central Junction,615.0,15,0,0,Highest-volume pattern
+2025-01-31 15:00:00,IT Park Road,464.0,15,0,0,Highest-volume pattern
+2025-01-31 15:00:00,Market Street,623.0,15,0,0,Highest-volume pattern
+2025-01-31 15:00:00,Residential Road,503.0,15,0,0,Highest-volume pattern
+2025-01-31 15:00:00,Ring Road,676.0,15,0,0,Highest-volume pattern
+2025-01-31 16:00:00,Central Junction,785.0,16,0,0,Highest-volume pattern
+2025-01-31 16:00:00,IT Park Road,594.0,16,0,0,Highest-volume pattern
+2025-01-31 16:00:00,Market Street,874.0,16,0,0,Highest-volume pattern
+2025-01-31 16:00:00,Residential Road,492.0,16,0,0,Highest-volume pattern
+2025-01-31 16:00:00,Ring Road,897.0,16,0,0,Highest-volume pattern
+2025-01-31 17:00:00,Central Junction,901.0,17,0,0,Highest-volume pattern
+2025-01-31 17:00:00,IT Park Road,1041.0,17,0,0,Highest-volume pattern
+2025-01-31 17:00:00,Market Street,777.0,17,0,0,Highest-volume pattern
+2025-01-31 17:00:00,Residential Road,758.0,17,0,0,Highest-volume pattern
+2025-01-31 17:00:00,Ring Road,1077.0,17,0,0,Highest-volume pattern
+2025-01-31 18:00:00,Central Junction,1070.0,18,0,0,Highest-volume pattern
+2025-01-31 18:00:00,IT Park Road,948.0,18,0,0,Highest-volume pattern
+2025-01-31 18:00:00,Market Street,947.0,18,0,0,Highest-volume pattern
+2025-01-31 18:00:00,Residential Road,688.0,18,0,0,Highest-volume pattern
+2025-01-31 18:00:00,Ring Road,1255.0,18,0,0,Highest-volume pattern
+2025-01-31 19:00:00,Central Junction,941.0,19,0,0,Highest-volume pattern
+2025-01-31 19:00:00,IT Park Road,855.0,19,0,0,Highest-volume pattern
+2025-01-31 19:00:00,Market Street,606.0,19,0,0,Highest-volume pattern
+2025-01-31 19:00:00,Residential Road,445.0,19,0,1,Lowest-volume pattern
+2025-01-31 19:00:00,Ring Road,789.0,19,0,0,Highest-volume pattern
+2025-01-31 20:00:00,Central Junction,724.0,20,0,0,Highest-volume pattern
+2025-01-31 20:00:00,IT Park Road,468.0,20,0,1,Lowest-volume pattern
+2025-01-31 20:00:00,Market Street,463.0,20,0,1,Lowest-volume pattern
+2025-01-31 20:00:00,Residential Road,361.0,20,0,1,Lowest-volume pattern
+2025-01-31 20:00:00,Ring Road,660.0,20,0,0,Highest-volume pattern
+2025-01-31 21:00:00,Central Junction,461.0,21,0,1,Lowest-volume pattern
+2025-01-31 21:00:00,IT Park Road,360.0,21,0,1,Lowest-volume pattern
+2025-01-31 21:00:00,Market Street,335.0,21,0,1,Lowest-volume pattern
+2025-01-31 21:00:00,Residential Road,271.0,21,0,1,Lowest-volume pattern
+2025-01-31 21:00:00,Ring Road,416.0,21,0,1,Lowest-volume pattern
+2025-01-31 22:00:00,Central Junction,328.0,22,0,1,Lowest-volume pattern
+2025-01-31 22:00:00,IT Park Road,136.0,22,0,1,Lowest-volume pattern
+2025-01-31 22:00:00,Market Street,169.0,22,0,1,Lowest-volume pattern
+2025-01-31 22:00:00,Residential Road,65.0,22,0,1,Lowest-volume pattern
+2025-01-31 22:00:00,Ring Road,206.0,22,0,1,Lowest-volume pattern
+2025-01-31 23:00:00,Central Junction,243.0,23,0,1,Lowest-volume pattern
+2025-01-31 23:00:00,IT Park Road,127.0,23,0,1,Lowest-volume pattern
+2025-01-31 23:00:00,Market Street,124.0,23,0,1,Lowest-volume pattern
+2025-01-31 23:00:00,Residential Road,239.0,23,0,1,Lowest-volume pattern
+2025-01-31 23:00:00,Ring Road,202.0,23,0,1,Lowest-volume pattern
+2025-02-01 00:00:00,Central Junction,205.0,0,1,1,Lowest-volume pattern
+2025-02-01 00:00:00,IT Park Road,81.0,0,1,1,Lowest-volume pattern
+2025-02-01 00:00:00,Market Street,88.0,0,1,1,Lowest-volume pattern
+2025-02-01 00:00:00,Residential Road,189.0,0,1,1,Lowest-volume pattern
+2025-02-01 00:00:00,Ring Road,339.0,0,1,1,Lowest-volume pattern
+2025-02-01 01:00:00,Central Junction,187.0,1,1,1,Lowest-volume pattern
+2025-02-01 01:00:00,IT Park Road,97.0,1,1,1,Lowest-volume pattern
+2025-02-01 01:00:00,Market Street,165.0,1,1,1,Lowest-volume pattern
+2025-02-01 01:00:00,Residential Road,214.0,1,1,1,Lowest-volume pattern
+2025-02-01 01:00:00,Ring Road,227.0,1,1,1,Lowest-volume pattern
+2025-02-01 02:00:00,Central Junction,228.0,2,1,1,Lowest-volume pattern
+2025-02-01 02:00:00,IT Park Road,132.0,2,1,1,Lowest-volume pattern
+2025-02-01 02:00:00,Market Street,160.0,2,1,1,Lowest-volume pattern
+2025-02-01 02:00:00,Residential Road,150.0,2,1,1,Lowest-volume pattern
+2025-02-01 02:00:00,Ring Road,339.0,2,1,1,Lowest-volume pattern
+2025-02-01 03:00:00,Central Junction,182.0,3,1,1,Lowest-volume pattern
+2025-02-01 03:00:00,IT Park Road,102.0,3,1,1,Lowest-volume pattern
+2025-02-01 03:00:00,Market Street,93.0,3,1,1,Lowest-volume pattern
+2025-02-01 03:00:00,Residential Road,149.0,3,1,1,Lowest-volume pattern
+2025-02-01 03:00:00,Ring Road,262.0,3,1,1,Lowest-volume pattern
+2025-02-01 04:00:00,Central Junction,185.0,4,1,1,Lowest-volume pattern
+2025-02-01 04:00:00,IT Park Road,103.0,4,1,1,Lowest-volume pattern
+2025-02-01 04:00:00,Market Street,85.0,4,1,1,Lowest-volume pattern
+2025-02-01 04:00:00,Residential Road,147.0,4,1,1,Lowest-volume pattern
+2025-02-01 04:00:00,Ring Road,325.0,4,1,1,Lowest-volume pattern
+2025-02-01 05:00:00,Central Junction,293.0,5,1,1,Lowest-volume pattern
+2025-02-01 05:00:00,IT Park Road,212.0,5,1,1,Lowest-volume pattern
+2025-02-01 05:00:00,Market Street,181.0,5,1,1,Lowest-volume pattern
+2025-02-01 05:00:00,Residential Road,152.0,5,1,1,Lowest-volume pattern
+2025-02-01 05:00:00,Ring Road,342.0,5,1,1,Lowest-volume pattern
+2025-02-01 06:00:00,Central Junction,316.0,6,1,1,Lowest-volume pattern
+2025-02-01 06:00:00,IT Park Road,338.0,6,1,1,Lowest-volume pattern
+2025-02-01 06:00:00,Market Street,230.0,6,1,1,Lowest-volume pattern
+2025-02-01 06:00:00,Residential Road,237.0,6,1,1,Lowest-volume pattern
+2025-02-01 06:00:00,Ring Road,431.0,6,1,1,Lowest-volume pattern
+2025-02-01 07:00:00,Central Junction,494.0,7,1,0,Highest-volume pattern
+2025-02-01 07:00:00,IT Park Road,417.0,7,1,1,Lowest-volume pattern
+2025-02-01 07:00:00,Market Street,457.0,7,1,1,Lowest-volume pattern
+2025-02-01 07:00:00,Residential Road,401.0,7,1,1,Lowest-volume pattern
+2025-02-01 07:00:00,Ring Road,409.0,7,1,1,Lowest-volume pattern
+2025-02-01 08:00:00,Central Junction,916.0,8,1,0,Highest-volume pattern
+2025-02-01 08:00:00,IT Park Road,613.0,8,1,0,Highest-volume pattern
+2025-02-01 08:00:00,Market Street,448.0,8,1,1,Lowest-volume pattern
+2025-02-01 08:00:00,Residential Road,502.0,8,1,0,Highest-volume pattern
+2025-02-01 08:00:00,Ring Road,873.0,8,1,0,Highest-volume pattern
+2025-02-01 09:00:00,Central Junction,519.0,9,1,0,Highest-volume pattern
+2025-02-01 09:00:00,IT Park Road,450.0,9,1,1,Lowest-volume pattern
+2025-02-01 09:00:00,Market Street,566.0,9,1,0,Highest-volume pattern
+2025-02-01 09:00:00,Residential Road,318.0,9,1,1,Lowest-volume pattern
+2025-02-01 09:00:00,Ring Road,744.0,9,1,0,Highest-volume pattern
+2025-02-01 10:00:00,Central Junction,445.0,10,1,1,Lowest-volume pattern
+2025-02-01 10:00:00,IT Park Road,265.0,10,1,1,Lowest-volume pattern
+2025-02-01 10:00:00,Market Street,567.0,10,1,0,Highest-volume pattern
+2025-02-01 10:00:00,Residential Road,328.0,10,1,1,Lowest-volume pattern
+2025-02-01 10:00:00,Ring Road,482.0,10,1,0,Highest-volume pattern
+2025-02-01 11:00:00,Central Junction,354.0,11,1,1,Lowest-volume pattern
+2025-02-01 11:00:00,IT Park Road,406.0,11,1,1,Lowest-volume pattern
+2025-02-01 11:00:00,Market Street,529.0,11,1,0,Highest-volume pattern
+2025-02-01 11:00:00,Residential Road,279.0,11,1,1,Lowest-volume pattern
+2025-02-01 11:00:00,Ring Road,581.0,11,1,0,Highest-volume pattern
+2025-02-01 12:00:00,Central Junction,448.0,12,1,1,Lowest-volume pattern
+2025-02-01 12:00:00,IT Park Road,374.0,12,1,1,Lowest-volume pattern
+2025-02-01 12:00:00,Market Street,637.0,12,1,0,Highest-volume pattern
+2025-02-01 12:00:00,Residential Road,303.0,12,1,1,Lowest-volume pattern
+2025-02-01 12:00:00,Ring Road,410.0,12,1,1,Lowest-volume pattern
+2025-02-01 13:00:00,Central Junction,449.0,13,1,1,Lowest-volume pattern
+2025-02-01 13:00:00,IT Park Road,303.0,13,1,1,Lowest-volume pattern
+2025-02-01 13:00:00,Market Street,844.0,13,1,0,Highest-volume pattern
+2025-02-01 13:00:00,Residential Road,310.0,13,1,1,Lowest-volume pattern
+2025-02-01 13:00:00,Ring Road,625.0,13,1,0,Highest-volume pattern
+2025-02-01 14:00:00,Central Junction,432.0,14,1,1,Lowest-volume pattern
+2025-02-01 14:00:00,IT Park Road,212.0,14,1,1,Lowest-volume pattern
+2025-02-01 14:00:00,Market Street,854.0,14,1,0,Highest-volume pattern
+2025-02-01 14:00:00,Residential Road,343.0,14,1,1,Lowest-volume pattern
+2025-02-01 14:00:00,Ring Road,510.0,14,1,0,Highest-volume pattern
+2025-02-01 15:00:00,Central Junction,510.0,15,1,0,Highest-volume pattern
+2025-02-01 15:00:00,IT Park Road,290.0,15,1,1,Lowest-volume pattern
+2025-02-01 15:00:00,Market Street,776.0,15,1,0,Highest-volume pattern
+2025-02-01 15:00:00,Residential Road,357.0,15,1,1,Lowest-volume pattern
+2025-02-01 15:00:00,Ring Road,572.0,15,1,0,Highest-volume pattern
+2025-02-01 16:00:00,Central Junction,671.0,16,1,0,Highest-volume pattern
+2025-02-01 16:00:00,Market Street,830.0,16,1,0,Highest-volume pattern
+2025-02-01 16:00:00,Residential Road,426.0,16,1,1,Lowest-volume pattern
+2025-02-01 16:00:00,Ring Road,678.0,16,1,0,Highest-volume pattern
+2025-02-01 17:00:00,Central Junction,620.0,17,1,0,Highest-volume pattern
+2025-02-01 17:00:00,IT Park Road,560.0,17,1,0,Highest-volume pattern
+2025-02-01 17:00:00,Market Street,674.0,17,1,0,Highest-volume pattern
+2025-02-01 17:00:00,Residential Road,404.0,17,1,1,Lowest-volume pattern
+2025-02-01 17:00:00,Ring Road,791.0,17,1,0,Highest-volume pattern
+2025-02-01 18:00:00,Central Junction,773.0,18,1,0,Highest-volume pattern
+2025-02-01 18:00:00,IT Park Road,607.0,18,1,0,Highest-volume pattern
+2025-02-01 18:00:00,Market Street,795.0,18,1,0,Highest-volume pattern
+2025-02-01 18:00:00,Residential Road,448.0,18,1,1,Lowest-volume pattern
+2025-02-01 18:00:00,Ring Road,669.0,18,1,0,Highest-volume pattern
+2025-02-01 19:00:00,Central Junction,462.0,19,1,1,Lowest-volume pattern
+2025-02-01 19:00:00,IT Park Road,428.0,19,1,1,Lowest-volume pattern
+2025-02-01 19:00:00,Market Street,483.0,19,1,0,Highest-volume pattern
+2025-02-01 19:00:00,Residential Road,513.0,19,1,0,Highest-volume pattern
+2025-02-01 19:00:00,Ring Road,626.0,19,1,0,Highest-volume pattern
+2025-02-01 20:00:00,Central Junction,303.0,20,1,1,Lowest-volume pattern
+2025-02-01 20:00:00,IT Park Road,350.0,20,1,1,Lowest-volume pattern
+2025-02-01 20:00:00,Market Street,324.0,20,1,1,Lowest-volume pattern
+2025-02-01 20:00:00,Residential Road,278.0,20,1,1,Lowest-volume pattern
+2025-02-01 20:00:00,Ring Road,510.0,20,1,0,Highest-volume pattern
+2025-02-01 21:00:00,Central Junction,222.0,21,1,1,Lowest-volume pattern
+2025-02-01 21:00:00,IT Park Road,143.0,21,1,1,Lowest-volume pattern
+2025-02-01 21:00:00,Market Street,233.0,21,1,1,Lowest-volume pattern
+2025-02-01 21:00:00,Residential Road,255.0,21,1,1,Lowest-volume pattern
+2025-02-01 21:00:00,Ring Road,311.0,21,1,1,Lowest-volume pattern
+2025-02-01 22:00:00,Central Junction,256.0,22,1,1,Lowest-volume pattern
+2025-02-01 22:00:00,IT Park Road,92.0,22,1,1,Lowest-volume pattern
+2025-02-01 22:00:00,Market Street,224.0,22,1,1,Lowest-volume pattern
+2025-02-01 22:00:00,Residential Road,96.0,22,1,1,Lowest-volume pattern
+2025-02-01 22:00:00,Ring Road,394.0,22,1,1,Lowest-volume pattern
+2025-02-01 23:00:00,Central Junction,186.0,23,1,1,Lowest-volume pattern
+2025-02-01 23:00:00,IT Park Road,0.0,23,1,1,Lowest-volume pattern
+2025-02-01 23:00:00,Market Street,173.0,23,1,1,Lowest-volume pattern
+2025-02-01 23:00:00,Residential Road,153.0,23,1,1,Lowest-volume pattern
+2025-02-01 23:00:00,Ring Road,334.0,23,1,1,Lowest-volume pattern
+2025-02-02 00:00:00,Central Junction,137.0,0,1,1,Lowest-volume pattern
+2025-02-02 00:00:00,IT Park Road,91.0,0,1,1,Lowest-volume pattern
+2025-02-02 00:00:00,Market Street,159.0,0,1,1,Lowest-volume pattern
+2025-02-02 00:00:00,Residential Road,166.0,0,1,1,Lowest-volume pattern
+2025-02-02 00:00:00,Ring Road,302.0,0,1,1,Lowest-volume pattern
+2025-02-02 01:00:00,Central Junction,266.0,1,1,1,Lowest-volume pattern
+2025-02-02 01:00:00,IT Park Road,96.0,1,1,1,Lowest-volume pattern
+2025-02-02 01:00:00,Market Street,120.0,1,1,1,Lowest-volume pattern
+2025-02-02 01:00:00,Residential Road,228.0,1,1,1,Lowest-volume pattern
+2025-02-02 01:00:00,Ring Road,338.0,1,1,1,Lowest-volume pattern
+2025-02-02 02:00:00,Central Junction,195.0,2,1,1,Lowest-volume pattern
+2025-02-02 02:00:00,IT Park Road,96.0,2,1,1,Lowest-volume pattern
+2025-02-02 02:00:00,Market Street,104.0,2,1,1,Lowest-volume pattern
+2025-02-02 02:00:00,Residential Road,156.0,2,1,1,Lowest-volume pattern
+2025-02-02 02:00:00,Ring Road,329.0,2,1,1,Lowest-volume pattern
+2025-02-02 03:00:00,Central Junction,168.0,3,1,1,Lowest-volume pattern
+2025-02-02 03:00:00,IT Park Road,105.0,3,1,1,Lowest-volume pattern
+2025-02-02 03:00:00,Market Street,235.0,3,1,1,Lowest-volume pattern
+2025-02-02 03:00:00,Residential Road,181.0,3,1,1,Lowest-volume pattern
+2025-02-02 03:00:00,Ring Road,299.0,3,1,1,Lowest-volume pattern
+2025-02-02 04:00:00,Central Junction,197.0,4,1,1,Lowest-volume pattern
+2025-02-02 04:00:00,IT Park Road,36.0,4,1,1,Lowest-volume pattern
+2025-02-02 04:00:00,Market Street,107.0,4,1,1,Lowest-volume pattern
+2025-02-02 04:00:00,Residential Road,153.0,4,1,1,Lowest-volume pattern
+2025-02-02 04:00:00,Ring Road,256.0,4,1,1,Lowest-volume pattern
+2025-02-02 05:00:00,Central Junction,213.0,5,1,1,Lowest-volume pattern
+2025-02-02 05:00:00,IT Park Road,185.0,5,1,1,Lowest-volume pattern
+2025-02-02 05:00:00,Market Street,134.0,5,1,1,Lowest-volume pattern
+2025-02-02 05:00:00,Residential Road,172.0,5,1,1,Lowest-volume pattern
+2025-02-02 05:00:00,Ring Road,358.0,5,1,1,Lowest-volume pattern
+2025-02-02 06:00:00,Central Junction,285.0,6,1,1,Lowest-volume pattern
+2025-02-02 06:00:00,IT Park Road,293.0,6,1,1,Lowest-volume pattern
+2025-02-02 06:00:00,Market Street,308.0,6,1,1,Lowest-volume pattern
+2025-02-02 06:00:00,Residential Road,235.0,6,1,1,Lowest-volume pattern
+2025-02-02 06:00:00,Ring Road,480.0,6,1,1,Lowest-volume pattern
+2025-02-02 07:00:00,Central Junction,746.0,7,1,0,Highest-volume pattern
+2025-02-02 07:00:00,IT Park Road,508.0,7,1,0,Highest-volume pattern
+2025-02-02 07:00:00,Market Street,427.0,7,1,1,Lowest-volume pattern
+2025-02-02 07:00:00,Residential Road,302.0,7,1,1,Lowest-volume pattern
+2025-02-02 07:00:00,Ring Road,511.0,7,1,0,Highest-volume pattern
+2025-02-02 08:00:00,Central Junction,697.0,8,1,0,Highest-volume pattern
+2025-02-02 08:00:00,IT Park Road,471.0,8,1,1,Lowest-volume pattern
+2025-02-02 08:00:00,Market Street,649.0,8,1,0,Highest-volume pattern
+2025-02-02 08:00:00,Residential Road,327.0,8,1,1,Lowest-volume pattern
+2025-02-02 08:00:00,Ring Road,750.0,8,1,0,Highest-volume pattern
+2025-02-02 09:00:00,Central Junction,692.0,9,1,0,Highest-volume pattern
+2025-02-02 09:00:00,IT Park Road,559.0,9,1,0,Highest-volume pattern
+2025-02-02 09:00:00,Market Street,736.0,9,1,0,Highest-volume pattern
+2025-02-02 09:00:00,Residential Road,433.0,9,1,1,Lowest-volume pattern
+2025-02-02 09:00:00,Ring Road,603.0,9,1,0,Highest-volume pattern
+2025-02-02 10:00:00,Central Junction,563.0,10,1,0,Highest-volume pattern
+2025-02-02 10:00:00,IT Park Road,291.0,10,1,1,Lowest-volume pattern
+2025-02-02 10:00:00,Market Street,592.0,10,1,0,Highest-volume pattern
+2025-02-02 10:00:00,Residential Road,254.0,10,1,1,Lowest-volume pattern
+2025-02-02 10:00:00,Ring Road,421.0,10,1,1,Lowest-volume pattern
+2025-02-02 11:00:00,Central Junction,468.0,11,1,0,Highest-volume pattern
+2025-02-02 11:00:00,IT Park Road,266.0,11,1,1,Lowest-volume pattern
+2025-02-02 11:00:00,Market Street,418.0,11,1,1,Lowest-volume pattern
+2025-02-02 11:00:00,Residential Road,297.0,11,1,1,Lowest-volume pattern
+2025-02-02 11:00:00,Ring Road,496.0,11,1,0,Highest-volume pattern
+2025-02-02 12:00:00,Central Junction,412.0,12,1,1,Lowest-volume pattern
+2025-02-02 12:00:00,IT Park Road,242.0,12,1,1,Lowest-volume pattern
+2025-02-02 12:00:00,Market Street,677.0,12,1,0,Highest-volume pattern
+2025-02-02 12:00:00,Residential Road,342.0,12,1,1,Lowest-volume pattern
+2025-02-02 12:00:00,Ring Road,507.0,12,1,0,Highest-volume pattern
+2025-02-02 13:00:00,Central Junction,473.0,13,1,0,Highest-volume pattern
+2025-02-02 13:00:00,IT Park Road,357.0,13,1,1,Lowest-volume pattern
+2025-02-02 13:00:00,Market Street,722.0,13,1,0,Highest-volume pattern
+2025-02-02 13:00:00,Residential Road,383.0,13,1,1,Lowest-volume pattern
+2025-02-02 13:00:00,Ring Road,472.0,13,1,0,Highest-volume pattern
+2025-02-02 14:00:00,IT Park Road,95.0,14,1,1,Lowest-volume pattern
+2025-02-02 14:00:00,Market Street,787.0,14,1,0,Highest-volume pattern
+2025-02-02 14:00:00,Residential Road,220.0,14,1,1,Lowest-volume pattern
+2025-02-02 14:00:00,Ring Road,495.0,14,1,0,Highest-volume pattern
+2025-02-02 15:00:00,Central Junction,496.0,15,1,0,Highest-volume pattern
+2025-02-02 15:00:00,IT Park Road,326.0,15,1,1,Lowest-volume pattern
+2025-02-02 15:00:00,Market Street,725.0,15,1,0,Highest-volume pattern
+2025-02-02 15:00:00,Residential Road,353.0,15,1,1,Lowest-volume pattern
+2025-02-02 15:00:00,Ring Road,669.0,15,1,0,Highest-volume pattern
+2025-02-02 16:00:00,Central Junction,610.0,16,1,0,Highest-volume pattern
+2025-02-02 16:00:00,IT Park Road,410.0,16,1,1,Lowest-volume pattern
+2025-02-02 16:00:00,Market Street,841.0,16,1,0,Highest-volume pattern
+2025-02-02 16:00:00,Residential Road,368.0,16,1,1,Lowest-volume pattern
+2025-02-02 16:00:00,Ring Road,572.0,16,1,0,Highest-volume pattern
+2025-02-02 17:00:00,Central Junction,610.0,17,1,0,Highest-volume pattern
+2025-02-02 17:00:00,IT Park Road,458.0,17,1,1,Lowest-volume pattern
+2025-02-02 17:00:00,Market Street,707.0,17,1,0,Highest-volume pattern
+2025-02-02 17:00:00,Residential Road,423.0,17,1,1,Lowest-volume pattern
+2025-02-02 17:00:00,Ring Road,573.0,17,1,0,Highest-volume pattern
+2025-02-02 18:00:00,Central Junction,613.0,18,1,0,Highest-volume pattern
+2025-02-02 18:00:00,IT Park Road,642.0,18,1,0,Highest-volume pattern
+2025-02-02 18:00:00,Market Street,684.0,18,1,0,Highest-volume pattern
+2025-02-02 18:00:00,Residential Road,437.0,18,1,1,Lowest-volume pattern
+2025-02-02 18:00:00,Ring Road,584.0,18,1,0,Highest-volume pattern
+2025-02-02 19:00:00,Central Junction,700.0,19,1,0,Highest-volume pattern
+2025-02-02 19:00:00,IT Park Road,461.0,19,1,1,Lowest-volume pattern
+2025-02-02 19:00:00,Market Street,558.0,19,1,0,Highest-volume pattern
+2025-02-02 19:00:00,Residential Road,416.0,19,1,1,Lowest-volume pattern
+2025-02-02 19:00:00,Ring Road,620.0,19,1,0,Highest-volume pattern
+2025-02-02 20:00:00,Central Junction,361.0,20,1,1,Lowest-volume pattern
+2025-02-02 20:00:00,IT Park Road,356.0,20,1,1,Lowest-volume pattern
+2025-02-02 20:00:00,Market Street,452.0,20,1,1,Lowest-volume pattern
+2025-02-02 20:00:00,Residential Road,274.0,20,1,1,Lowest-volume pattern
+2025-02-02 20:00:00,Ring Road,499.0,20,1,0,Highest-volume pattern
+2025-02-02 21:00:00,IT Park Road,183.0,21,1,1,Lowest-volume pattern
+2025-02-02 21:00:00,Market Street,196.0,21,1,1,Lowest-volume pattern
+2025-02-02 21:00:00,Residential Road,174.0,21,1,1,Lowest-volume pattern
+2025-02-02 21:00:00,Ring Road,399.0,21,1,1,Lowest-volume pattern
+2025-02-02 22:00:00,Central Junction,169.0,22,1,1,Lowest-volume pattern
+2025-02-02 22:00:00,IT Park Road,156.0,22,1,1,Lowest-volume pattern
+2025-02-02 22:00:00,Market Street,211.0,22,1,1,Lowest-volume pattern
+2025-02-02 22:00:00,Residential Road,152.0,22,1,1,Lowest-volume pattern
+2025-02-02 22:00:00,Ring Road,398.0,22,1,1,Lowest-volume pattern
+2025-02-02 23:00:00,Central Junction,57.0,23,1,1,Lowest-volume pattern
+2025-02-02 23:00:00,IT Park Road,78.0,23,1,1,Lowest-volume pattern
+2025-02-02 23:00:00,Market Street,125.0,23,1,1,Lowest-volume pattern
+2025-02-02 23:00:00,Residential Road,136.0,23,1,1,Lowest-volume pattern
+2025-02-02 23:00:00,Ring Road,258.0,23,1,1,Lowest-volume pattern

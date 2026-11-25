@@ -1,0 +1,3373 @@
+timestamp,location,traffic_volume
+2025-01-06 00:00:00,Central Junction,195.0
+2025-01-06 00:00:00,IT Park Road,132.0
+2025-01-06 00:00:00,Residential Road,61.0
+2025-01-06 00:00:00,Market Street,126.0
+2025-01-06 00:00:00,Ring Road,259.0
+2025-01-06 01:00:00,Central Junction,222.0
+2025-01-06 01:00:00,IT Park Road,103.0
+2025-01-06 01:00:00,Residential Road,171.0
+2025-01-06 01:00:00,Market Street,136.0
+2025-01-06 01:00:00,Ring Road,307.0
+2025-01-06 02:00:00,Central Junction,171.0
+2025-01-06 02:00:00,IT Park Road,152.0
+2025-01-06 02:00:00,Residential Road,131.0
+2025-01-06 02:00:00,Market Street,143.0
+2025-01-06 02:00:00,Ring Road,282.0
+2025-01-06 03:00:00,Central Junction,285.0
+2025-01-06 03:00:00,IT Park Road,81.0
+2025-01-06 03:00:00,Residential Road,179.0
+2025-01-06 03:00:00,Market Street,117.0
+2025-01-06 03:00:00,Ring Road,218.0
+2025-01-06 04:00:00,Central Junction,234.0
+2025-01-06 04:00:00,IT Park Road,68.0
+2025-01-06 04:00:00,Residential Road,128.0
+2025-01-06 04:00:00,Market Street,136.0
+2025-01-06 04:00:00,Ring Road,322.0
+2025-01-06 05:00:00,Central Junction,432.0
+2025-01-06 05:00:00,IT Park Road,237.0
+2025-01-06 05:00:00,Residential Road,183.0
+2025-01-06 05:00:00,Market Street,144.0
+2025-01-06 05:00:00,Ring Road,427.0
+2025-01-06 06:00:00,Central Junction,579.0
+2025-01-06 06:00:00,IT Park Road,444.0
+2025-01-06 06:00:00,Residential Road,351.0
+2025-01-06 06:00:00,Market Street,346.0
+2025-01-06 06:00:00,Ring Road,498.0
+2025-01-06 07:00:00,Central Junction,863.0
+2025-01-06 07:00:00,IT Park Road,768.0
+2025-01-06 07:00:00,Residential Road,540.0
+2025-01-06 07:00:00,Market Street,556.0
+2025-01-06 07:00:00,Ring Road,852.0
+2025-01-06 08:00:00,Central Junction,1068.0
+2025-01-06 08:00:00,IT Park Road,1039.0
+2025-01-06 08:00:00,Residential Road,590.0
+2025-01-06 08:00:00,Market Street,694.0
+2025-01-06 08:00:00,Ring Road,1024.0
+2025-01-06 09:00:00,Central Junction,1006.0
+2025-01-06 09:00:00,IT Park Road,923.0
+2025-01-06 09:00:00,Residential Road,549.0
+2025-01-06 09:00:00,Market Street,523.0
+2025-01-06 09:00:00,Ring Road,817.0
+2025-01-06 10:00:00,Central Junction,593.0
+2025-01-06 10:00:00,IT Park Road,674.0
+2025-01-06 10:00:00,Residential Road,464.0
+2025-01-06 10:00:00,Market Street,548.0
+2025-01-06 10:00:00,Ring Road,660.0
+2025-01-06 11:00:00,Central Junction,383.0
+2025-01-06 11:00:00,IT Park Road,381.0
+2025-01-06 11:00:00,Residential Road,258.0
+2025-01-06 11:00:00,Market Street,516.0
+2025-01-06 11:00:00,Ring Road,569.0
+2025-01-06 12:00:00,Central Junction,464.0
+2025-01-06 12:00:00,IT Park Road,328.0
+2025-01-06 12:00:00,Residential Road,418.0
+2025-01-06 12:00:00,Market Street,627.0
+2025-01-06 12:00:00,Ring Road,469.0
+2025-01-06 13:00:00,Central Junction,431.0
+2025-01-06 13:00:00,IT Park Road,249.0
+2025-01-06 13:00:00,Residential Road,337.0
+2025-01-06 13:00:00,Market Street,551.0
+2025-01-06 13:00:00,Ring Road,638.0
+2025-01-06 14:00:00,Central Junction,728.0
+2025-01-06 14:00:00,IT Park Road,308.0
+2025-01-06 14:00:00,Residential Road,384.0
+2025-01-06 14:00:00,Market Street,601.0
+2025-01-06 14:00:00,Ring Road,587.0
+2025-01-06 15:00:00,Central Junction,603.0
+2025-01-06 15:00:00,IT Park Road,410.0
+2025-01-06 15:00:00,Residential Road,388.0
+2025-01-06 15:00:00,Market Street,667.0
+2025-01-06 15:00:00,Ring Road,675.0
+2025-01-06 16:00:00,Central Junction,703.0
+2025-01-06 16:00:00,IT Park Road,623.0
+2025-01-06 16:00:00,Residential Road,680.0
+2025-01-06 16:00:00,Market Street,776.0
+2025-01-06 16:00:00,Ring Road,896.0
+2025-01-06 17:00:00,Central Junction,914.0
+2025-01-06 17:00:00,IT Park Road,894.0
+2025-01-06 17:00:00,Residential Road,618.0
+2025-01-06 17:00:00,Market Street,674.0
+2025-01-06 17:00:00,Ring Road,1148.0
+2025-01-06 18:00:00,Central Junction,980.0
+2025-01-06 18:00:00,IT Park Road,1207.0
+2025-01-06 18:00:00,Residential Road,665.0
+2025-01-06 18:00:00,Market Street,834.0
+2025-01-06 18:00:00,Ring Road,1063.0
+2025-01-06 19:00:00,Central Junction,721.0
+2025-01-06 19:00:00,IT Park Road,1076.0
+2025-01-06 19:00:00,Residential Road,575.0
+2025-01-06 19:00:00,Market Street,569.0
+2025-01-06 19:00:00,Ring Road,968.0
+2025-01-06 20:00:00,Central Junction,589.0
+2025-01-06 20:00:00,IT Park Road,621.0
+2025-01-06 20:00:00,Residential Road,434.0
+2025-01-06 20:00:00,Market Street,308.0
+2025-01-06 20:00:00,Ring Road,586.0
+2025-01-06 21:00:00,Central Junction,310.0
+2025-01-06 21:00:00,IT Park Road,375.0
+2025-01-06 21:00:00,Residential Road,276.0
+2025-01-06 21:00:00,Market Street,290.0
+2025-01-06 21:00:00,Ring Road,415.0
+2025-01-06 22:00:00,Central Junction,268.0
+2025-01-06 22:00:00,IT Park Road,165.0
+2025-01-06 22:00:00,Residential Road,180.0
+2025-01-06 22:00:00,Market Street,175.0
+2025-01-06 22:00:00,Ring Road,323.0
+2025-01-06 23:00:00,Central Junction,317.0
+2025-01-06 23:00:00,IT Park Road,80.0
+2025-01-06 23:00:00,Residential Road,92.0
+2025-01-06 23:00:00,Market Street,145.0
+2025-01-06 23:00:00,Ring Road,234.0
+2025-01-07 00:00:00,Central Junction,78.0
+2025-01-07 00:00:00,IT Park Road,55.0
+2025-01-07 00:00:00,Residential Road,251.0
+2025-01-07 00:00:00,Market Street,82.0
+2025-01-07 00:00:00,Ring Road,166.0
+2025-01-07 01:00:00,Central Junction,281.0
+2025-01-07 01:00:00,IT Park Road,54.0
+2025-01-07 01:00:00,Residential Road,282.0
+2025-01-07 01:00:00,Market Street,104.0
+2025-01-07 01:00:00,Ring Road,352.0
+2025-01-07 02:00:00,Central Junction,169.0
+2025-01-07 02:00:00,IT Park Road,118.0
+2025-01-07 02:00:00,Residential Road,144.0
+2025-01-07 02:00:00,Market Street,110.0
+2025-01-07 02:00:00,Ring Road,273.0
+2025-01-07 03:00:00,Central Junction,205.0
+2025-01-07 03:00:00,IT Park Road,109.0
+2025-01-07 03:00:00,Residential Road,154.0
+2025-01-07 03:00:00,Market Street,90.0
+2025-01-07 03:00:00,Ring Road,257.0
+2025-01-07 04:00:00,Central Junction,274.0
+2025-01-07 04:00:00,IT Park Road,86.0
+2025-01-07 04:00:00,Residential Road,171.0
+2025-01-07 04:00:00,Market Street,184.0
+2025-01-07 04:00:00,Ring Road,301.0
+2025-01-07 05:00:00,Central Junction,327.0
+2025-01-07 05:00:00,IT Park Road,151.0
+2025-01-07 05:00:00,Residential Road,212.0
+2025-01-07 05:00:00,Market Street,161.0
+2025-01-07 05:00:00,Ring Road,324.0
+2025-01-07 06:00:00,Central Junction,614.0
+2025-01-07 06:00:00,IT Park Road,451.0
+2025-01-07 06:00:00,Residential Road,334.0
+2025-01-07 06:00:00,Market Street,203.0
+2025-01-07 06:00:00,Ring Road,656.0
+2025-01-07 07:00:00,Central Junction,965.0
+2025-01-07 07:00:00,IT Park Road,872.0
+2025-01-07 07:00:00,Residential Road,481.0
+2025-01-07 07:00:00,Market Street,549.0
+2025-01-07 07:00:00,Ring Road,947.0
+2025-01-07 08:00:00,Central Junction,1299.0
+2025-01-07 08:00:00,IT Park Road,1208.0
+2025-01-07 08:00:00,Residential Road,625.0
+2025-01-07 08:00:00,Market Street,735.0
+2025-01-07 08:00:00,Ring Road,1106.0
+2025-01-07 09:00:00,Central Junction,967.0
+2025-01-07 09:00:00,IT Park Road,1008.0
+2025-01-07 09:00:00,Residential Road,609.0
+2025-01-07 09:00:00,Market Street,633.0
+2025-01-07 09:00:00,Ring Road,864.0
+2025-01-07 10:00:00,Central Junction,719.0
+2025-01-07 10:00:00,IT Park Road,500.0
+2025-01-07 10:00:00,Residential Road,338.0
+2025-01-07 10:00:00,Market Street,586.0
+2025-01-07 10:00:00,Ring Road,739.0
+2025-01-07 11:00:00,Central Junction,526.0
+2025-01-07 11:00:00,IT Park Road,391.0
+2025-01-07 11:00:00,Residential Road,222.0
+2025-01-07 11:00:00,Market Street,599.0
+2025-01-07 11:00:00,Ring Road,678.0
+2025-01-07 12:00:00,Central Junction,538.0
+2025-01-07 12:00:00,IT Park Road,365.0
+2025-01-07 12:00:00,Residential Road,352.0
+2025-01-07 12:00:00,Market Street,620.0
+2025-01-07 12:00:00,Ring Road,546.0
+2025-01-07 13:00:00,Central Junction,522.0
+2025-01-07 13:00:00,IT Park Road,267.0
+2025-01-07 13:00:00,Residential Road,438.0
+2025-01-07 13:00:00,Market Street,566.0
+2025-01-07 13:00:00,Ring Road,638.0
+2025-01-07 14:00:00,Central Junction,615.0
+2025-01-07 14:00:00,IT Park Road,420.0
+2025-01-07 14:00:00,Residential Road,509.0
+2025-01-07 14:00:00,Market Street,475.0
+2025-01-07 14:00:00,Ring Road,562.0
+2025-01-07 15:00:00,Central Junction,691.0
+2025-01-07 15:00:00,IT Park Road,396.0
+2025-01-07 15:00:00,Residential Road,368.0
+2025-01-07 15:00:00,Market Street,686.0
+2025-01-07 15:00:00,Ring Road,549.0
+2025-01-07 16:00:00,Central Junction,751.0
+2025-01-07 16:00:00,IT Park Road,744.0
+2025-01-07 16:00:00,Residential Road,537.0
+2025-01-07 16:00:00,Market Street,725.0
+2025-01-07 16:00:00,Ring Road,746.0
+2025-01-07 17:00:00,Central Junction,949.0
+2025-01-07 17:00:00,IT Park Road,921.0
+2025-01-07 17:00:00,Residential Road,176.0
+2025-01-07 17:00:00,Market Street,610.0
+2025-01-07 17:00:00,Ring Road,830.0
+2025-01-07 18:00:00,Central Junction,922.0
+2025-01-07 18:00:00,IT Park Road,1033.0
+2025-01-07 18:00:00,Residential Road,791.0
+2025-01-07 18:00:00,Market Street,789.0
+2025-01-07 18:00:00,Ring Road,1032.0
+2025-01-07 19:00:00,Central Junction,859.0
+2025-01-07 19:00:00,IT Park Road,848.0
+2025-01-07 19:00:00,Residential Road,536.0
+2025-01-07 19:00:00,Market Street,724.0
+2025-01-07 19:00:00,Ring Road,769.0
+2025-01-07 20:00:00,Central Junction,510.0
+2025-01-07 20:00:00,IT Park Road,585.0
+2025-01-07 20:00:00,Residential Road,488.0
+2025-01-07 20:00:00,Market Street,409.0
+2025-01-07 20:00:00,Ring Road,601.0
+2025-01-07 21:00:00,Central Junction,352.0
+2025-01-07 21:00:00,IT Park Road,343.0
+2025-01-07 21:00:00,Residential Road,256.0
+2025-01-07 21:00:00,Market Street,321.0
+2025-01-07 21:00:00,Ring Road,509.0
+2025-01-07 22:00:00,Central Junction,233.0
+2025-01-07 22:00:00,IT Park Road,264.0
+2025-01-07 22:00:00,Residential Road,194.0
+2025-01-07 22:00:00,Market Street,217.0
+2025-01-07 22:00:00,Ring Road,337.0
+2025-01-07 23:00:00,Central Junction,210.0
+2025-01-07 23:00:00,IT Park Road,49.0
+2025-01-07 23:00:00,Residential Road,108.0
+2025-01-07 23:00:00,Market Street,118.0
+2025-01-07 23:00:00,Ring Road,334.0
+2025-01-08 00:00:00,Central Junction,197.0
+2025-01-08 00:00:00,IT Park Road,88.0
+2025-01-08 00:00:00,Residential Road,178.0
+2025-01-08 00:00:00,Market Street,166.0
+2025-01-08 00:00:00,Ring Road,260.0
+2025-01-08 01:00:00,Central Junction,191.0
+2025-01-08 01:00:00,IT Park Road,104.0
+2025-01-08 01:00:00,Residential Road,147.0
+2025-01-08 01:00:00,Market Street,86.0
+2025-01-08 01:00:00,Ring Road,215.0
+2025-01-08 02:00:00,Central Junction,209.0
+2025-01-08 02:00:00,IT Park Road,146.0
+2025-01-08 02:00:00,Residential Road,137.0
+2025-01-08 02:00:00,Market Street,107.0
+2025-01-08 02:00:00,Ring Road,163.0
+2025-01-08 03:00:00,Central Junction,87.0
+2025-01-08 03:00:00,IT Park Road,160.0
+2025-01-08 03:00:00,Residential Road,118.0
+2025-01-08 03:00:00,Market Street,
+2025-01-08 03:00:00,Ring Road,391.0
+2025-01-08 04:00:00,Central Junction,170.0
+2025-01-08 04:00:00,IT Park Road,51.0
+2025-01-08 04:00:00,Residential Road,84.0
+2025-01-08 04:00:00,Market Street,146.0
+2025-01-08 04:00:00,Ring Road,237.0
+2025-01-08 05:00:00,Central Junction,365.0
+2025-01-08 05:00:00,IT Park Road,162.0
+2025-01-08 05:00:00,Residential Road,
+2025-01-08 05:00:00,Market Street,154.0
+2025-01-08 05:00:00,Ring Road,347.0
+2025-01-08 06:00:00,Central Junction,621.0
+2025-01-08 06:00:00,IT Park Road,403.0
+2025-01-08 06:00:00,Residential Road,343.0
+2025-01-08 06:00:00,Market Street,337.0
+2025-01-08 06:00:00,Ring Road,614.0
+2025-01-08 07:00:00,Central Junction,805.0
+2025-01-08 07:00:00,IT Park Road,798.0
+2025-01-08 07:00:00,Residential Road,492.0
+2025-01-08 07:00:00,Market Street,496.0
+2025-01-08 07:00:00,Ring Road,742.0
+2025-01-08 08:00:00,Central Junction,1177.0
+2025-01-08 08:00:00,IT Park Road,1177.0
+2025-01-08 08:00:00,Residential Road,779.0
+2025-01-08 08:00:00,Market Street,630.0
+2025-01-08 08:00:00,Ring Road,913.0
+2025-01-08 09:00:00,Central Junction,869.0
+2025-01-08 09:00:00,IT Park Road,966.0
+2025-01-08 09:00:00,Residential Road,498.0
+2025-01-08 09:00:00,Market Street,698.0
+2025-01-08 09:00:00,Ring Road,851.0
+2025-01-08 10:00:00,Central Junction,683.0
+2025-01-08 10:00:00,IT Park Road,571.0
+2025-01-08 10:00:00,Residential Road,359.0
+2025-01-08 10:00:00,Market Street,455.0
+2025-01-08 10:00:00,Ring Road,792.0
+2025-01-08 11:00:00,Central Junction,530.0
+2025-01-08 11:00:00,IT Park Road,296.0
+2025-01-08 11:00:00,Residential Road,280.0
+2025-01-08 11:00:00,Market Street,702.0
+2025-01-08 11:00:00,Ring Road,505.0
+2025-01-08 12:00:00,Central Junction,590.0
+2025-01-08 12:00:00,IT Park Road,332.0
+2025-01-08 12:00:00,Residential Road,241.0
+2025-01-08 12:00:00,Market Street,567.0
+2025-01-08 12:00:00,Ring Road,617.0
+2025-01-08 13:00:00,Central Junction,372.0
+2025-01-08 13:00:00,IT Park Road,295.0
+2025-01-08 13:00:00,Residential Road,313.0
+2025-01-08 13:00:00,Market Street,674.0
+2025-01-08 13:00:00,Ring Road,608.0
+2025-01-08 14:00:00,Central Junction,558.0
+2025-01-08 14:00:00,IT Park Road,383.0
+2025-01-08 14:00:00,Residential Road,395.0
+2025-01-08 14:00:00,Market Street,532.0
+2025-01-08 14:00:00,Ring Road,616.0
+2025-01-08 15:00:00,Central Junction,702.0
+2025-01-08 15:00:00,IT Park Road,484.0
+2025-01-08 15:00:00,Residential Road,379.0
+2025-01-08 15:00:00,Market Street,
+2025-01-08 15:00:00,Ring Road,775.0
+2025-01-08 16:00:00,Central Junction,536.0
+2025-01-08 16:00:00,IT Park Road,920.0
+2025-01-08 16:00:00,Residential Road,388.0
+2025-01-08 16:00:00,Market Street,681.0
+2025-01-08 16:00:00,Ring Road,708.0
+2025-01-08 17:00:00,Central Junction,982.0
+2025-01-08 17:00:00,IT Park Road,1033.0
+2025-01-08 17:00:00,Residential Road,668.0
+2025-01-08 17:00:00,Market Street,777.0
+2025-01-08 17:00:00,Ring Road,804.0
+2025-01-08 18:00:00,Central Junction,952.0
+2025-01-08 18:00:00,IT Park Road,1045.0
+2025-01-08 18:00:00,Residential Road,607.0
+2025-01-08 18:00:00,Market Street,824.0
+2025-01-08 18:00:00,Ring Road,1062.0
+2025-01-08 19:00:00,Central Junction,820.0
+2025-01-08 19:00:00,IT Park Road,904.0
+2025-01-08 19:00:00,Residential Road,578.0
+2025-01-08 19:00:00,Market Street,520.0
+2025-01-08 19:00:00,Ring Road,953.0
+2025-01-08 20:00:00,Central Junction,394.0
+2025-01-08 20:00:00,IT Park Road,616.0
+2025-01-08 20:00:00,Residential Road,342.0
+2025-01-08 20:00:00,Market Street,467.0
+2025-01-08 20:00:00,Ring Road,685.0
+2025-01-08 21:00:00,Central Junction,387.0
+2025-01-08 21:00:00,IT Park Road,369.0
+2025-01-08 21:00:00,Residential Road,342.0
+2025-01-08 21:00:00,Market Street,241.0
+2025-01-08 21:00:00,Ring Road,488.0
+2025-01-08 22:00:00,Central Junction,216.0
+2025-01-08 22:00:00,IT Park Road,187.0
+2025-01-08 22:00:00,Residential Road,237.0
+2025-01-08 22:00:00,Market Street,129.0
+2025-01-08 22:00:00,Ring Road,185.0
+2025-01-08 23:00:00,Central Junction,150.0
+2025-01-08 23:00:00,IT Park Road,165.0
+2025-01-08 23:00:00,Residential Road,112.0
+2025-01-08 23:00:00,Market Street,178.0
+2025-01-08 23:00:00,Ring Road,224.0
+2025-01-09 00:00:00,Central Junction,169.0
+2025-01-09 00:00:00,IT Park Road,99.0
+2025-01-09 00:00:00,Residential Road,99.0
+2025-01-09 00:00:00,Market Street,67.0
+2025-01-09 00:00:00,Ring Road,296.0
+2025-01-09 01:00:00,Central Junction,131.0
+2025-01-09 01:00:00,IT Park Road,147.0
+2025-01-09 01:00:00,Residential Road,82.0
+2025-01-09 01:00:00,Market Street,183.0
+2025-01-09 01:00:00,Ring Road,301.0
+2025-01-09 02:00:00,Central Junction,127.0
+2025-01-09 02:00:00,IT Park Road,103.0
+2025-01-09 02:00:00,Residential Road,142.0
+2025-01-09 02:00:00,Market Street,127.0
+2025-01-09 02:00:00,Ring Road,303.0
+2025-01-09 03:00:00,Central Junction,75.0
+2025-01-09 03:00:00,IT Park Road,152.0
+2025-01-09 03:00:00,Residential Road,98.0
+2025-01-09 03:00:00,Market Street,200.0
+2025-01-09 03:00:00,Ring Road,242.0
+2025-01-09 04:00:00,Central Junction,198.0
+2025-01-09 04:00:00,IT Park Road,75.0
+2025-01-09 04:00:00,Residential Road,241.0
+2025-01-09 04:00:00,Market Street,90.0
+2025-01-09 04:00:00,Ring Road,309.0
+2025-01-09 05:00:00,Central Junction,344.0
+2025-01-09 05:00:00,IT Park Road,243.0
+2025-01-09 05:00:00,Residential Road,215.0
+2025-01-09 05:00:00,Market Street,178.0
+2025-01-09 05:00:00,Ring Road,264.0
+2025-01-09 06:00:00,Central Junction,633.0
+2025-01-09 06:00:00,IT Park Road,484.0
+2025-01-09 06:00:00,Residential Road,318.0
+2025-01-09 06:00:00,Market Street,240.0
+2025-01-09 06:00:00,Ring Road,536.0
+2025-01-09 07:00:00,Central Junction,876.0
+2025-01-09 07:00:00,IT Park Road,1051.0
+2025-01-09 07:00:00,Residential Road,506.0
+2025-01-09 07:00:00,Market Street,511.0
+2025-01-09 07:00:00,Ring Road,735.0
+2025-01-09 08:00:00,Central Junction,1019.0
+2025-01-09 08:00:00,IT Park Road,1172.0
+2025-01-09 08:00:00,Residential Road,480.0
+2025-01-09 08:00:00,Market Street,735.0
+2025-01-09 08:00:00,Ring Road,1132.0
+2025-01-09 09:00:00,Central Junction,874.0
+2025-01-09 09:00:00,IT Park Road,967.0
+2025-01-09 09:00:00,Residential Road,650.0
+2025-01-09 09:00:00,Market Street,628.0
+2025-01-09 09:00:00,Ring Road,884.0
+2025-01-09 10:00:00,Central Junction,651.0
+2025-01-09 10:00:00,IT Park Road,596.0
+2025-01-09 10:00:00,Residential Road,376.0
+2025-01-09 10:00:00,Market Street,533.0
+2025-01-09 10:00:00,Ring Road,711.0
+2025-01-09 11:00:00,Central Junction,471.0
+2025-01-09 11:00:00,IT Park Road,296.0
+2025-01-09 11:00:00,Residential Road,234.0
+2025-01-09 11:00:00,Market Street,557.0
+2025-01-09 11:00:00,Ring Road,658.0
+2025-01-09 12:00:00,Central Junction,507.0
+2025-01-09 12:00:00,IT Park Road,253.0
+2025-01-09 12:00:00,Residential Road,294.0
+2025-01-09 12:00:00,Market Street,574.0
+2025-01-09 12:00:00,Ring Road,693.0
+2025-01-09 13:00:00,Central Junction,628.0
+2025-01-09 13:00:00,IT Park Road,430.0
+2025-01-09 13:00:00,Residential Road,358.0
+2025-01-09 13:00:00,Market Street,883.0
+2025-01-09 13:00:00,Ring Road,521.0
+2025-01-09 14:00:00,Central Junction,494.0
+2025-01-09 14:00:00,IT Park Road,424.0
+2025-01-09 14:00:00,Residential Road,385.0
+2025-01-09 14:00:00,Market Street,661.0
+2025-01-09 14:00:00,Ring Road,449.0
+2025-01-09 15:00:00,Central Junction,516.0
+2025-01-09 15:00:00,IT Park Road,478.0
+2025-01-09 15:00:00,Residential Road,374.0
+2025-01-09 15:00:00,Market Street,537.0
+2025-01-09 15:00:00,Ring Road,617.0
+2025-01-09 16:00:00,Central Junction,771.0
+2025-01-09 16:00:00,IT Park Road,766.0
+2025-01-09 16:00:00,Residential Road,391.0
+2025-01-09 16:00:00,Market Street,704.0
+2025-01-09 16:00:00,Ring Road,801.0
+2025-01-09 17:00:00,Central Junction,952.0
+2025-01-09 17:00:00,IT Park Road,848.0
+2025-01-09 17:00:00,Residential Road,566.0
+2025-01-09 17:00:00,Market Street,902.0
+2025-01-09 17:00:00,Ring Road,724.0
+2025-01-09 18:00:00,Central Junction,906.0
+2025-01-09 18:00:00,IT Park Road,1019.0
+2025-01-09 18:00:00,Residential Road,674.0
+2025-01-09 18:00:00,Market Street,734.0
+2025-01-09 18:00:00,Ring Road,1095.0
+2025-01-09 19:00:00,Central Junction,888.0
+2025-01-09 19:00:00,IT Park Road,892.0
+2025-01-09 19:00:00,Residential Road,557.0
+2025-01-09 19:00:00,Market Street,640.0
+2025-01-09 19:00:00,Ring Road,912.0
+2025-01-09 20:00:00,Central Junction,532.0
+2025-01-09 20:00:00,IT Park Road,638.0
+2025-01-09 20:00:00,Residential Road,492.0
+2025-01-09 20:00:00,Market Street,539.0
+2025-01-09 20:00:00,Ring Road,764.0
+2025-01-09 21:00:00,Central Junction,344.0
+2025-01-09 21:00:00,IT Park Road,329.0
+2025-01-09 21:00:00,Residential Road,265.0
+2025-01-09 21:00:00,Market Street,255.0
+2025-01-09 21:00:00,Ring Road,
+2025-01-09 22:00:00,Central Junction,240.0
+2025-01-09 22:00:00,IT Park Road,227.0
+2025-01-09 22:00:00,Residential Road,206.0
+2025-01-09 22:00:00,Market Street,113.0
+2025-01-09 22:00:00,Ring Road,371.0
+2025-01-09 23:00:00,Central Junction,205.0
+2025-01-09 23:00:00,IT Park Road,138.0
+2025-01-09 23:00:00,Residential Road,173.0
+2025-01-09 23:00:00,Market Street,146.0
+2025-01-09 23:00:00,Ring Road,295.0
+2025-01-10 00:00:00,Central Junction,98.0
+2025-01-10 00:00:00,IT Park Road,120.0
+2025-01-10 00:00:00,Residential Road,118.0
+2025-01-10 00:00:00,Market Street,99.0
+2025-01-10 00:00:00,Ring Road,260.0
+2025-01-10 01:00:00,Central Junction,257.0
+2025-01-10 01:00:00,IT Park Road,58.0
+2025-01-10 01:00:00,Residential Road,148.0
+2025-01-10 01:00:00,Market Street,109.0
+2025-01-10 01:00:00,Ring Road,309.0
+2025-01-10 02:00:00,Central Junction,167.0
+2025-01-10 02:00:00,IT Park Road,110.0
+2025-01-10 02:00:00,Residential Road,105.0
+2025-01-10 02:00:00,Market Street,168.0
+2025-01-10 02:00:00,Ring Road,185.0
+2025-01-10 03:00:00,Central Junction,204.0
+2025-01-10 03:00:00,IT Park Road,112.0
+2025-01-10 03:00:00,Residential Road,168.0
+2025-01-10 03:00:00,Market Street,61.0
+2025-01-10 03:00:00,Ring Road,246.0
+2025-01-10 04:00:00,Central Junction,240.0
+2025-01-10 04:00:00,IT Park Road,197.0
+2025-01-10 04:00:00,Residential Road,154.0
+2025-01-10 04:00:00,Market Street,165.0
+2025-01-10 04:00:00,Ring Road,282.0
+2025-01-10 05:00:00,Central Junction,273.0
+2025-01-10 05:00:00,IT Park Road,186.0
+2025-01-10 05:00:00,Residential Road,199.0
+2025-01-10 05:00:00,Market Street,206.0
+2025-01-10 05:00:00,Ring Road,384.0
+2025-01-10 06:00:00,Central Junction,423.0
+2025-01-10 06:00:00,IT Park Road,433.0
+2025-01-10 06:00:00,Residential Road,257.0
+2025-01-10 06:00:00,Market Street,305.0
+2025-01-10 06:00:00,Ring Road,507.0
+2025-01-10 07:00:00,Central Junction,914.0
+2025-01-10 07:00:00,IT Park Road,917.0
+2025-01-10 07:00:00,Residential Road,357.0
+2025-01-10 07:00:00,Market Street,354.0
+2025-01-10 07:00:00,Ring Road,836.0
+2025-01-10 08:00:00,Central Junction,1236.0
+2025-01-10 08:00:00,IT Park Road,1057.0
+2025-01-10 08:00:00,Residential Road,578.0
+2025-01-10 08:00:00,Market Street,735.0
+2025-01-10 08:00:00,Ring Road,1109.0
+2025-01-10 09:00:00,Central Junction,863.0
+2025-01-10 09:00:00,IT Park Road,1003.0
+2025-01-10 09:00:00,Residential Road,498.0
+2025-01-10 09:00:00,Market Street,596.0
+2025-01-10 09:00:00,Ring Road,821.0
+2025-01-10 10:00:00,Central Junction,566.0
+2025-01-10 10:00:00,IT Park Road,585.0
+2025-01-10 10:00:00,Residential Road,328.0
+2025-01-10 10:00:00,Market Street,574.0
+2025-01-10 10:00:00,Ring Road,698.0
+2025-01-10 11:00:00,Central Junction,494.0
+2025-01-10 11:00:00,IT Park Road,338.0
+2025-01-10 11:00:00,Residential Road,215.0
+2025-01-10 11:00:00,Market Street,589.0
+2025-01-10 11:00:00,Ring Road,562.0
+2025-01-10 12:00:00,Central Junction,403.0
+2025-01-10 12:00:00,IT Park Road,227.0
+2025-01-10 12:00:00,Residential Road,351.0
+2025-01-10 12:00:00,Market Street,816.0
+2025-01-10 12:00:00,Ring Road,663.0
+2025-01-10 13:00:00,Central Junction,485.0
+2025-01-10 13:00:00,IT Park Road,332.0
+2025-01-10 13:00:00,Residential Road,326.0
+2025-01-10 13:00:00,Market Street,509.0
+2025-01-10 13:00:00,Ring Road,554.0
+2025-01-10 14:00:00,Central Junction,521.0
+2025-01-10 14:00:00,IT Park Road,379.0
+2025-01-10 14:00:00,Residential Road,442.0
+2025-01-10 14:00:00,Market Street,673.0
+2025-01-10 14:00:00,Ring Road,693.0
+2025-01-10 15:00:00,Central Junction,638.0
+2025-01-10 15:00:00,IT Park Road,517.0
+2025-01-10 15:00:00,Residential Road,464.0
+2025-01-10 15:00:00,Market Street,581.0
+2025-01-10 15:00:00,Ring Road,733.0
+2025-01-10 16:00:00,Central Junction,723.0
+2025-01-10 16:00:00,IT Park Road,684.0
+2025-01-10 16:00:00,Residential Road,533.0
+2025-01-10 16:00:00,Market Street,675.0
+2025-01-10 16:00:00,Ring Road,720.0
+2025-01-10 17:00:00,Central Junction,930.0
+2025-01-10 17:00:00,IT Park Road,937.0
+2025-01-10 17:00:00,Residential Road,633.0
+2025-01-10 17:00:00,Market Street,781.0
+2025-01-10 17:00:00,Ring Road,766.0
+2025-01-10 18:00:00,Central Junction,965.0
+2025-01-10 18:00:00,IT Park Road,1215.0
+2025-01-10 18:00:00,Residential Road,808.0
+2025-01-10 18:00:00,Market Street,798.0
+2025-01-10 18:00:00,Ring Road,1043.0
+2025-01-10 19:00:00,Central Junction,631.0
+2025-01-10 19:00:00,IT Park Road,853.0
+2025-01-10 19:00:00,Residential Road,658.0
+2025-01-10 19:00:00,Market Street,627.0
+2025-01-10 19:00:00,Ring Road,1006.0
+2025-01-10 20:00:00,Central Junction,663.0
+2025-01-10 20:00:00,IT Park Road,552.0
+2025-01-10 20:00:00,Residential Road,435.0
+2025-01-10 20:00:00,Market Street,541.0
+2025-01-10 20:00:00,Ring Road,539.0
+2025-01-10 21:00:00,Central Junction,341.0
+2025-01-10 21:00:00,IT Park Road,235.0
+2025-01-10 21:00:00,Residential Road,228.0
+2025-01-10 21:00:00,Market Street,361.0
+2025-01-10 21:00:00,Ring Road,412.0
+2025-01-10 22:00:00,Central Junction,141.0
+2025-01-10 22:00:00,IT Park Road,125.0
+2025-01-10 22:00:00,Residential Road,113.0
+2025-01-10 22:00:00,Market Street,174.0
+2025-01-10 22:00:00,Ring Road,341.0
+2025-01-10 23:00:00,Central Junction,236.0
+2025-01-10 23:00:00,IT Park Road,75.0
+2025-01-10 23:00:00,Residential Road,145.0
+2025-01-10 23:00:00,Market Street,158.0
+2025-01-10 23:00:00,Ring Road,357.0
+2025-01-11 00:00:00,Central Junction,168.0
+2025-01-11 00:00:00,IT Park Road,181.0
+2025-01-11 00:00:00,Residential Road,94.0
+2025-01-11 00:00:00,Market Street,184.0
+2025-01-11 00:00:00,Ring Road,190.0
+2025-01-11 01:00:00,Central Junction,200.0
+2025-01-11 01:00:00,IT Park Road,73.0
+2025-01-11 01:00:00,Residential Road,118.0
+2025-01-11 01:00:00,Market Street,219.0
+2025-01-11 01:00:00,Ring Road,307.0
+2025-01-11 02:00:00,Central Junction,171.0
+2025-01-11 02:00:00,IT Park Road,0.0
+2025-01-11 02:00:00,Residential Road,68.0
+2025-01-11 02:00:00,Market Street,68.0
+2025-01-11 02:00:00,Ring Road,258.0
+2025-01-11 03:00:00,Central Junction,201.0
+2025-01-11 03:00:00,IT Park Road,63.0
+2025-01-11 03:00:00,Residential Road,184.0
+2025-01-11 03:00:00,Market Street,146.0
+2025-01-11 03:00:00,Ring Road,232.0
+2025-01-11 04:00:00,Central Junction,132.0
+2025-01-11 04:00:00,IT Park Road,12.0
+2025-01-11 04:00:00,Residential Road,170.0
+2025-01-11 04:00:00,Market Street,132.0
+2025-01-11 04:00:00,Ring Road,301.0
+2025-01-11 05:00:00,Central Junction,295.0
+2025-01-11 05:00:00,IT Park Road,232.0
+2025-01-11 05:00:00,Residential Road,225.0
+2025-01-11 05:00:00,Market Street,151.0
+2025-01-11 05:00:00,Ring Road,292.0
+2025-01-11 06:00:00,Central Junction,408.0
+2025-01-11 06:00:00,IT Park Road,243.0
+2025-01-11 06:00:00,Residential Road,199.0
+2025-01-11 06:00:00,Market Street,326.0
+2025-01-11 06:00:00,Ring Road,510.0
+2025-01-11 07:00:00,Central Junction,615.0
+2025-01-11 07:00:00,IT Park Road,552.0
+2025-01-11 07:00:00,Residential Road,332.0
+2025-01-11 07:00:00,Market Street,414.0
+2025-01-11 07:00:00,Ring Road,608.0
+2025-01-11 08:00:00,Central Junction,789.0
+2025-01-11 08:00:00,IT Park Road,593.0
+2025-01-11 08:00:00,Residential Road,93.0
+2025-01-11 08:00:00,Market Street,743.0
+2025-01-11 08:00:00,Ring Road,646.0
+2025-01-11 09:00:00,Central Junction,440.0
+2025-01-11 09:00:00,IT Park Road,831.0
+2025-01-11 09:00:00,Residential Road,295.0
+2025-01-11 09:00:00,Market Street,794.0
+2025-01-11 09:00:00,Ring Road,640.0
+2025-01-11 10:00:00,Central Junction,456.0
+2025-01-11 10:00:00,IT Park Road,396.0
+2025-01-11 10:00:00,Residential Road,231.0
+2025-01-11 10:00:00,Market Street,521.0
+2025-01-11 10:00:00,Ring Road,538.0
+2025-01-11 11:00:00,Central Junction,259.0
+2025-01-11 11:00:00,IT Park Road,332.0
+2025-01-11 11:00:00,Residential Road,160.0
+2025-01-11 11:00:00,Market Street,744.0
+2025-01-11 11:00:00,Ring Road,471.0
+2025-01-11 12:00:00,Central Junction,481.0
+2025-01-11 12:00:00,IT Park Road,300.0
+2025-01-11 12:00:00,Residential Road,410.0
+2025-01-11 12:00:00,Market Street,747.0
+2025-01-11 12:00:00,Ring Road,591.0
+2025-01-11 13:00:00,Central Junction,406.0
+2025-01-11 13:00:00,IT Park Road,202.0
+2025-01-11 13:00:00,Residential Road,372.0
+2025-01-11 13:00:00,Market Street,615.0
+2025-01-11 13:00:00,Ring Road,575.0
+2025-01-11 14:00:00,Central Junction,377.0
+2025-01-11 14:00:00,IT Park Road,318.0
+2025-01-11 14:00:00,Residential Road,428.0
+2025-01-11 14:00:00,Market Street,802.0
+2025-01-11 14:00:00,Ring Road,512.0
+2025-01-11 15:00:00,Central Junction,496.0
+2025-01-11 15:00:00,IT Park Road,317.0
+2025-01-11 15:00:00,Residential Road,
+2025-01-11 15:00:00,Market Street,659.0
+2025-01-11 15:00:00,Ring Road,536.0
+2025-01-11 16:00:00,Central Junction,563.0
+2025-01-11 16:00:00,IT Park Road,468.0
+2025-01-11 16:00:00,Residential Road,405.0
+2025-01-11 16:00:00,Market Street,688.0
+2025-01-11 16:00:00,Ring Road,576.0
+2025-01-11 17:00:00,Central Junction,663.0
+2025-01-11 17:00:00,IT Park Road,621.0
+2025-01-11 17:00:00,Residential Road,451.0
+2025-01-11 17:00:00,Market Street,880.0
+2025-01-11 17:00:00,Ring Road,739.0
+2025-01-11 18:00:00,Central Junction,673.0
+2025-01-11 18:00:00,IT Park Road,474.0
+2025-01-11 18:00:00,Residential Road,463.0
+2025-01-11 18:00:00,Market Street,751.0
+2025-01-11 18:00:00,Ring Road,794.0
+2025-01-11 19:00:00,Central Junction,320.0
+2025-01-11 19:00:00,IT Park Road,499.0
+2025-01-11 19:00:00,Residential Road,390.0
+2025-01-11 19:00:00,Market Street,515.0
+2025-01-11 19:00:00,Ring Road,524.0
+2025-01-11 20:00:00,Central Junction,482.0
+2025-01-11 20:00:00,IT Park Road,378.0
+2025-01-11 20:00:00,Residential Road,395.0
+2025-01-11 20:00:00,Market Street,393.0
+2025-01-11 20:00:00,Ring Road,367.0
+2025-01-11 21:00:00,Central Junction,256.0
+2025-01-11 21:00:00,IT Park Road,188.0
+2025-01-11 21:00:00,Residential Road,248.0
+2025-01-11 21:00:00,Market Street,280.0
+2025-01-11 21:00:00,Ring Road,380.0
+2025-01-11 22:00:00,Central Junction,322.0
+2025-01-11 22:00:00,IT Park Road,193.0
+2025-01-11 22:00:00,Residential Road,131.0
+2025-01-11 22:00:00,Market Street,208.0
+2025-01-11 22:00:00,Ring Road,291.0
+2025-01-11 23:00:00,Central Junction,177.0
+2025-01-11 23:00:00,IT Park Road,168.0
+2025-01-11 23:00:00,Residential Road,113.0
+2025-01-11 23:00:00,Market Street,171.0
+2025-01-11 23:00:00,Ring Road,307.0
+2025-01-12 00:00:00,Central Junction,136.0
+2025-01-12 00:00:00,IT Park Road,31.0
+2025-01-12 00:00:00,Residential Road,146.0
+2025-01-12 00:00:00,Market Street,0.0
+2025-01-12 00:00:00,Ring Road,320.0
+2025-01-12 01:00:00,Central Junction,197.0
+2025-01-12 01:00:00,IT Park Road,160.0
+2025-01-12 01:00:00,Residential Road,163.0
+2025-01-12 01:00:00,Market Street,186.0
+2025-01-12 01:00:00,Ring Road,228.0
+2025-01-12 02:00:00,Central Junction,204.0
+2025-01-12 02:00:00,IT Park Road,84.0
+2025-01-12 02:00:00,Residential Road,145.0
+2025-01-12 02:00:00,Market Street,124.0
+2025-01-12 02:00:00,Ring Road,279.0
+2025-01-12 03:00:00,Central Junction,147.0
+2025-01-12 03:00:00,IT Park Road,121.0
+2025-01-12 03:00:00,Residential Road,153.0
+2025-01-12 03:00:00,Market Street,63.0
+2025-01-12 03:00:00,Ring Road,167.0
+2025-01-12 04:00:00,Central Junction,244.0
+2025-01-12 04:00:00,IT Park Road,13.0
+2025-01-12 04:00:00,Residential Road,147.0
+2025-01-12 04:00:00,Market Street,
+2025-01-12 04:00:00,Ring Road,360.0
+2025-01-12 05:00:00,Central Junction,259.0
+2025-01-12 05:00:00,IT Park Road,170.0
+2025-01-12 05:00:00,Residential Road,137.0
+2025-01-12 05:00:00,Market Street,106.0
+2025-01-12 05:00:00,Ring Road,312.0
+2025-01-12 06:00:00,Central Junction,349.0
+2025-01-12 06:00:00,IT Park Road,228.0
+2025-01-12 06:00:00,Residential Road,180.0
+2025-01-12 06:00:00,Market Street,221.0
+2025-01-12 06:00:00,Ring Road,326.0
+2025-01-12 07:00:00,Central Junction,496.0
+2025-01-12 07:00:00,IT Park Road,520.0
+2025-01-12 07:00:00,Residential Road,364.0
+2025-01-12 07:00:00,Market Street,468.0
+2025-01-12 07:00:00,Ring Road,569.0
+2025-01-12 08:00:00,Central Junction,708.0
+2025-01-12 08:00:00,IT Park Road,465.0
+2025-01-12 08:00:00,Residential Road,412.0
+2025-01-12 08:00:00,Market Street,719.0
+2025-01-12 08:00:00,Ring Road,506.0
+2025-01-12 09:00:00,Central Junction,395.0
+2025-01-12 09:00:00,IT Park Road,530.0
+2025-01-12 09:00:00,Residential Road,443.0
+2025-01-12 09:00:00,Market Street,621.0
+2025-01-12 09:00:00,Ring Road,675.0
+2025-01-12 10:00:00,Central Junction,505.0
+2025-01-12 10:00:00,IT Park Road,308.0
+2025-01-12 10:00:00,Residential Road,266.0
+2025-01-12 10:00:00,Market Street,479.0
+2025-01-12 10:00:00,Ring Road,644.0
+2025-01-12 11:00:00,Central Junction,478.0
+2025-01-12 11:00:00,IT Park Road,285.0
+2025-01-12 11:00:00,Residential Road,285.0
+2025-01-12 11:00:00,Market Street,581.0
+2025-01-12 11:00:00,Ring Road,523.0
+2025-01-12 12:00:00,Central Junction,382.0
+2025-01-12 12:00:00,IT Park Road,258.0
+2025-01-12 12:00:00,Residential Road,271.0
+2025-01-12 12:00:00,Market Street,781.0
+2025-01-12 12:00:00,Ring Road,497.0
+2025-01-12 13:00:00,Central Junction,452.0
+2025-01-12 13:00:00,IT Park Road,225.0
+2025-01-12 13:00:00,Residential Road,280.0
+2025-01-12 13:00:00,Market Street,769.0
+2025-01-12 13:00:00,Ring Road,409.0
+2025-01-12 14:00:00,Central Junction,434.0
+2025-01-12 14:00:00,IT Park Road,303.0
+2025-01-12 14:00:00,Residential Road,263.0
+2025-01-12 14:00:00,Market Street,552.0
+2025-01-12 14:00:00,Ring Road,613.0
+2025-01-12 15:00:00,Central Junction,505.0
+2025-01-12 15:00:00,IT Park Road,341.0
+2025-01-12 15:00:00,Residential Road,199.0
+2025-01-12 15:00:00,Market Street,637.0
+2025-01-12 15:00:00,Ring Road,443.0
+2025-01-12 16:00:00,Central Junction,511.0
+2025-01-12 16:00:00,IT Park Road,469.0
+2025-01-12 16:00:00,Residential Road,396.0
+2025-01-12 16:00:00,Market Street,868.0
+2025-01-12 16:00:00,Ring Road,591.0
+2025-01-12 17:00:00,Central Junction,690.0
+2025-01-12 17:00:00,IT Park Road,535.0
+2025-01-12 17:00:00,Residential Road,460.0
+2025-01-12 17:00:00,Market Street,744.0
+2025-01-12 17:00:00,Ring Road,684.0
+2025-01-12 18:00:00,Central Junction,605.0
+2025-01-12 18:00:00,IT Park Road,545.0
+2025-01-12 18:00:00,Residential Road,630.0
+2025-01-12 18:00:00,Market Street,764.0
+2025-01-12 18:00:00,Ring Road,721.0
+2025-01-12 19:00:00,Central Junction,581.0
+2025-01-12 19:00:00,IT Park Road,524.0
+2025-01-12 19:00:00,Residential Road,239.0
+2025-01-12 19:00:00,Market Street,628.0
+2025-01-12 19:00:00,Ring Road,500.0
+2025-01-12 20:00:00,Central Junction,399.0
+2025-01-12 20:00:00,IT Park Road,368.0
+2025-01-12 20:00:00,Residential Road,194.0
+2025-01-12 20:00:00,Market Street,405.0
+2025-01-12 20:00:00,Ring Road,363.0
+2025-01-12 21:00:00,Central Junction,143.0
+2025-01-12 21:00:00,IT Park Road,138.0
+2025-01-12 21:00:00,Residential Road,207.0
+2025-01-12 21:00:00,Market Street,237.0
+2025-01-12 21:00:00,Ring Road,320.0
+2025-01-12 22:00:00,Central Junction,237.0
+2025-01-12 22:00:00,IT Park Road,126.0
+2025-01-12 22:00:00,Residential Road,189.0
+2025-01-12 22:00:00,Market Street,196.0
+2025-01-12 22:00:00,Ring Road,421.0
+2025-01-12 23:00:00,Central Junction,182.0
+2025-01-12 23:00:00,IT Park Road,160.0
+2025-01-12 23:00:00,Residential Road,165.0
+2025-01-12 23:00:00,Market Street,143.0
+2025-01-12 23:00:00,Ring Road,262.0
+2025-01-13 00:00:00,Central Junction,186.0
+2025-01-13 00:00:00,IT Park Road,90.0
+2025-01-13 00:00:00,Residential Road,195.0
+2025-01-13 00:00:00,Market Street,89.0
+2025-01-13 00:00:00,Ring Road,180.0
+2025-01-13 01:00:00,Central Junction,154.0
+2025-01-13 01:00:00,IT Park Road,73.0
+2025-01-13 01:00:00,Residential Road,126.0
+2025-01-13 01:00:00,Market Street,114.0
+2025-01-13 01:00:00,Ring Road,232.0
+2025-01-13 02:00:00,Central Junction,173.0
+2025-01-13 02:00:00,IT Park Road,78.0
+2025-01-13 02:00:00,Residential Road,169.0
+2025-01-13 02:00:00,Market Street,223.0
+2025-01-13 02:00:00,Ring Road,271.0
+2025-01-13 03:00:00,Central Junction,
+2025-01-13 03:00:00,IT Park Road,4.0
+2025-01-13 03:00:00,Residential Road,238.0
+2025-01-13 03:00:00,Market Street,133.0
+2025-01-13 03:00:00,Ring Road,253.0
+2025-01-13 04:00:00,Central Junction,87.0
+2025-01-13 04:00:00,IT Park Road,114.0
+2025-01-13 04:00:00,Residential Road,165.0
+2025-01-13 04:00:00,Market Street,108.0
+2025-01-13 04:00:00,Ring Road,202.0
+2025-01-13 05:00:00,Central Junction,200.0
+2025-01-13 05:00:00,IT Park Road,301.0
+2025-01-13 05:00:00,Residential Road,204.0
+2025-01-13 05:00:00,Market Street,149.0
+2025-01-13 05:00:00,Ring Road,341.0
+2025-01-13 06:00:00,Central Junction,508.0
+2025-01-13 06:00:00,IT Park Road,369.0
+2025-01-13 06:00:00,Residential Road,369.0
+2025-01-13 06:00:00,Market Street,291.0
+2025-01-13 06:00:00,Ring Road,540.0
+2025-01-13 07:00:00,Central Junction,1024.0
+2025-01-13 07:00:00,IT Park Road,751.0
+2025-01-13 07:00:00,Residential Road,450.0
+2025-01-13 07:00:00,Market Street,530.0
+2025-01-13 07:00:00,Ring Road,920.0
+2025-01-13 08:00:00,Central Junction,1033.0
+2025-01-13 08:00:00,IT Park Road,1050.0
+2025-01-13 08:00:00,Residential Road,669.0
+2025-01-13 08:00:00,Market Street,838.0
+2025-01-13 08:00:00,Ring Road,1030.0
+2025-01-13 09:00:00,Central Junction,881.0
+2025-01-13 09:00:00,IT Park Road,827.0
+2025-01-13 09:00:00,Residential Road,544.0
+2025-01-13 09:00:00,Market Street,706.0
+2025-01-13 09:00:00,Ring Road,1194.0
+2025-01-13 10:00:00,Central Junction,642.0
+2025-01-13 10:00:00,IT Park Road,582.0
+2025-01-13 10:00:00,Residential Road,526.0
+2025-01-13 10:00:00,Market Street,585.0
+2025-01-13 10:00:00,Ring Road,706.0
+2025-01-13 11:00:00,Central Junction,607.0
+2025-01-13 11:00:00,IT Park Road,372.0
+2025-01-13 11:00:00,Residential Road,285.0
+2025-01-13 11:00:00,Market Street,645.0
+2025-01-13 11:00:00,Ring Road,449.0
+2025-01-13 12:00:00,Central Junction,550.0
+2025-01-13 12:00:00,IT Park Road,317.0
+2025-01-13 12:00:00,Residential Road,320.0
+2025-01-13 12:00:00,Market Street,574.0
+2025-01-13 12:00:00,Ring Road,546.0
+2025-01-13 13:00:00,Central Junction,465.0
+2025-01-13 13:00:00,IT Park Road,354.0
+2025-01-13 13:00:00,Residential Road,326.0
+2025-01-13 13:00:00,Market Street,479.0
+2025-01-13 13:00:00,Ring Road,574.0
+2025-01-13 14:00:00,Central Junction,588.0
+2025-01-13 14:00:00,IT Park Road,249.0
+2025-01-13 14:00:00,Residential Road,368.0
+2025-01-13 14:00:00,Market Street,597.0
+2025-01-13 14:00:00,Ring Road,669.0
+2025-01-13 15:00:00,Central Junction,571.0
+2025-01-13 15:00:00,IT Park Road,534.0
+2025-01-13 15:00:00,Residential Road,460.0
+2025-01-13 15:00:00,Market Street,698.0
+2025-01-13 15:00:00,Ring Road,791.0
+2025-01-13 16:00:00,Central Junction,727.0
+2025-01-13 16:00:00,IT Park Road,710.0
+2025-01-13 16:00:00,Residential Road,557.0
+2025-01-13 16:00:00,Market Street,713.0
+2025-01-13 16:00:00,Ring Road,787.0
+2025-01-13 17:00:00,Central Junction,839.0
+2025-01-13 17:00:00,IT Park Road,962.0
+2025-01-13 17:00:00,Residential Road,533.0
+2025-01-13 17:00:00,Market Street,606.0
+2025-01-13 17:00:00,Ring Road,868.0
+2025-01-13 18:00:00,Central Junction,1062.0
+2025-01-13 18:00:00,IT Park Road,1089.0
+2025-01-13 18:00:00,Residential Road,756.0
+2025-01-13 18:00:00,Market Street,732.0
+2025-01-13 18:00:00,Ring Road,1156.0
+2025-01-13 19:00:00,Central Junction,719.0
+2025-01-13 19:00:00,IT Park Road,799.0
+2025-01-13 19:00:00,Residential Road,684.0
+2025-01-13 19:00:00,Market Street,671.0
+2025-01-13 19:00:00,Ring Road,972.0
+2025-01-13 20:00:00,Central Junction,607.0
+2025-01-13 20:00:00,IT Park Road,552.0
+2025-01-13 20:00:00,Residential Road,350.0
+2025-01-13 20:00:00,Market Street,323.0
+2025-01-13 20:00:00,Ring Road,800.0
+2025-01-13 21:00:00,Central Junction,265.0
+2025-01-13 21:00:00,IT Park Road,404.0
+2025-01-13 21:00:00,Residential Road,280.0
+2025-01-13 21:00:00,Market Street,278.0
+2025-01-13 21:00:00,Ring Road,449.0
+2025-01-13 22:00:00,Central Junction,268.0
+2025-01-13 22:00:00,IT Park Road,136.0
+2025-01-13 22:00:00,Residential Road,86.0
+2025-01-13 22:00:00,Market Street,140.0
+2025-01-13 22:00:00,Ring Road,343.0
+2025-01-13 23:00:00,Central Junction,142.0
+2025-01-13 23:00:00,IT Park Road,164.0
+2025-01-13 23:00:00,Residential Road,154.0
+2025-01-13 23:00:00,Market Street,80.0
+2025-01-13 23:00:00,Ring Road,282.0
+2025-01-14 00:00:00,Central Junction,201.0
+2025-01-14 00:00:00,IT Park Road,121.0
+2025-01-14 00:00:00,Residential Road,17.0
+2025-01-14 00:00:00,Market Street,0.0
+2025-01-14 00:00:00,Ring Road,315.0
+2025-01-14 01:00:00,Central Junction,110.0
+2025-01-14 01:00:00,IT Park Road,143.0
+2025-01-14 01:00:00,Residential Road,201.0
+2025-01-14 01:00:00,Market Street,68.0
+2025-01-14 01:00:00,Ring Road,206.0
+2025-01-14 02:00:00,Central Junction,215.0
+2025-01-14 02:00:00,IT Park Road,83.0
+2025-01-14 02:00:00,Residential Road,209.0
+2025-01-14 02:00:00,Market Street,190.0
+2025-01-14 02:00:00,Ring Road,198.0
+2025-01-14 03:00:00,Central Junction,144.0
+2025-01-14 03:00:00,IT Park Road,106.0
+2025-01-14 03:00:00,Residential Road,52.0
+2025-01-14 03:00:00,Market Street,43.0
+2025-01-14 03:00:00,Ring Road,213.0
+2025-01-14 04:00:00,Central Junction,295.0
+2025-01-14 04:00:00,IT Park Road,130.0
+2025-01-14 04:00:00,Residential Road,129.0
+2025-01-14 04:00:00,Market Street,86.0
+2025-01-14 04:00:00,Ring Road,209.0
+2025-01-14 05:00:00,Central Junction,244.0
+2025-01-14 05:00:00,IT Park Road,174.0
+2025-01-14 05:00:00,Residential Road,187.0
+2025-01-14 05:00:00,Market Street,197.0
+2025-01-14 05:00:00,Ring Road,334.0
+2025-01-14 06:00:00,Central Junction,567.0
+2025-01-14 06:00:00,IT Park Road,446.0
+2025-01-14 06:00:00,Residential Road,414.0
+2025-01-14 06:00:00,Market Street,345.0
+2025-01-14 06:00:00,Ring Road,547.0
+2025-01-14 07:00:00,Central Junction,929.0
+2025-01-14 07:00:00,IT Park Road,824.0
+2025-01-14 07:00:00,Residential Road,487.0
+2025-01-14 07:00:00,Market Street,487.0
+2025-01-14 07:00:00,Ring Road,765.0
+2025-01-14 08:00:00,Central Junction,950.0
+2025-01-14 08:00:00,IT Park Road,1176.0
+2025-01-14 08:00:00,Residential Road,695.0
+2025-01-14 08:00:00,Market Street,686.0
+2025-01-14 08:00:00,Ring Road,1013.0
+2025-01-14 09:00:00,Central Junction,1186.0
+2025-01-14 09:00:00,IT Park Road,866.0
+2025-01-14 09:00:00,Residential Road,573.0
+2025-01-14 09:00:00,Market Street,728.0
+2025-01-14 09:00:00,Ring Road,805.0
+2025-01-14 10:00:00,Central Junction,718.0
+2025-01-14 10:00:00,IT Park Road,710.0
+2025-01-14 10:00:00,Residential Road,416.0
+2025-01-14 10:00:00,Market Street,575.0
+2025-01-14 10:00:00,Ring Road,634.0
+2025-01-14 11:00:00,Central Junction,538.0
+2025-01-14 11:00:00,IT Park Road,318.0
+2025-01-14 11:00:00,Residential Road,339.0
+2025-01-14 11:00:00,Market Street,446.0
+2025-01-14 11:00:00,Ring Road,373.0
+2025-01-14 12:00:00,Central Junction,447.0
+2025-01-14 12:00:00,IT Park Road,290.0
+2025-01-14 12:00:00,Residential Road,315.0
+2025-01-14 12:00:00,Market Street,656.0
+2025-01-14 12:00:00,Ring Road,631.0
+2025-01-14 13:00:00,Central Junction,516.0
+2025-01-14 13:00:00,IT Park Road,367.0
+2025-01-14 13:00:00,Residential Road,305.0
+2025-01-14 13:00:00,Market Street,553.0
+2025-01-14 13:00:00,Ring Road,612.0
+2025-01-14 14:00:00,Central Junction,440.0
+2025-01-14 14:00:00,IT Park Road,294.0
+2025-01-14 14:00:00,Residential Road,542.0
+2025-01-14 14:00:00,Market Street,638.0
+2025-01-14 14:00:00,Ring Road,560.0
+2025-01-14 15:00:00,Central Junction,545.0
+2025-01-14 15:00:00,IT Park Road,382.0
+2025-01-14 15:00:00,Residential Road,436.0
+2025-01-14 15:00:00,Market Street,620.0
+2025-01-14 15:00:00,Ring Road,743.0
+2025-01-14 16:00:00,Central Junction,793.0
+2025-01-14 16:00:00,IT Park Road,676.0
+2025-01-14 16:00:00,Residential Road,385.0
+2025-01-14 16:00:00,Market Street,710.0
+2025-01-14 16:00:00,Ring Road,807.0
+2025-01-14 17:00:00,Central Junction,714.0
+2025-01-14 17:00:00,IT Park Road,1003.0
+2025-01-14 17:00:00,Residential Road,561.0
+2025-01-14 17:00:00,Market Street,882.0
+2025-01-14 17:00:00,Ring Road,974.0
+2025-01-14 18:00:00,Central Junction,927.0
+2025-01-14 18:00:00,IT Park Road,1085.0
+2025-01-14 18:00:00,Residential Road,711.0
+2025-01-14 18:00:00,Market Street,803.0
+2025-01-14 18:00:00,Ring Road,1137.0
+2025-01-14 19:00:00,Central Junction,680.0
+2025-01-14 19:00:00,IT Park Road,931.0
+2025-01-14 19:00:00,Residential Road,549.0
+2025-01-14 19:00:00,Market Street,636.0
+2025-01-14 19:00:00,Ring Road,1043.0
+2025-01-14 20:00:00,Central Junction,529.0
+2025-01-14 20:00:00,IT Park Road,625.0
+2025-01-14 20:00:00,Residential Road,487.0
+2025-01-14 20:00:00,Market Street,476.0
+2025-01-14 20:00:00,Ring Road,659.0
+2025-01-14 21:00:00,Central Junction,376.0
+2025-01-14 21:00:00,IT Park Road,354.0
+2025-01-14 21:00:00,Residential Road,230.0
+2025-01-14 21:00:00,Market Street,263.0
+2025-01-14 21:00:00,Ring Road,581.0
+2025-01-14 22:00:00,Central Junction,262.0
+2025-01-14 22:00:00,IT Park Road,177.0
+2025-01-14 22:00:00,Residential Road,172.0
+2025-01-14 22:00:00,Market Street,130.0
+2025-01-14 22:00:00,Ring Road,332.0
+2025-01-14 23:00:00,Central Junction,210.0
+2025-01-14 23:00:00,IT Park Road,113.0
+2025-01-14 23:00:00,Residential Road,285.0
+2025-01-14 23:00:00,Market Street,100.0
+2025-01-14 23:00:00,Ring Road,223.0
+2025-01-15 00:00:00,Central Junction,163.0
+2025-01-15 00:00:00,IT Park Road,97.0
+2025-01-15 00:00:00,Residential Road,111.0
+2025-01-15 00:00:00,Market Street,130.0
+2025-01-15 00:00:00,Ring Road,278.0
+2025-01-15 01:00:00,Central Junction,212.0
+2025-01-15 01:00:00,IT Park Road,78.0
+2025-01-15 01:00:00,Residential Road,209.0
+2025-01-15 01:00:00,Market Street,146.0
+2025-01-15 01:00:00,Ring Road,410.0
+2025-01-15 02:00:00,Central Junction,145.0
+2025-01-15 02:00:00,IT Park Road,64.0
+2025-01-15 02:00:00,Residential Road,137.0
+2025-01-15 02:00:00,Market Street,135.0
+2025-01-15 02:00:00,Ring Road,286.0
+2025-01-15 03:00:00,Central Junction,211.0
+2025-01-15 03:00:00,IT Park Road,192.0
+2025-01-15 03:00:00,Residential Road,66.0
+2025-01-15 03:00:00,Market Street,46.0
+2025-01-15 03:00:00,Ring Road,255.0
+2025-01-15 04:00:00,Central Junction,296.0
+2025-01-15 04:00:00,IT Park Road,151.0
+2025-01-15 04:00:00,Residential Road,113.0
+2025-01-15 04:00:00,Market Street,139.0
+2025-01-15 04:00:00,Ring Road,265.0
+2025-01-15 05:00:00,Central Junction,264.0
+2025-01-15 05:00:00,IT Park Road,179.0
+2025-01-15 05:00:00,Residential Road,203.0
+2025-01-15 05:00:00,Market Street,226.0
+2025-01-15 05:00:00,Ring Road,312.0
+2025-01-15 06:00:00,Central Junction,554.0
+2025-01-15 06:00:00,IT Park Road,520.0
+2025-01-15 06:00:00,Residential Road,391.0
+2025-01-15 06:00:00,Market Street,253.0
+2025-01-15 06:00:00,Ring Road,532.0
+2025-01-15 07:00:00,Central Junction,819.0
+2025-01-15 07:00:00,IT Park Road,887.0
+2025-01-15 07:00:00,Residential Road,511.0
+2025-01-15 07:00:00,Market Street,430.0
+2025-01-15 07:00:00,Ring Road,851.0
+2025-01-15 08:00:00,Central Junction,1348.0
+2025-01-15 08:00:00,IT Park Road,1169.0
+2025-01-15 08:00:00,Residential Road,519.0
+2025-01-15 08:00:00,Market Street,580.0
+2025-01-15 08:00:00,Ring Road,1019.0
+2025-01-15 09:00:00,Central Junction,868.0
+2025-01-15 09:00:00,IT Park Road,1056.0
+2025-01-15 09:00:00,Residential Road,452.0
+2025-01-15 09:00:00,Market Street,678.0
+2025-01-15 09:00:00,Ring Road,759.0
+2025-01-15 10:00:00,Central Junction,663.0
+2025-01-15 10:00:00,IT Park Road,498.0
+2025-01-15 10:00:00,Residential Road,460.0
+2025-01-15 10:00:00,Market Street,640.0
+2025-01-15 10:00:00,Ring Road,716.0
+2025-01-15 11:00:00,Central Junction,
+2025-01-15 11:00:00,IT Park Road,222.0
+2025-01-15 11:00:00,Residential Road,352.0
+2025-01-15 11:00:00,Market Street,590.0
+2025-01-15 11:00:00,Ring Road,613.0
+2025-01-15 12:00:00,Central Junction,353.0
+2025-01-15 12:00:00,IT Park Road,342.0
+2025-01-15 12:00:00,Residential Road,375.0
+2025-01-15 12:00:00,Market Street,609.0
+2025-01-15 12:00:00,Ring Road,462.0
+2025-01-15 13:00:00,Central Junction,457.0
+2025-01-15 13:00:00,IT Park Road,400.0
+2025-01-15 13:00:00,Residential Road,416.0
+2025-01-15 13:00:00,Market Street,668.0
+2025-01-15 13:00:00,Ring Road,627.0
+2025-01-15 14:00:00,Central Junction,589.0
+2025-01-15 14:00:00,IT Park Road,396.0
+2025-01-15 14:00:00,Residential Road,441.0
+2025-01-15 14:00:00,Market Street,726.0
+2025-01-15 14:00:00,Ring Road,795.0
+2025-01-15 15:00:00,Central Junction,553.0
+2025-01-15 15:00:00,IT Park Road,448.0
+2025-01-15 15:00:00,Residential Road,241.0
+2025-01-15 15:00:00,Market Street,674.0
+2025-01-15 15:00:00,Ring Road,822.0
+2025-01-15 16:00:00,Central Junction,859.0
+2025-01-15 16:00:00,IT Park Road,774.0
+2025-01-15 16:00:00,Residential Road,626.0
+2025-01-15 16:00:00,Market Street,747.0
+2025-01-15 16:00:00,Ring Road,
+2025-01-15 17:00:00,Central Junction,1153.0
+2025-01-15 17:00:00,IT Park Road,1004.0
+2025-01-15 17:00:00,Residential Road,747.0
+2025-01-15 17:00:00,Market Street,574.0
+2025-01-15 17:00:00,Ring Road,753.0
+2025-01-15 18:00:00,Central Junction,1011.0
+2025-01-15 18:00:00,IT Park Road,965.0
+2025-01-15 18:00:00,Residential Road,196.0
+2025-01-15 18:00:00,Market Street,802.0
+2025-01-15 18:00:00,Ring Road,1133.0
+2025-01-15 19:00:00,Central Junction,931.0
+2025-01-15 19:00:00,IT Park Road,887.0
+2025-01-15 19:00:00,Residential Road,590.0
+2025-01-15 19:00:00,Market Street,580.0
+2025-01-15 19:00:00,Ring Road,837.0
+2025-01-15 20:00:00,Central Junction,647.0
+2025-01-15 20:00:00,IT Park Road,643.0
+2025-01-15 20:00:00,Residential Road,441.0
+2025-01-15 20:00:00,Market Street,299.0
+2025-01-15 20:00:00,Ring Road,680.0
+2025-01-15 21:00:00,Central Junction,458.0
+2025-01-15 21:00:00,IT Park Road,264.0
+2025-01-15 21:00:00,Residential Road,300.0
+2025-01-15 21:00:00,Market Street,343.0
+2025-01-15 21:00:00,Ring Road,411.0
+2025-01-15 22:00:00,Central Junction,281.0
+2025-01-15 22:00:00,IT Park Road,161.0
+2025-01-15 22:00:00,Residential Road,268.0
+2025-01-15 22:00:00,Market Street,53.0
+2025-01-15 22:00:00,Ring Road,278.0
+2025-01-15 23:00:00,Central Junction,190.0
+2025-01-15 23:00:00,IT Park Road,151.0
+2025-01-15 23:00:00,Residential Road,136.0
+2025-01-15 23:00:00,Market Street,104.0
+2025-01-15 23:00:00,Ring Road,310.0
+2025-01-16 00:00:00,Central Junction,178.0
+2025-01-16 00:00:00,IT Park Road,130.0
+2025-01-16 00:00:00,Residential Road,164.0
+2025-01-16 00:00:00,Market Street,70.0
+2025-01-16 00:00:00,Ring Road,250.0
+2025-01-16 01:00:00,Central Junction,208.0
+2025-01-16 01:00:00,IT Park Road,141.0
+2025-01-16 01:00:00,Residential Road,118.0
+2025-01-16 01:00:00,Market Street,145.0
+2025-01-16 01:00:00,Ring Road,172.0
+2025-01-16 02:00:00,Central Junction,163.0
+2025-01-16 02:00:00,IT Park Road,78.0
+2025-01-16 02:00:00,Residential Road,222.0
+2025-01-16 02:00:00,Market Street,58.0
+2025-01-16 02:00:00,Ring Road,332.0
+2025-01-16 03:00:00,Central Junction,152.0
+2025-01-16 03:00:00,IT Park Road,4.0
+2025-01-16 03:00:00,Residential Road,138.0
+2025-01-16 03:00:00,Market Street,103.0
+2025-01-16 03:00:00,Ring Road,322.0
+2025-01-16 04:00:00,Central Junction,169.0
+2025-01-16 04:00:00,IT Park Road,198.0
+2025-01-16 04:00:00,Residential Road,206.0
+2025-01-16 04:00:00,Market Street,136.0
+2025-01-16 04:00:00,Ring Road,223.0
+2025-01-16 05:00:00,Central Junction,185.0
+2025-01-16 05:00:00,IT Park Road,220.0
+2025-01-16 05:00:00,Residential Road,192.0
+2025-01-16 05:00:00,Market Street,201.0
+2025-01-16 05:00:00,Ring Road,383.0
+2025-01-16 06:00:00,Central Junction,695.0
+2025-01-16 06:00:00,IT Park Road,436.0
+2025-01-16 06:00:00,Residential Road,364.0
+2025-01-16 06:00:00,Market Street,279.0
+2025-01-16 06:00:00,Ring Road,472.0
+2025-01-16 07:00:00,Central Junction,890.0
+2025-01-16 07:00:00,IT Park Road,819.0
+2025-01-16 07:00:00,Residential Road,370.0
+2025-01-16 07:00:00,Market Street,415.0
+2025-01-16 07:00:00,Ring Road,726.0
+2025-01-16 08:00:00,Central Junction,1016.0
+2025-01-16 08:00:00,IT Park Road,1263.0
+2025-01-16 08:00:00,Residential Road,621.0
+2025-01-16 08:00:00,Market Street,620.0
+2025-01-16 08:00:00,Ring Road,1085.0
+2025-01-16 09:00:00,Central Junction,964.0
+2025-01-16 09:00:00,IT Park Road,954.0
+2025-01-16 09:00:00,Residential Road,534.0
+2025-01-16 09:00:00,Market Street,569.0
+2025-01-16 09:00:00,Ring Road,912.0
+2025-01-16 10:00:00,Central Junction,658.0
+2025-01-16 10:00:00,IT Park Road,640.0
+2025-01-16 10:00:00,Residential Road,416.0
+2025-01-16 10:00:00,Market Street,511.0
+2025-01-16 10:00:00,Ring Road,625.0
+2025-01-16 11:00:00,Central Junction,660.0
+2025-01-16 11:00:00,IT Park Road,233.0
+2025-01-16 11:00:00,Residential Road,416.0
+2025-01-16 11:00:00,Market Street,573.0
+2025-01-16 11:00:00,Ring Road,604.0
+2025-01-16 12:00:00,Central Junction,543.0
+2025-01-16 12:00:00,IT Park Road,338.0
+2025-01-16 12:00:00,Residential Road,320.0
+2025-01-16 12:00:00,Market Street,731.0
+2025-01-16 12:00:00,Ring Road,616.0
+2025-01-16 13:00:00,Central Junction,455.0
+2025-01-16 13:00:00,IT Park Road,412.0
+2025-01-16 13:00:00,Residential Road,248.0
+2025-01-16 13:00:00,Market Street,772.0
+2025-01-16 13:00:00,Ring Road,615.0
+2025-01-16 14:00:00,Central Junction,391.0
+2025-01-16 14:00:00,IT Park Road,356.0
+2025-01-16 14:00:00,Residential Road,434.0
+2025-01-16 14:00:00,Market Street,725.0
+2025-01-16 14:00:00,Ring Road,616.0
+2025-01-16 15:00:00,Central Junction,578.0
+2025-01-16 15:00:00,IT Park Road,422.0
+2025-01-16 15:00:00,Residential Road,314.0
+2025-01-16 15:00:00,Market Street,695.0
+2025-01-16 15:00:00,Ring Road,697.0
+2025-01-16 16:00:00,Central Junction,815.0
+2025-01-16 16:00:00,IT Park Road,664.0
+2025-01-16 16:00:00,Residential Road,672.0
+2025-01-16 16:00:00,Market Street,748.0
+2025-01-16 16:00:00,Ring Road,801.0
+2025-01-16 17:00:00,Central Junction,721.0
+2025-01-16 17:00:00,IT Park Road,922.0
+2025-01-16 17:00:00,Residential Road,722.0
+2025-01-16 17:00:00,Market Street,924.0
+2025-01-16 17:00:00,Ring Road,989.0
+2025-01-16 18:00:00,Central Junction,1169.0
+2025-01-16 18:00:00,IT Park Road,961.0
+2025-01-16 18:00:00,Residential Road,737.0
+2025-01-16 18:00:00,Market Street,837.0
+2025-01-16 18:00:00,Ring Road,1112.0
+2025-01-16 19:00:00,Central Junction,868.0
+2025-01-16 19:00:00,IT Park Road,944.0
+2025-01-16 19:00:00,Residential Road,530.0
+2025-01-16 19:00:00,Market Street,770.0
+2025-01-16 19:00:00,Ring Road,1000.0
+2025-01-16 20:00:00,Central Junction,615.0
+2025-01-16 20:00:00,IT Park Road,671.0
+2025-01-16 20:00:00,Residential Road,519.0
+2025-01-16 20:00:00,Market Street,485.0
+2025-01-16 20:00:00,Ring Road,828.0
+2025-01-16 21:00:00,Central Junction,406.0
+2025-01-16 21:00:00,IT Park Road,274.0
+2025-01-16 21:00:00,Residential Road,290.0
+2025-01-16 21:00:00,Market Street,
+2025-01-16 21:00:00,Ring Road,529.0
+2025-01-16 22:00:00,Central Junction,250.0
+2025-01-16 22:00:00,IT Park Road,130.0
+2025-01-16 22:00:00,Residential Road,181.0
+2025-01-16 22:00:00,Market Street,105.0
+2025-01-16 22:00:00,Ring Road,365.0
+2025-01-16 23:00:00,Central Junction,175.0
+2025-01-16 23:00:00,IT Park Road,88.0
+2025-01-16 23:00:00,Residential Road,203.0
+2025-01-16 23:00:00,Market Street,205.0
+2025-01-16 23:00:00,Ring Road,237.0
+2025-01-17 00:00:00,Central Junction,190.0
+2025-01-17 00:00:00,IT Park Road,93.0
+2025-01-17 00:00:00,Residential Road,217.0
+2025-01-17 00:00:00,Market Street,118.0
+2025-01-17 00:00:00,Ring Road,208.0
+2025-01-17 01:00:00,Central Junction,180.0
+2025-01-17 01:00:00,IT Park Road,151.0
+2025-01-17 01:00:00,Residential Road,140.0
+2025-01-17 01:00:00,Market Street,95.0
+2025-01-17 01:00:00,Ring Road,255.0
+2025-01-17 02:00:00,Central Junction,135.0
+2025-01-17 02:00:00,IT Park Road,94.0
+2025-01-17 02:00:00,Residential Road,127.0
+2025-01-17 02:00:00,Market Street,224.0
+2025-01-17 02:00:00,Ring Road,159.0
+2025-01-17 03:00:00,Central Junction,143.0
+2025-01-17 03:00:00,IT Park Road,78.0
+2025-01-17 03:00:00,Residential Road,108.0
+2025-01-17 03:00:00,Market Street,141.0
+2025-01-17 03:00:00,Ring Road,225.0
+2025-01-17 04:00:00,Central Junction,128.0
+2025-01-17 04:00:00,IT Park Road,124.0
+2025-01-17 04:00:00,Residential Road,95.0
+2025-01-17 04:00:00,Market Street,162.0
+2025-01-17 04:00:00,Ring Road,250.0
+2025-01-17 05:00:00,Central Junction,263.0
+2025-01-17 05:00:00,IT Park Road,283.0
+2025-01-17 05:00:00,Residential Road,112.0
+2025-01-17 05:00:00,Market Street,233.0
+2025-01-17 05:00:00,Ring Road,398.0
+2025-01-17 06:00:00,Central Junction,405.0
+2025-01-17 06:00:00,IT Park Road,348.0
+2025-01-17 06:00:00,Residential Road,391.0
+2025-01-17 06:00:00,Market Street,230.0
+2025-01-17 06:00:00,Ring Road,527.0
+2025-01-17 07:00:00,Central Junction,1017.0
+2025-01-17 07:00:00,IT Park Road,925.0
+2025-01-17 07:00:00,Residential Road,533.0
+2025-01-17 07:00:00,Market Street,568.0
+2025-01-17 07:00:00,Ring Road,915.0
+2025-01-17 08:00:00,Central Junction,1127.0
+2025-01-17 08:00:00,IT Park Road,1159.0
+2025-01-17 08:00:00,Residential Road,644.0
+2025-01-17 08:00:00,Market Street,651.0
+2025-01-17 08:00:00,Ring Road,1015.0
+2025-01-17 09:00:00,Central Junction,946.0
+2025-01-17 09:00:00,IT Park Road,944.0
+2025-01-17 09:00:00,Residential Road,632.0
+2025-01-17 09:00:00,Market Street,653.0
+2025-01-17 09:00:00,Ring Road,744.0
+2025-01-17 10:00:00,Central Junction,620.0
+2025-01-17 10:00:00,IT Park Road,508.0
+2025-01-17 10:00:00,Residential Road,535.0
+2025-01-17 10:00:00,Market Street,476.0
+2025-01-17 10:00:00,Ring Road,832.0
+2025-01-17 11:00:00,Central Junction,503.0
+2025-01-17 11:00:00,IT Park Road,309.0
+2025-01-17 11:00:00,Residential Road,489.0
+2025-01-17 11:00:00,Market Street,492.0
+2025-01-17 11:00:00,Ring Road,506.0
+2025-01-17 12:00:00,Central Junction,550.0
+2025-01-17 12:00:00,IT Park Road,378.0
+2025-01-17 12:00:00,Residential Road,328.0
+2025-01-17 12:00:00,Market Street,518.0
+2025-01-17 12:00:00,Ring Road,528.0
+2025-01-17 13:00:00,Central Junction,503.0
+2025-01-17 13:00:00,IT Park Road,259.0
+2025-01-17 13:00:00,Residential Road,370.0
+2025-01-17 13:00:00,Market Street,700.0
+2025-01-17 13:00:00,Ring Road,453.0
+2025-01-17 14:00:00,Central Junction,583.0
+2025-01-17 14:00:00,IT Park Road,326.0
+2025-01-17 14:00:00,Residential Road,474.0
+2025-01-17 14:00:00,Market Street,695.0
+2025-01-17 14:00:00,Ring Road,642.0
+2025-01-17 15:00:00,Central Junction,579.0
+2025-01-17 15:00:00,IT Park Road,663.0
+2025-01-17 15:00:00,Residential Road,389.0
+2025-01-17 15:00:00,Market Street,563.0
+2025-01-17 15:00:00,Ring Road,610.0
+2025-01-17 16:00:00,Central Junction,
+2025-01-17 16:00:00,IT Park Road,713.0
+2025-01-17 16:00:00,Residential Road,523.0
+2025-01-17 16:00:00,Market Street,668.0
+2025-01-17 16:00:00,Ring Road,801.0
+2025-01-17 17:00:00,Central Junction,878.0
+2025-01-17 17:00:00,IT Park Road,1030.0
+2025-01-17 17:00:00,Residential Road,634.0
+2025-01-17 17:00:00,Market Street,732.0
+2025-01-17 17:00:00,Ring Road,1085.0
+2025-01-17 18:00:00,Central Junction,890.0
+2025-01-17 18:00:00,IT Park Road,1076.0
+2025-01-17 18:00:00,Residential Road,539.0
+2025-01-17 18:00:00,Market Street,670.0
+2025-01-17 18:00:00,Ring Road,1004.0
+2025-01-17 19:00:00,Central Junction,354.0
+2025-01-17 19:00:00,IT Park Road,762.0
+2025-01-17 19:00:00,Residential Road,663.0
+2025-01-17 19:00:00,Market Street,533.0
+2025-01-17 19:00:00,Ring Road,972.0
+2025-01-17 20:00:00,Central Junction,590.0
+2025-01-17 20:00:00,IT Park Road,736.0
+2025-01-17 20:00:00,Residential Road,320.0
+2025-01-17 20:00:00,Market Street,383.0
+2025-01-17 20:00:00,Ring Road,732.0
+2025-01-17 21:00:00,Central Junction,393.0
+2025-01-17 21:00:00,IT Park Road,354.0
+2025-01-17 21:00:00,Residential Road,339.0
+2025-01-17 21:00:00,Market Street,255.0
+2025-01-17 21:00:00,Ring Road,474.0
+2025-01-17 22:00:00,Central Junction,205.0
+2025-01-17 22:00:00,IT Park Road,146.0
+2025-01-17 22:00:00,Residential Road,229.0
+2025-01-17 22:00:00,Market Street,160.0
+2025-01-17 22:00:00,Ring Road,396.0
+2025-01-17 23:00:00,Central Junction,154.0
+2025-01-17 23:00:00,IT Park Road,115.0
+2025-01-17 23:00:00,Residential Road,144.0
+2025-01-17 23:00:00,Market Street,66.0
+2025-01-17 23:00:00,Ring Road,231.0
+2025-01-18 00:00:00,Central Junction,128.0
+2025-01-18 00:00:00,IT Park Road,121.0
+2025-01-18 00:00:00,Residential Road,153.0
+2025-01-18 00:00:00,Market Street,40.0
+2025-01-18 00:00:00,Ring Road,203.0
+2025-01-18 01:00:00,Central Junction,186.0
+2025-01-18 01:00:00,IT Park Road,44.0
+2025-01-18 01:00:00,Residential Road,112.0
+2025-01-18 01:00:00,Market Street,133.0
+2025-01-18 01:00:00,Ring Road,300.0
+2025-01-18 02:00:00,Central Junction,180.0
+2025-01-18 02:00:00,IT Park Road,122.0
+2025-01-18 02:00:00,Residential Road,132.0
+2025-01-18 02:00:00,Market Street,85.0
+2025-01-18 02:00:00,Ring Road,255.0
+2025-01-18 03:00:00,Central Junction,151.0
+2025-01-18 03:00:00,IT Park Road,73.0
+2025-01-18 03:00:00,Residential Road,195.0
+2025-01-18 03:00:00,Market Street,84.0
+2025-01-18 03:00:00,Ring Road,231.0
+2025-01-18 04:00:00,Central Junction,239.0
+2025-01-18 04:00:00,IT Park Road,93.0
+2025-01-18 04:00:00,Residential Road,207.0
+2025-01-18 04:00:00,Market Street,78.0
+2025-01-18 04:00:00,Ring Road,242.0
+2025-01-18 05:00:00,Central Junction,230.0
+2025-01-18 05:00:00,IT Park Road,171.0
+2025-01-18 05:00:00,Residential Road,250.0
+2025-01-18 05:00:00,Market Street,122.0
+2025-01-18 05:00:00,Ring Road,261.0
+2025-01-18 06:00:00,Central Junction,274.0
+2025-01-18 06:00:00,IT Park Road,250.0
+2025-01-18 06:00:00,Residential Road,278.0
+2025-01-18 06:00:00,Market Street,210.0
+2025-01-18 06:00:00,Ring Road,354.0
+2025-01-18 07:00:00,Central Junction,628.0
+2025-01-18 07:00:00,IT Park Road,444.0
+2025-01-18 07:00:00,Residential Road,231.0
+2025-01-18 07:00:00,Market Street,443.0
+2025-01-18 07:00:00,Ring Road,681.0
+2025-01-18 08:00:00,Central Junction,665.0
+2025-01-18 08:00:00,IT Park Road,612.0
+2025-01-18 08:00:00,Residential Road,500.0
+2025-01-18 08:00:00,Market Street,673.0
+2025-01-18 08:00:00,Ring Road,568.0
+2025-01-18 09:00:00,Central Junction,586.0
+2025-01-18 09:00:00,IT Park Road,388.0
+2025-01-18 09:00:00,Residential Road,409.0
+2025-01-18 09:00:00,Market Street,649.0
+2025-01-18 09:00:00,Ring Road,526.0
+2025-01-18 10:00:00,Central Junction,504.0
+2025-01-18 10:00:00,IT Park Road,382.0
+2025-01-18 10:00:00,Residential Road,402.0
+2025-01-18 10:00:00,Market Street,366.0
+2025-01-18 10:00:00,Ring Road,530.0
+2025-01-18 11:00:00,Central Junction,386.0
+2025-01-18 11:00:00,IT Park Road,308.0
+2025-01-18 11:00:00,Residential Road,223.0
+2025-01-18 11:00:00,Market Street,635.0
+2025-01-18 11:00:00,Ring Road,656.0
+2025-01-18 12:00:00,Central Junction,529.0
+2025-01-18 12:00:00,IT Park Road,292.0
+2025-01-18 12:00:00,Residential Road,281.0
+2025-01-18 12:00:00,Market Street,850.0
+2025-01-18 12:00:00,Ring Road,605.0
+2025-01-18 13:00:00,Central Junction,550.0
+2025-01-18 13:00:00,IT Park Road,420.0
+2025-01-18 13:00:00,Residential Road,273.0
+2025-01-18 13:00:00,Market Street,959.0
+2025-01-18 13:00:00,Ring Road,498.0
+2025-01-18 14:00:00,Central Junction,494.0
+2025-01-18 14:00:00,IT Park Road,216.0
+2025-01-18 14:00:00,Residential Road,295.0
+2025-01-18 14:00:00,Market Street,837.0
+2025-01-18 14:00:00,Ring Road,581.0
+2025-01-18 15:00:00,Central Junction,444.0
+2025-01-18 15:00:00,IT Park Road,355.0
+2025-01-18 15:00:00,Residential Road,303.0
+2025-01-18 15:00:00,Market Street,812.0
+2025-01-18 15:00:00,Ring Road,394.0
+2025-01-18 16:00:00,Central Junction,631.0
+2025-01-18 16:00:00,IT Park Road,394.0
+2025-01-18 16:00:00,Residential Road,377.0
+2025-01-18 16:00:00,Market Street,614.0
+2025-01-18 16:00:00,Ring Road,616.0
+2025-01-18 17:00:00,Central Junction,637.0
+2025-01-18 17:00:00,IT Park Road,584.0
+2025-01-18 17:00:00,Residential Road,458.0
+2025-01-18 17:00:00,Market Street,754.0
+2025-01-18 17:00:00,Ring Road,655.0
+2025-01-18 18:00:00,Central Junction,599.0
+2025-01-18 18:00:00,IT Park Road,560.0
+2025-01-18 18:00:00,Residential Road,414.0
+2025-01-18 18:00:00,Market Street,781.0
+2025-01-18 18:00:00,Ring Road,790.0
+2025-01-18 19:00:00,Central Junction,459.0
+2025-01-18 19:00:00,IT Park Road,505.0
+2025-01-18 19:00:00,Residential Road,314.0
+2025-01-18 19:00:00,Market Street,562.0
+2025-01-18 19:00:00,Ring Road,569.0
+2025-01-18 20:00:00,Central Junction,402.0
+2025-01-18 20:00:00,IT Park Road,361.0
+2025-01-18 20:00:00,Residential Road,292.0
+2025-01-18 20:00:00,Market Street,432.0
+2025-01-18 20:00:00,Ring Road,405.0
+2025-01-18 21:00:00,Central Junction,285.0
+2025-01-18 21:00:00,IT Park Road,251.0
+2025-01-18 21:00:00,Residential Road,188.0
+2025-01-18 21:00:00,Market Street,180.0
+2025-01-18 21:00:00,Ring Road,322.0
+2025-01-18 22:00:00,Central Junction,222.0
+2025-01-18 22:00:00,IT Park Road,116.0
+2025-01-18 22:00:00,Residential Road,116.0
+2025-01-18 22:00:00,Market Street,169.0
+2025-01-18 22:00:00,Ring Road,358.0
+2025-01-18 23:00:00,Central Junction,232.0
+2025-01-18 23:00:00,IT Park Road,187.0
+2025-01-18 23:00:00,Residential Road,216.0
+2025-01-18 23:00:00,Market Street,219.0
+2025-01-18 23:00:00,Ring Road,213.0
+2025-01-19 00:00:00,Central Junction,217.0
+2025-01-19 00:00:00,IT Park Road,97.0
+2025-01-19 00:00:00,Residential Road,185.0
+2025-01-19 00:00:00,Market Street,64.0
+2025-01-19 00:00:00,Ring Road,273.0
+2025-01-19 01:00:00,Central Junction,257.0
+2025-01-19 01:00:00,IT Park Road,112.0
+2025-01-19 01:00:00,Residential Road,120.0
+2025-01-19 01:00:00,Market Street,84.0
+2025-01-19 01:00:00,Ring Road,278.0
+2025-01-19 02:00:00,Central Junction,213.0
+2025-01-19 02:00:00,IT Park Road,110.0
+2025-01-19 02:00:00,Residential Road,148.0
+2025-01-19 02:00:00,Market Street,89.0
+2025-01-19 02:00:00,Ring Road,296.0
+2025-01-19 03:00:00,Central Junction,184.0
+2025-01-19 03:00:00,IT Park Road,79.0
+2025-01-19 03:00:00,Residential Road,208.0
+2025-01-19 03:00:00,Market Street,145.0
+2025-01-19 03:00:00,Ring Road,251.0
+2025-01-19 04:00:00,Central Junction,151.0
+2025-01-19 04:00:00,IT Park Road,121.0
+2025-01-19 04:00:00,Residential Road,172.0
+2025-01-19 04:00:00,Market Street,126.0
+2025-01-19 04:00:00,Ring Road,281.0
+2025-01-19 05:00:00,Central Junction,184.0
+2025-01-19 05:00:00,IT Park Road,148.0
+2025-01-19 05:00:00,Residential Road,139.0
+2025-01-19 05:00:00,Market Street,158.0
+2025-01-19 05:00:00,Ring Road,262.0
+2025-01-19 06:00:00,Central Junction,383.0
+2025-01-19 06:00:00,IT Park Road,324.0
+2025-01-19 06:00:00,Residential Road,254.0
+2025-01-19 06:00:00,Market Street,250.0
+2025-01-19 06:00:00,Ring Road,326.0
+2025-01-19 07:00:00,Central Junction,592.0
+2025-01-19 07:00:00,IT Park Road,499.0
+2025-01-19 07:00:00,Residential Road,232.0
+2025-01-19 07:00:00,Market Street,483.0
+2025-01-19 07:00:00,Ring Road,588.0
+2025-01-19 08:00:00,Central Junction,541.0
+2025-01-19 08:00:00,IT Park Road,667.0
+2025-01-19 08:00:00,Residential Road,313.0
+2025-01-19 08:00:00,Market Street,560.0
+2025-01-19 08:00:00,Ring Road,553.0
+2025-01-19 09:00:00,Central Junction,545.0
+2025-01-19 09:00:00,IT Park Road,457.0
+2025-01-19 09:00:00,Residential Road,442.0
+2025-01-19 09:00:00,Market Street,618.0
+2025-01-19 09:00:00,Ring Road,593.0
+2025-01-19 10:00:00,Central Junction,564.0
+2025-01-19 10:00:00,IT Park Road,448.0
+2025-01-19 10:00:00,Residential Road,301.0
+2025-01-19 10:00:00,Market Street,636.0
+2025-01-19 10:00:00,Ring Road,494.0
+2025-01-19 11:00:00,Central Junction,420.0
+2025-01-19 11:00:00,IT Park Road,234.0
+2025-01-19 11:00:00,Residential Road,325.0
+2025-01-19 11:00:00,Market Street,742.0
+2025-01-19 11:00:00,Ring Road,565.0
+2025-01-19 12:00:00,Central Junction,434.0
+2025-01-19 12:00:00,IT Park Road,178.0
+2025-01-19 12:00:00,Residential Road,273.0
+2025-01-19 12:00:00,Market Street,710.0
+2025-01-19 12:00:00,Ring Road,416.0
+2025-01-19 13:00:00,Central Junction,347.0
+2025-01-19 13:00:00,IT Park Road,371.0
+2025-01-19 13:00:00,Residential Road,366.0
+2025-01-19 13:00:00,Market Street,803.0
+2025-01-19 13:00:00,Ring Road,575.0
+2025-01-19 14:00:00,Central Junction,372.0
+2025-01-19 14:00:00,IT Park Road,255.0
+2025-01-19 14:00:00,Residential Road,336.0
+2025-01-19 14:00:00,Market Street,774.0
+2025-01-19 14:00:00,Ring Road,430.0
+2025-01-19 15:00:00,Central Junction,480.0
+2025-01-19 15:00:00,IT Park Road,345.0
+2025-01-19 15:00:00,Residential Road,393.0
+2025-01-19 15:00:00,Market Street,751.0
+2025-01-19 15:00:00,Ring Road,664.0
+2025-01-19 16:00:00,Central Junction,499.0
+2025-01-19 16:00:00,IT Park Road,372.0
+2025-01-19 16:00:00,Residential Road,475.0
+2025-01-19 16:00:00,Market Street,766.0
+2025-01-19 16:00:00,Ring Road,592.0
+2025-01-19 17:00:00,Central Junction,531.0
+2025-01-19 17:00:00,IT Park Road,533.0
+2025-01-19 17:00:00,Residential Road,402.0
+2025-01-19 17:00:00,Market Street,663.0
+2025-01-19 17:00:00,Ring Road,489.0
+2025-01-19 18:00:00,Central Junction,577.0
+2025-01-19 18:00:00,IT Park Road,656.0
+2025-01-19 18:00:00,Residential Road,525.0
+2025-01-19 18:00:00,Market Street,823.0
+2025-01-19 18:00:00,Ring Road,762.0
+2025-01-19 19:00:00,Central Junction,453.0
+2025-01-19 19:00:00,IT Park Road,530.0
+2025-01-19 19:00:00,Residential Road,419.0
+2025-01-19 19:00:00,Market Street,646.0
+2025-01-19 19:00:00,Ring Road,589.0
+2025-01-19 20:00:00,Central Junction,399.0
+2025-01-19 20:00:00,IT Park Road,474.0
+2025-01-19 20:00:00,Residential Road,346.0
+2025-01-19 20:00:00,Market Street,437.0
+2025-01-19 20:00:00,Ring Road,509.0
+2025-01-19 21:00:00,Central Junction,249.0
+2025-01-19 21:00:00,IT Park Road,245.0
+2025-01-19 21:00:00,Residential Road,220.0
+2025-01-19 21:00:00,Market Street,291.0
+2025-01-19 21:00:00,Ring Road,310.0
+2025-01-19 22:00:00,Central Junction,249.0
+2025-01-19 22:00:00,IT Park Road,123.0
+2025-01-19 22:00:00,Residential Road,207.0
+2025-01-19 22:00:00,Market Street,175.0
+2025-01-19 22:00:00,Ring Road,293.0
+2025-01-19 23:00:00,Central Junction,175.0
+2025-01-19 23:00:00,IT Park Road,107.0
+2025-01-19 23:00:00,Residential Road,137.0
+2025-01-19 23:00:00,Market Street,118.0
+2025-01-19 23:00:00,Ring Road,293.0
+2025-01-20 00:00:00,Central Junction,103.0
+2025-01-20 00:00:00,IT Park Road,132.0
+2025-01-20 00:00:00,Residential Road,186.0
+2025-01-20 00:00:00,Market Street,110.0
+2025-01-20 00:00:00,Ring Road,269.0
+2025-01-20 01:00:00,Central Junction,136.0
+2025-01-20 01:00:00,IT Park Road,118.0
+2025-01-20 01:00:00,Residential Road,113.0
+2025-01-20 01:00:00,Market Street,3.0
+2025-01-20 01:00:00,Ring Road,327.0
+2025-01-20 02:00:00,Central Junction,132.0
+2025-01-20 02:00:00,IT Park Road,98.0
+2025-01-20 02:00:00,Residential Road,160.0
+2025-01-20 02:00:00,Market Street,141.0
+2025-01-20 02:00:00,Ring Road,262.0
+2025-01-20 03:00:00,Central Junction,197.0
+2025-01-20 03:00:00,IT Park Road,92.0
+2025-01-20 03:00:00,Residential Road,84.0
+2025-01-20 03:00:00,Market Street,121.0
+2025-01-20 03:00:00,Ring Road,295.0
+2025-01-20 04:00:00,Central Junction,151.0
+2025-01-20 04:00:00,IT Park Road,129.0
+2025-01-20 04:00:00,Residential Road,
+2025-01-20 04:00:00,Market Street,128.0
+2025-01-20 04:00:00,Ring Road,273.0
+2025-01-20 05:00:00,Central Junction,192.0
+2025-01-20 05:00:00,IT Park Road,153.0
+2025-01-20 05:00:00,Residential Road,160.0
+2025-01-20 05:00:00,Market Street,202.0
+2025-01-20 05:00:00,Ring Road,286.0
+2025-01-20 06:00:00,Central Junction,379.0
+2025-01-20 06:00:00,IT Park Road,494.0
+2025-01-20 06:00:00,Residential Road,276.0
+2025-01-20 06:00:00,Market Street,217.0
+2025-01-20 06:00:00,Ring Road,583.0
+2025-01-20 07:00:00,Central Junction,846.0
+2025-01-20 07:00:00,IT Park Road,925.0
+2025-01-20 07:00:00,Residential Road,588.0
+2025-01-20 07:00:00,Market Street,365.0
+2025-01-20 07:00:00,Ring Road,803.0
+2025-01-20 08:00:00,Central Junction,1110.0
+2025-01-20 08:00:00,IT Park Road,1221.0
+2025-01-20 08:00:00,Residential Road,836.0
+2025-01-20 08:00:00,Market Street,741.0
+2025-01-20 08:00:00,Ring Road,1323.0
+2025-01-20 09:00:00,Central Junction,999.0
+2025-01-20 09:00:00,IT Park Road,1121.0
+2025-01-20 09:00:00,Residential Road,436.0
+2025-01-20 09:00:00,Market Street,612.0
+2025-01-20 09:00:00,Ring Road,789.0
+2025-01-20 10:00:00,Central Junction,614.0
+2025-01-20 10:00:00,IT Park Road,555.0
+2025-01-20 10:00:00,Residential Road,544.0
+2025-01-20 10:00:00,Market Street,568.0
+2025-01-20 10:00:00,Ring Road,780.0
+2025-01-20 11:00:00,Central Junction,475.0
+2025-01-20 11:00:00,IT Park Road,334.0
+2025-01-20 11:00:00,Residential Road,250.0
+2025-01-20 11:00:00,Market Street,698.0
+2025-01-20 11:00:00,Ring Road,677.0
+2025-01-20 12:00:00,Central Junction,496.0
+2025-01-20 12:00:00,IT Park Road,305.0
+2025-01-20 12:00:00,Residential Road,344.0
+2025-01-20 12:00:00,Market Street,498.0
+2025-01-20 12:00:00,Ring Road,593.0
+2025-01-20 13:00:00,Central Junction,590.0
+2025-01-20 13:00:00,IT Park Road,411.0
+2025-01-20 13:00:00,Residential Road,258.0
+2025-01-20 13:00:00,Market Street,718.0
+2025-01-20 13:00:00,Ring Road,476.0
+2025-01-20 14:00:00,Central Junction,367.0
+2025-01-20 14:00:00,IT Park Road,438.0
+2025-01-20 14:00:00,Residential Road,338.0
+2025-01-20 14:00:00,Market Street,711.0
+2025-01-20 14:00:00,Ring Road,665.0
+2025-01-20 15:00:00,Central Junction,647.0
+2025-01-20 15:00:00,IT Park Road,488.0
+2025-01-20 15:00:00,Residential Road,341.0
+2025-01-20 15:00:00,Market Street,622.0
+2025-01-20 15:00:00,Ring Road,782.0
+2025-01-20 16:00:00,Central Junction,834.0
+2025-01-20 16:00:00,IT Park Road,685.0
+2025-01-20 16:00:00,Residential Road,510.0
+2025-01-20 16:00:00,Market Street,759.0
+2025-01-20 16:00:00,Ring Road,825.0
+2025-01-20 17:00:00,Central Junction,911.0
+2025-01-20 17:00:00,IT Park Road,1017.0
+2025-01-20 17:00:00,Residential Road,696.0
+2025-01-20 17:00:00,Market Street,733.0
+2025-01-20 17:00:00,Ring Road,1021.0
+2025-01-20 18:00:00,Central Junction,1040.0
+2025-01-20 18:00:00,IT Park Road,1065.0
+2025-01-20 18:00:00,Residential Road,265.0
+2025-01-20 18:00:00,Market Street,651.0
+2025-01-20 18:00:00,Ring Road,1212.0
+2025-01-20 19:00:00,Central Junction,726.0
+2025-01-20 19:00:00,IT Park Road,895.0
+2025-01-20 19:00:00,Residential Road,590.0
+2025-01-20 19:00:00,Market Street,687.0
+2025-01-20 19:00:00,Ring Road,774.0
+2025-01-20 20:00:00,Central Junction,564.0
+2025-01-20 20:00:00,IT Park Road,533.0
+2025-01-20 20:00:00,Residential Road,451.0
+2025-01-20 20:00:00,Market Street,471.0
+2025-01-20 20:00:00,Ring Road,601.0
+2025-01-20 21:00:00,Central Junction,427.0
+2025-01-20 21:00:00,IT Park Road,355.0
+2025-01-20 21:00:00,Residential Road,210.0
+2025-01-20 21:00:00,Market Street,173.0
+2025-01-20 21:00:00,Ring Road,420.0
+2025-01-20 22:00:00,Central Junction,261.0
+2025-01-20 22:00:00,IT Park Road,134.0
+2025-01-20 22:00:00,Residential Road,196.0
+2025-01-20 22:00:00,Market Street,159.0
+2025-01-20 22:00:00,Ring Road,414.0
+2025-01-20 23:00:00,Central Junction,136.0
+2025-01-20 23:00:00,IT Park Road,154.0
+2025-01-20 23:00:00,Residential Road,196.0
+2025-01-20 23:00:00,Market Street,128.0
+2025-01-20 23:00:00,Ring Road,171.0
+2025-01-21 00:00:00,Central Junction,189.0
+2025-01-21 00:00:00,IT Park Road,44.0
+2025-01-21 00:00:00,Residential Road,243.0
+2025-01-21 00:00:00,Market Street,117.0
+2025-01-21 00:00:00,Ring Road,368.0
+2025-01-21 01:00:00,Central Junction,190.0
+2025-01-21 01:00:00,IT Park Road,77.0
+2025-01-21 01:00:00,Residential Road,211.0
+2025-01-21 01:00:00,Market Street,140.0
+2025-01-21 01:00:00,Ring Road,393.0
+2025-01-21 02:00:00,Central Junction,153.0
+2025-01-21 02:00:00,IT Park Road,159.0
+2025-01-21 02:00:00,Residential Road,260.0
+2025-01-21 02:00:00,Market Street,184.0
+2025-01-21 02:00:00,Ring Road,303.0
+2025-01-21 03:00:00,Central Junction,252.0
+2025-01-21 03:00:00,IT Park Road,101.0
+2025-01-21 03:00:00,Residential Road,116.0
+2025-01-21 03:00:00,Market Street,102.0
+2025-01-21 03:00:00,Ring Road,269.0
+2025-01-21 04:00:00,Central Junction,240.0
+2025-01-21 04:00:00,IT Park Road,89.0
+2025-01-21 04:00:00,Residential Road,147.0
+2025-01-21 04:00:00,Market Street,103.0
+2025-01-21 04:00:00,Ring Road,332.0
+2025-01-21 05:00:00,Central Junction,386.0
+2025-01-21 05:00:00,IT Park Road,160.0
+2025-01-21 05:00:00,Residential Road,230.0
+2025-01-21 05:00:00,Market Street,231.0
+2025-01-21 05:00:00,Ring Road,332.0
+2025-01-21 06:00:00,Central Junction,419.0
+2025-01-21 06:00:00,IT Park Road,557.0
+2025-01-21 06:00:00,Residential Road,240.0
+2025-01-21 06:00:00,Market Street,395.0
+2025-01-21 06:00:00,Ring Road,485.0
+2025-01-21 07:00:00,Central Junction,739.0
+2025-01-21 07:00:00,IT Park Road,840.0
+2025-01-21 07:00:00,Residential Road,509.0
+2025-01-21 07:00:00,Market Street,526.0
+2025-01-21 07:00:00,Ring Road,904.0
+2025-01-21 08:00:00,Central Junction,1142.0
+2025-01-21 08:00:00,IT Park Road,1330.0
+2025-01-21 08:00:00,Residential Road,620.0
+2025-01-21 08:00:00,Market Street,687.0
+2025-01-21 08:00:00,Ring Road,1056.0
+2025-01-21 09:00:00,Central Junction,798.0
+2025-01-21 09:00:00,IT Park Road,822.0
+2025-01-21 09:00:00,Residential Road,565.0
+2025-01-21 09:00:00,Market Street,681.0
+2025-01-21 09:00:00,Ring Road,724.0
+2025-01-21 10:00:00,Central Junction,829.0
+2025-01-21 10:00:00,IT Park Road,623.0
+2025-01-21 10:00:00,Residential Road,422.0
+2025-01-21 10:00:00,Market Street,605.0
+2025-01-21 10:00:00,Ring Road,651.0
+2025-01-21 11:00:00,Central Junction,523.0
+2025-01-21 11:00:00,IT Park Road,392.0
+2025-01-21 11:00:00,Residential Road,423.0
+2025-01-21 11:00:00,Market Street,549.0
+2025-01-21 11:00:00,Ring Road,469.0
+2025-01-21 12:00:00,Central Junction,426.0
+2025-01-21 12:00:00,IT Park Road,308.0
+2025-01-21 12:00:00,Residential Road,266.0
+2025-01-21 12:00:00,Market Street,531.0
+2025-01-21 12:00:00,Ring Road,499.0
+2025-01-21 13:00:00,Central Junction,479.0
+2025-01-21 13:00:00,IT Park Road,363.0
+2025-01-21 13:00:00,Residential Road,334.0
+2025-01-21 13:00:00,Market Street,684.0
+2025-01-21 13:00:00,Ring Road,581.0
+2025-01-21 14:00:00,Central Junction,458.0
+2025-01-21 14:00:00,IT Park Road,396.0
+2025-01-21 14:00:00,Residential Road,385.0
+2025-01-21 14:00:00,Market Street,689.0
+2025-01-21 14:00:00,Ring Road,668.0
+2025-01-21 15:00:00,Central Junction,697.0
+2025-01-21 15:00:00,IT Park Road,525.0
+2025-01-21 15:00:00,Residential Road,435.0
+2025-01-21 15:00:00,Market Street,701.0
+2025-01-21 15:00:00,Ring Road,634.0
+2025-01-21 16:00:00,Central Junction,707.0
+2025-01-21 16:00:00,IT Park Road,835.0
+2025-01-21 16:00:00,Residential Road,493.0
+2025-01-21 16:00:00,Market Street,642.0
+2025-01-21 16:00:00,Ring Road,869.0
+2025-01-21 17:00:00,Central Junction,893.0
+2025-01-21 17:00:00,IT Park Road,1053.0
+2025-01-21 17:00:00,Residential Road,759.0
+2025-01-21 17:00:00,Market Street,733.0
+2025-01-21 17:00:00,Ring Road,1063.0
+2025-01-21 18:00:00,Central Junction,941.0
+2025-01-21 18:00:00,IT Park Road,1048.0
+2025-01-21 18:00:00,Residential Road,733.0
+2025-01-21 18:00:00,Market Street,755.0
+2025-01-21 18:00:00,Ring Road,1076.0
+2025-01-21 19:00:00,Central Junction,845.0
+2025-01-21 19:00:00,IT Park Road,997.0
+2025-01-21 19:00:00,Residential Road,676.0
+2025-01-21 19:00:00,Market Street,623.0
+2025-01-21 19:00:00,Ring Road,947.0
+2025-01-21 20:00:00,Central Junction,673.0
+2025-01-21 20:00:00,IT Park Road,525.0
+2025-01-21 20:00:00,Residential Road,423.0
+2025-01-21 20:00:00,Market Street,469.0
+2025-01-21 20:00:00,Ring Road,577.0
+2025-01-21 21:00:00,Central Junction,473.0
+2025-01-21 21:00:00,IT Park Road,494.0
+2025-01-21 21:00:00,Residential Road,248.0
+2025-01-21 21:00:00,Market Street,347.0
+2025-01-21 21:00:00,Ring Road,483.0
+2025-01-21 22:00:00,Central Junction,231.0
+2025-01-21 22:00:00,IT Park Road,123.0
+2025-01-21 22:00:00,Residential Road,188.0
+2025-01-21 22:00:00,Market Street,132.0
+2025-01-21 22:00:00,Ring Road,335.0
+2025-01-21 23:00:00,Central Junction,67.0
+2025-01-21 23:00:00,IT Park Road,124.0
+2025-01-21 23:00:00,Residential Road,178.0
+2025-01-21 23:00:00,Market Street,118.0
+2025-01-21 23:00:00,Ring Road,260.0
+2025-01-22 00:00:00,Central Junction,160.0
+2025-01-22 00:00:00,IT Park Road,97.0
+2025-01-22 00:00:00,Residential Road,221.0
+2025-01-22 00:00:00,Market Street,162.0
+2025-01-22 00:00:00,Ring Road,257.0
+2025-01-22 01:00:00,Central Junction,164.0
+2025-01-22 01:00:00,IT Park Road,136.0
+2025-01-22 01:00:00,Residential Road,161.0
+2025-01-22 01:00:00,Market Street,78.0
+2025-01-22 01:00:00,Ring Road,251.0
+2025-01-22 02:00:00,Central Junction,248.0
+2025-01-22 02:00:00,IT Park Road,125.0
+2025-01-22 02:00:00,Residential Road,136.0
+2025-01-22 02:00:00,Market Street,60.0
+2025-01-22 02:00:00,Ring Road,276.0
+2025-01-22 03:00:00,Central Junction,186.0
+2025-01-22 03:00:00,IT Park Road,98.0
+2025-01-22 03:00:00,Residential Road,191.0
+2025-01-22 03:00:00,Market Street,148.0
+2025-01-22 03:00:00,Ring Road,190.0
+2025-01-22 04:00:00,Central Junction,202.0
+2025-01-22 04:00:00,IT Park Road,69.0
+2025-01-22 04:00:00,Residential Road,140.0
+2025-01-22 04:00:00,Market Street,77.0
+2025-01-22 04:00:00,Ring Road,211.0
+2025-01-22 05:00:00,Central Junction,183.0
+2025-01-22 05:00:00,IT Park Road,227.0
+2025-01-22 05:00:00,Residential Road,214.0
+2025-01-22 05:00:00,Market Street,175.0
+2025-01-22 05:00:00,Ring Road,310.0
+2025-01-22 06:00:00,Central Junction,
+2025-01-22 06:00:00,IT Park Road,439.0
+2025-01-22 06:00:00,Residential Road,335.0
+2025-01-22 06:00:00,Market Street,318.0
+2025-01-22 06:00:00,Ring Road,633.0
+2025-01-22 07:00:00,Central Junction,1001.0
+2025-01-22 07:00:00,IT Park Road,883.0
+2025-01-22 07:00:00,Residential Road,476.0
+2025-01-22 07:00:00,Market Street,456.0
+2025-01-22 07:00:00,Ring Road,705.0
+2025-01-22 08:00:00,Central Junction,984.0
+2025-01-22 08:00:00,IT Park Road,933.0
+2025-01-22 08:00:00,Residential Road,760.0
+2025-01-22 08:00:00,Market Street,681.0
+2025-01-22 08:00:00,Ring Road,1094.0
+2025-01-22 09:00:00,Central Junction,937.0
+2025-01-22 09:00:00,IT Park Road,1178.0
+2025-01-22 09:00:00,Residential Road,477.0
+2025-01-22 09:00:00,Market Street,520.0
+2025-01-22 09:00:00,Ring Road,1156.0
+2025-01-22 10:00:00,Central Junction,559.0
+2025-01-22 10:00:00,IT Park Road,558.0
+2025-01-22 10:00:00,Residential Road,375.0
+2025-01-22 10:00:00,Market Street,593.0
+2025-01-22 10:00:00,Ring Road,662.0
+2025-01-22 11:00:00,Central Junction,551.0
+2025-01-22 11:00:00,IT Park Road,420.0
+2025-01-22 11:00:00,Residential Road,260.0
+2025-01-22 11:00:00,Market Street,499.0
+2025-01-22 11:00:00,Ring Road,624.0
+2025-01-22 12:00:00,Central Junction,555.0
+2025-01-22 12:00:00,IT Park Road,330.0
+2025-01-22 12:00:00,Residential Road,366.0
+2025-01-22 12:00:00,Market Street,713.0
+2025-01-22 12:00:00,Ring Road,534.0
+2025-01-22 13:00:00,Central Junction,509.0
+2025-01-22 13:00:00,IT Park Road,400.0
+2025-01-22 13:00:00,Residential Road,428.0
+2025-01-22 13:00:00,Market Street,627.0
+2025-01-22 13:00:00,Ring Road,520.0
+2025-01-22 14:00:00,Central Junction,515.0
+2025-01-22 14:00:00,IT Park Road,370.0
+2025-01-22 14:00:00,Residential Road,322.0
+2025-01-22 14:00:00,Market Street,584.0
+2025-01-22 14:00:00,Ring Road,698.0
+2025-01-22 15:00:00,Central Junction,631.0
+2025-01-22 15:00:00,IT Park Road,465.0
+2025-01-22 15:00:00,Residential Road,355.0
+2025-01-22 15:00:00,Market Street,595.0
+2025-01-22 15:00:00,Ring Road,537.0
+2025-01-22 16:00:00,Central Junction,767.0
+2025-01-22 16:00:00,IT Park Road,648.0
+2025-01-22 16:00:00,Residential Road,550.0
+2025-01-22 16:00:00,Market Street,768.0
+2025-01-22 16:00:00,Ring Road,841.0
+2025-01-22 17:00:00,Central Junction,894.0
+2025-01-22 17:00:00,IT Park Road,879.0
+2025-01-22 17:00:00,Residential Road,564.0
+2025-01-22 17:00:00,Market Street,898.0
+2025-01-22 17:00:00,Ring Road,1013.0
+2025-01-22 18:00:00,Central Junction,961.0
+2025-01-22 18:00:00,IT Park Road,1130.0
+2025-01-22 18:00:00,Residential Road,
+2025-01-22 18:00:00,Market Street,736.0
+2025-01-22 18:00:00,Ring Road,1070.0
+2025-01-22 19:00:00,Central Junction,877.0
+2025-01-22 19:00:00,IT Park Road,
+2025-01-22 19:00:00,Residential Road,580.0
+2025-01-22 19:00:00,Market Street,590.0
+2025-01-22 19:00:00,Ring Road,941.0
+2025-01-22 20:00:00,Central Junction,642.0
+2025-01-22 20:00:00,IT Park Road,608.0
+2025-01-22 20:00:00,Residential Road,526.0
+2025-01-22 20:00:00,Market Street,423.0
+2025-01-22 20:00:00,Ring Road,669.0
+2025-01-22 21:00:00,Central Junction,281.0
+2025-01-22 21:00:00,IT Park Road,271.0
+2025-01-22 21:00:00,Residential Road,239.0
+2025-01-22 21:00:00,Market Street,255.0
+2025-01-22 21:00:00,Ring Road,356.0
+2025-01-22 22:00:00,Central Junction,270.0
+2025-01-22 22:00:00,IT Park Road,138.0
+2025-01-22 22:00:00,Residential Road,297.0
+2025-01-22 22:00:00,Market Street,135.0
+2025-01-22 22:00:00,Ring Road,323.0
+2025-01-22 23:00:00,Central Junction,193.0
+2025-01-22 23:00:00,IT Park Road,76.0
+2025-01-22 23:00:00,Residential Road,152.0
+2025-01-22 23:00:00,Market Street,124.0
+2025-01-22 23:00:00,Ring Road,322.0
+2025-01-23 00:00:00,Central Junction,199.0
+2025-01-23 00:00:00,IT Park Road,124.0
+2025-01-23 00:00:00,Residential Road,189.0
+2025-01-23 00:00:00,Market Street,228.0
+2025-01-23 00:00:00,Ring Road,317.0
+2025-01-23 01:00:00,Central Junction,150.0
+2025-01-23 01:00:00,IT Park Road,117.0
+2025-01-23 01:00:00,Residential Road,147.0
+2025-01-23 01:00:00,Market Street,24.0
+2025-01-23 01:00:00,Ring Road,252.0
+2025-01-23 02:00:00,Central Junction,248.0
+2025-01-23 02:00:00,IT Park Road,66.0
+2025-01-23 02:00:00,Residential Road,128.0
+2025-01-23 02:00:00,Market Street,98.0
+2025-01-23 02:00:00,Ring Road,306.0
+2025-01-23 03:00:00,Central Junction,165.0
+2025-01-23 03:00:00,IT Park Road,101.0
+2025-01-23 03:00:00,Residential Road,73.0
+2025-01-23 03:00:00,Market Street,155.0
+2025-01-23 03:00:00,Ring Road,265.0
+2025-01-23 04:00:00,Central Junction,140.0
+2025-01-23 04:00:00,IT Park Road,43.0
+2025-01-23 04:00:00,Residential Road,197.0
+2025-01-23 04:00:00,Market Street,121.0
+2025-01-23 04:00:00,Ring Road,284.0
+2025-01-23 05:00:00,Central Junction,377.0
+2025-01-23 05:00:00,IT Park Road,244.0
+2025-01-23 05:00:00,Residential Road,261.0
+2025-01-23 05:00:00,Market Street,176.0
+2025-01-23 05:00:00,Ring Road,372.0
+2025-01-23 06:00:00,Central Junction,549.0
+2025-01-23 06:00:00,IT Park Road,425.0
+2025-01-23 06:00:00,Residential Road,373.0
+2025-01-23 06:00:00,Market Street,260.0
+2025-01-23 06:00:00,Ring Road,584.0
+2025-01-23 07:00:00,Central Junction,916.0
+2025-01-23 07:00:00,IT Park Road,869.0
+2025-01-23 07:00:00,Residential Road,484.0
+2025-01-23 07:00:00,Market Street,439.0
+2025-01-23 07:00:00,Ring Road,765.0
+2025-01-23 08:00:00,Central Junction,1095.0
+2025-01-23 08:00:00,IT Park Road,1045.0
+2025-01-23 08:00:00,Residential Road,636.0
+2025-01-23 08:00:00,Market Street,679.0
+2025-01-23 08:00:00,Ring Road,1391.0
+2025-01-23 09:00:00,Central Junction,921.0
+2025-01-23 09:00:00,IT Park Road,748.0
+2025-01-23 09:00:00,Residential Road,702.0
+2025-01-23 09:00:00,Market Street,501.0
+2025-01-23 09:00:00,Ring Road,1060.0
+2025-01-23 10:00:00,Central Junction,599.0
+2025-01-23 10:00:00,IT Park Road,534.0
+2025-01-23 10:00:00,Residential Road,502.0
+2025-01-23 10:00:00,Market Street,597.0
+2025-01-23 10:00:00,Ring Road,578.0
+2025-01-23 11:00:00,Central Junction,410.0
+2025-01-23 11:00:00,IT Park Road,385.0
+2025-01-23 11:00:00,Residential Road,283.0
+2025-01-23 11:00:00,Market Street,592.0
+2025-01-23 11:00:00,Ring Road,613.0
+2025-01-23 12:00:00,Central Junction,429.0
+2025-01-23 12:00:00,IT Park Road,289.0
+2025-01-23 12:00:00,Residential Road,358.0
+2025-01-23 12:00:00,Market Street,539.0
+2025-01-23 12:00:00,Ring Road,563.0
+2025-01-23 13:00:00,Central Junction,660.0
+2025-01-23 13:00:00,IT Park Road,351.0
+2025-01-23 13:00:00,Residential Road,328.0
+2025-01-23 13:00:00,Market Street,799.0
+2025-01-23 13:00:00,Ring Road,636.0
+2025-01-23 14:00:00,Central Junction,448.0
+2025-01-23 14:00:00,IT Park Road,317.0
+2025-01-23 14:00:00,Residential Road,268.0
+2025-01-23 14:00:00,Market Street,659.0
+2025-01-23 14:00:00,Ring Road,445.0
+2025-01-23 15:00:00,Central Junction,753.0
+2025-01-23 15:00:00,IT Park Road,464.0
+2025-01-23 15:00:00,Residential Road,476.0
+2025-01-23 15:00:00,Market Street,617.0
+2025-01-23 15:00:00,Ring Road,689.0
+2025-01-23 16:00:00,Central Junction,735.0
+2025-01-23 16:00:00,IT Park Road,709.0
+2025-01-23 16:00:00,Residential Road,614.0
+2025-01-23 16:00:00,Market Street,851.0
+2025-01-23 16:00:00,Ring Road,959.0
+2025-01-23 17:00:00,Central Junction,1257.0
+2025-01-23 17:00:00,IT Park Road,891.0
+2025-01-23 17:00:00,Residential Road,687.0
+2025-01-23 17:00:00,Market Street,729.0
+2025-01-23 17:00:00,Ring Road,1105.0
+2025-01-23 18:00:00,Central Junction,892.0
+2025-01-23 18:00:00,IT Park Road,1199.0
+2025-01-23 18:00:00,Residential Road,717.0
+2025-01-23 18:00:00,Market Street,788.0
+2025-01-23 18:00:00,Ring Road,1046.0
+2025-01-23 19:00:00,Central Junction,745.0
+2025-01-23 19:00:00,IT Park Road,803.0
+2025-01-23 19:00:00,Residential Road,622.0
+2025-01-23 19:00:00,Market Street,676.0
+2025-01-23 19:00:00,Ring Road,843.0
+2025-01-23 20:00:00,Central Junction,569.0
+2025-01-23 20:00:00,IT Park Road,632.0
+2025-01-23 20:00:00,Residential Road,376.0
+2025-01-23 20:00:00,Market Street,329.0
+2025-01-23 20:00:00,Ring Road,776.0
+2025-01-23 21:00:00,Central Junction,381.0
+2025-01-23 21:00:00,IT Park Road,295.0
+2025-01-23 21:00:00,Residential Road,238.0
+2025-01-23 21:00:00,Market Street,221.0
+2025-01-23 21:00:00,Ring Road,512.0
+2025-01-23 22:00:00,Central Junction,174.0
+2025-01-23 22:00:00,IT Park Road,191.0
+2025-01-23 22:00:00,Residential Road,210.0
+2025-01-23 22:00:00,Market Street,203.0
+2025-01-23 22:00:00,Ring Road,296.0
+2025-01-23 23:00:00,Central Junction,263.0
+2025-01-23 23:00:00,IT Park Road,152.0
+2025-01-23 23:00:00,Residential Road,141.0
+2025-01-23 23:00:00,Market Street,100.0
+2025-01-23 23:00:00,Ring Road,267.0
+2025-01-24 00:00:00,Central Junction,159.0
+2025-01-24 00:00:00,IT Park Road,64.0
+2025-01-24 00:00:00,Residential Road,153.0
+2025-01-24 00:00:00,Market Street,109.0
+2025-01-24 00:00:00,Ring Road,349.0
+2025-01-24 01:00:00,Central Junction,159.0
+2025-01-24 01:00:00,IT Park Road,70.0
+2025-01-24 01:00:00,Residential Road,150.0
+2025-01-24 01:00:00,Market Street,131.0
+2025-01-24 01:00:00,Ring Road,278.0
+2025-01-24 02:00:00,Central Junction,196.0
+2025-01-24 02:00:00,IT Park Road,102.0
+2025-01-24 02:00:00,Residential Road,149.0
+2025-01-24 02:00:00,Market Street,147.0
+2025-01-24 02:00:00,Ring Road,210.0
+2025-01-24 03:00:00,Central Junction,148.0
+2025-01-24 03:00:00,IT Park Road,39.0
+2025-01-24 03:00:00,Residential Road,109.0
+2025-01-24 03:00:00,Market Street,167.0
+2025-01-24 03:00:00,Ring Road,292.0
+2025-01-24 04:00:00,Central Junction,287.0
+2025-01-24 04:00:00,IT Park Road,185.0
+2025-01-24 04:00:00,Residential Road,186.0
+2025-01-24 04:00:00,Market Street,138.0
+2025-01-24 04:00:00,Ring Road,276.0
+2025-01-24 05:00:00,Central Junction,165.0
+2025-01-24 05:00:00,IT Park Road,202.0
+2025-01-24 05:00:00,Residential Road,171.0
+2025-01-24 05:00:00,Market Street,132.0
+2025-01-24 05:00:00,Ring Road,363.0
+2025-01-24 06:00:00,Central Junction,496.0
+2025-01-24 06:00:00,IT Park Road,473.0
+2025-01-24 06:00:00,Residential Road,258.0
+2025-01-24 06:00:00,Market Street,349.0
+2025-01-24 06:00:00,Ring Road,499.0
+2025-01-24 07:00:00,Central Junction,915.0
+2025-01-24 07:00:00,IT Park Road,842.0
+2025-01-24 07:00:00,Residential Road,351.0
+2025-01-24 07:00:00,Market Street,539.0
+2025-01-24 07:00:00,Ring Road,824.0
+2025-01-24 08:00:00,Central Junction,928.0
+2025-01-24 08:00:00,IT Park Road,986.0
+2025-01-24 08:00:00,Residential Road,688.0
+2025-01-24 08:00:00,Market Street,532.0
+2025-01-24 08:00:00,Ring Road,973.0
+2025-01-24 09:00:00,Central Junction,1159.0
+2025-01-24 09:00:00,IT Park Road,980.0
+2025-01-24 09:00:00,Residential Road,608.0
+2025-01-24 09:00:00,Market Street,616.0
+2025-01-24 09:00:00,Ring Road,754.0
+2025-01-24 10:00:00,Central Junction,682.0
+2025-01-24 10:00:00,IT Park Road,495.0
+2025-01-24 10:00:00,Residential Road,342.0
+2025-01-24 10:00:00,Market Street,568.0
+2025-01-24 10:00:00,Ring Road,604.0
+2025-01-24 11:00:00,Central Junction,501.0
+2025-01-24 11:00:00,IT Park Road,325.0
+2025-01-24 11:00:00,Residential Road,339.0
+2025-01-24 11:00:00,Market Street,516.0
+2025-01-24 11:00:00,Ring Road,564.0
+2025-01-24 12:00:00,Central Junction,578.0
+2025-01-24 12:00:00,IT Park Road,361.0
+2025-01-24 12:00:00,Residential Road,328.0
+2025-01-24 12:00:00,Market Street,694.0
+2025-01-24 12:00:00,Ring Road,584.0
+2025-01-24 13:00:00,Central Junction,576.0
+2025-01-24 13:00:00,IT Park Road,246.0
+2025-01-24 13:00:00,Residential Road,290.0
+2025-01-24 13:00:00,Market Street,645.0
+2025-01-24 13:00:00,Ring Road,560.0
+2025-01-24 14:00:00,Central Junction,516.0
+2025-01-24 14:00:00,IT Park Road,401.0
+2025-01-24 14:00:00,Residential Road,379.0
+2025-01-24 14:00:00,Market Street,701.0
+2025-01-24 14:00:00,Ring Road,660.0
+2025-01-24 15:00:00,Central Junction,518.0
+2025-01-24 15:00:00,IT Park Road,333.0
+2025-01-24 15:00:00,Residential Road,353.0
+2025-01-24 15:00:00,Market Street,558.0
+2025-01-24 15:00:00,Ring Road,666.0
+2025-01-24 16:00:00,Central Junction,747.0
+2025-01-24 16:00:00,IT Park Road,684.0
+2025-01-24 16:00:00,Residential Road,556.0
+2025-01-24 16:00:00,Market Street,914.0
+2025-01-24 16:00:00,Ring Road,786.0
+2025-01-24 17:00:00,Central Junction,951.0
+2025-01-24 17:00:00,IT Park Road,956.0
+2025-01-24 17:00:00,Residential Road,605.0
+2025-01-24 17:00:00,Market Street,838.0
+2025-01-24 17:00:00,Ring Road,951.0
+2025-01-24 18:00:00,Central Junction,908.0
+2025-01-24 18:00:00,IT Park Road,982.0
+2025-01-24 18:00:00,Residential Road,774.0
+2025-01-24 18:00:00,Market Street,841.0
+2025-01-24 18:00:00,Ring Road,987.0
+2025-01-24 19:00:00,Central Junction,888.0
+2025-01-24 19:00:00,IT Park Road,902.0
+2025-01-24 19:00:00,Residential Road,622.0
+2025-01-24 19:00:00,Market Street,606.0
+2025-01-24 19:00:00,Ring Road,802.0
+2025-01-24 20:00:00,Central Junction,565.0
+2025-01-24 20:00:00,IT Park Road,526.0
+2025-01-24 20:00:00,Residential Road,365.0
+2025-01-24 20:00:00,Market Street,353.0
+2025-01-24 20:00:00,Ring Road,480.0
+2025-01-24 21:00:00,Central Junction,333.0
+2025-01-24 21:00:00,IT Park Road,384.0
+2025-01-24 21:00:00,Residential Road,318.0
+2025-01-24 21:00:00,Market Street,350.0
+2025-01-24 21:00:00,Ring Road,370.0
+2025-01-24 22:00:00,Central Junction,271.0
+2025-01-24 22:00:00,IT Park Road,164.0
+2025-01-24 22:00:00,Residential Road,154.0
+2025-01-24 22:00:00,Market Street,212.0
+2025-01-24 22:00:00,Ring Road,308.0
+2025-01-24 23:00:00,Central Junction,110.0
+2025-01-24 23:00:00,IT Park Road,151.0
+2025-01-24 23:00:00,Residential Road,174.0
+2025-01-24 23:00:00,Market Street,135.0
+2025-01-24 23:00:00,Ring Road,209.0
+2025-01-25 00:00:00,Central Junction,189.0
+2025-01-25 00:00:00,IT Park Road,160.0
+2025-01-25 00:00:00,Residential Road,163.0
+2025-01-25 00:00:00,Market Street,50.0
+2025-01-25 00:00:00,Ring Road,211.0
+2025-01-25 01:00:00,Central Junction,127.0
+2025-01-25 01:00:00,IT Park Road,144.0
+2025-01-25 01:00:00,Residential Road,66.0
+2025-01-25 01:00:00,Market Street,145.0
+2025-01-25 01:00:00,Ring Road,117.0
+2025-01-25 02:00:00,Central Junction,187.0
+2025-01-25 02:00:00,IT Park Road,142.0
+2025-01-25 02:00:00,Residential Road,119.0
+2025-01-25 02:00:00,Market Street,198.0
+2025-01-25 02:00:00,Ring Road,279.0
+2025-01-25 03:00:00,Central Junction,219.0
+2025-01-25 03:00:00,IT Park Road,128.0
+2025-01-25 03:00:00,Residential Road,165.0
+2025-01-25 03:00:00,Market Street,144.0
+2025-01-25 03:00:00,Ring Road,97.0
+2025-01-25 04:00:00,Central Junction,220.0
+2025-01-25 04:00:00,IT Park Road,72.0
+2025-01-25 04:00:00,Residential Road,150.0
+2025-01-25 04:00:00,Market Street,144.0
+2025-01-25 04:00:00,Ring Road,324.0
+2025-01-25 05:00:00,Central Junction,184.0
+2025-01-25 05:00:00,IT Park Road,133.0
+2025-01-25 05:00:00,Residential Road,159.0
+2025-01-25 05:00:00,Market Street,177.0
+2025-01-25 05:00:00,Ring Road,285.0
+2025-01-25 06:00:00,Central Junction,380.0
+2025-01-25 06:00:00,IT Park Road,193.0
+2025-01-25 06:00:00,Residential Road,227.0
+2025-01-25 06:00:00,Market Street,368.0
+2025-01-25 06:00:00,Ring Road,382.0
+2025-01-25 07:00:00,Central Junction,568.0
+2025-01-25 07:00:00,IT Park Road,557.0
+2025-01-25 07:00:00,Residential Road,354.0
+2025-01-25 07:00:00,Market Street,599.0
+2025-01-25 07:00:00,Ring Road,563.0
+2025-01-25 08:00:00,Central Junction,709.0
+2025-01-25 08:00:00,IT Park Road,637.0
+2025-01-25 08:00:00,Residential Road,480.0
+2025-01-25 08:00:00,Market Street,583.0
+2025-01-25 08:00:00,Ring Road,826.0
+2025-01-25 09:00:00,Central Junction,557.0
+2025-01-25 09:00:00,IT Park Road,665.0
+2025-01-25 09:00:00,Residential Road,315.0
+2025-01-25 09:00:00,Market Street,682.0
+2025-01-25 09:00:00,Ring Road,623.0
+2025-01-25 10:00:00,Central Junction,542.0
+2025-01-25 10:00:00,IT Park Road,404.0
+2025-01-25 10:00:00,Residential Road,366.0
+2025-01-25 10:00:00,Market Street,530.0
+2025-01-25 10:00:00,Ring Road,421.0
+2025-01-25 11:00:00,Central Junction,348.0
+2025-01-25 11:00:00,IT Park Road,224.0
+2025-01-25 11:00:00,Residential Road,240.0
+2025-01-25 11:00:00,Market Street,597.0
+2025-01-25 11:00:00,Ring Road,453.0
+2025-01-25 12:00:00,Central Junction,427.0
+2025-01-25 12:00:00,IT Park Road,233.0
+2025-01-25 12:00:00,Residential Road,263.0
+2025-01-25 12:00:00,Market Street,695.0
+2025-01-25 12:00:00,Ring Road,577.0
+2025-01-25 13:00:00,Central Junction,413.0
+2025-01-25 13:00:00,IT Park Road,283.0
+2025-01-25 13:00:00,Residential Road,321.0
+2025-01-25 13:00:00,Market Street,672.0
+2025-01-25 13:00:00,Ring Road,497.0
+2025-01-25 14:00:00,Central Junction,402.0
+2025-01-25 14:00:00,IT Park Road,353.0
+2025-01-25 14:00:00,Residential Road,367.0
+2025-01-25 14:00:00,Market Street,676.0
+2025-01-25 14:00:00,Ring Road,520.0
+2025-01-25 15:00:00,Central Junction,505.0
+2025-01-25 15:00:00,IT Park Road,364.0
+2025-01-25 15:00:00,Residential Road,359.0
+2025-01-25 15:00:00,Market Street,641.0
+2025-01-25 15:00:00,Ring Road,662.0
+2025-01-25 16:00:00,Central Junction,478.0
+2025-01-25 16:00:00,IT Park Road,401.0
+2025-01-25 16:00:00,Residential Road,298.0
+2025-01-25 16:00:00,Market Street,715.0
+2025-01-25 16:00:00,Ring Road,680.0
+2025-01-25 17:00:00,Central Junction,614.0
+2025-01-25 17:00:00,IT Park Road,549.0
+2025-01-25 17:00:00,Residential Road,473.0
+2025-01-25 17:00:00,Market Street,858.0
+2025-01-25 17:00:00,Ring Road,725.0
+2025-01-25 18:00:00,Central Junction,468.0
+2025-01-25 18:00:00,IT Park Road,653.0
+2025-01-25 18:00:00,Residential Road,467.0
+2025-01-25 18:00:00,Market Street,666.0
+2025-01-25 18:00:00,Ring Road,708.0
+2025-01-25 19:00:00,Central Junction,606.0
+2025-01-25 19:00:00,IT Park Road,470.0
+2025-01-25 19:00:00,Residential Road,438.0
+2025-01-25 19:00:00,Market Street,239.0
+2025-01-25 19:00:00,Ring Road,524.0
+2025-01-25 20:00:00,Central Junction,367.0
+2025-01-25 20:00:00,IT Park Road,418.0
+2025-01-25 20:00:00,Residential Road,233.0
+2025-01-25 20:00:00,Market Street,384.0
+2025-01-25 20:00:00,Ring Road,442.0
+2025-01-25 21:00:00,Central Junction,152.0
+2025-01-25 21:00:00,IT Park Road,212.0
+2025-01-25 21:00:00,Residential Road,258.0
+2025-01-25 21:00:00,Market Street,244.0
+2025-01-25 21:00:00,Ring Road,343.0
+2025-01-25 22:00:00,Central Junction,207.0
+2025-01-25 22:00:00,IT Park Road,148.0
+2025-01-25 22:00:00,Residential Road,113.0
+2025-01-25 22:00:00,Market Street,80.0
+2025-01-25 22:00:00,Ring Road,303.0
+2025-01-25 23:00:00,Central Junction,119.0
+2025-01-25 23:00:00,IT Park Road,83.0
+2025-01-25 23:00:00,Residential Road,194.0
+2025-01-25 23:00:00,Market Street,106.0
+2025-01-25 23:00:00,Ring Road,421.0
+2025-01-26 00:00:00,Central Junction,256.0
+2025-01-26 00:00:00,IT Park Road,115.0
+2025-01-26 00:00:00,Residential Road,198.0
+2025-01-26 00:00:00,Market Street,189.0
+2025-01-26 00:00:00,Ring Road,119.0
+2025-01-26 01:00:00,Central Junction,211.0
+2025-01-26 01:00:00,IT Park Road,130.0
+2025-01-26 01:00:00,Residential Road,91.0
+2025-01-26 01:00:00,Market Street,121.0
+2025-01-26 01:00:00,Ring Road,325.0
+2025-01-26 02:00:00,Central Junction,195.0
+2025-01-26 02:00:00,IT Park Road,35.0
+2025-01-26 02:00:00,Residential Road,151.0
+2025-01-26 02:00:00,Market Street,146.0
+2025-01-26 02:00:00,Ring Road,95.0
+2025-01-26 03:00:00,Central Junction,177.0
+2025-01-26 03:00:00,IT Park Road,64.0
+2025-01-26 03:00:00,Residential Road,
+2025-01-26 03:00:00,Market Street,103.0
+2025-01-26 03:00:00,Ring Road,283.0
+2025-01-26 04:00:00,Central Junction,189.0
+2025-01-26 04:00:00,IT Park Road,90.0
+2025-01-26 04:00:00,Residential Road,246.0
+2025-01-26 04:00:00,Market Street,106.0
+2025-01-26 04:00:00,Ring Road,272.0
+2025-01-26 05:00:00,Central Junction,229.0
+2025-01-26 05:00:00,IT Park Road,162.0
+2025-01-26 05:00:00,Residential Road,265.0
+2025-01-26 05:00:00,Market Street,197.0
+2025-01-26 05:00:00,Ring Road,275.0
+2025-01-26 06:00:00,Central Junction,438.0
+2025-01-26 06:00:00,IT Park Road,329.0
+2025-01-26 06:00:00,Residential Road,213.0
+2025-01-26 06:00:00,Market Street,354.0
+2025-01-26 06:00:00,Ring Road,318.0
+2025-01-26 07:00:00,Central Junction,462.0
+2025-01-26 07:00:00,IT Park Road,384.0
+2025-01-26 07:00:00,Residential Road,217.0
+2025-01-26 07:00:00,Market Street,552.0
+2025-01-26 07:00:00,Ring Road,573.0
+2025-01-26 08:00:00,Central Junction,538.0
+2025-01-26 08:00:00,IT Park Road,619.0
+2025-01-26 08:00:00,Residential Road,456.0
+2025-01-26 08:00:00,Market Street,559.0
+2025-01-26 08:00:00,Ring Road,637.0
+2025-01-26 09:00:00,Central Junction,767.0
+2025-01-26 09:00:00,IT Park Road,526.0
+2025-01-26 09:00:00,Residential Road,287.0
+2025-01-26 09:00:00,Market Street,593.0
+2025-01-26 09:00:00,Ring Road,501.0
+2025-01-26 10:00:00,Central Junction,529.0
+2025-01-26 10:00:00,IT Park Road,327.0
+2025-01-26 10:00:00,Residential Road,269.0
+2025-01-26 10:00:00,Market Street,1153.0
+2025-01-26 10:00:00,Ring Road,547.0
+2025-01-26 11:00:00,Central Junction,347.0
+2025-01-26 11:00:00,IT Park Road,266.0
+2025-01-26 11:00:00,Residential Road,331.0
+2025-01-26 11:00:00,Market Street,557.0
+2025-01-26 11:00:00,Ring Road,515.0
+2025-01-26 12:00:00,Central Junction,411.0
+2025-01-26 12:00:00,IT Park Road,259.0
+2025-01-26 12:00:00,Residential Road,396.0
+2025-01-26 12:00:00,Market Street,816.0
+2025-01-26 12:00:00,Ring Road,404.0
+2025-01-26 13:00:00,Central Junction,388.0
+2025-01-26 13:00:00,IT Park Road,283.0
+2025-01-26 13:00:00,Residential Road,388.0
+2025-01-26 13:00:00,Market Street,715.0
+2025-01-26 13:00:00,Ring Road,527.0
+2025-01-26 14:00:00,Central Junction,461.0
+2025-01-26 14:00:00,IT Park Road,373.0
+2025-01-26 14:00:00,Residential Road,266.0
+2025-01-26 14:00:00,Market Street,736.0
+2025-01-26 14:00:00,Ring Road,563.0
+2025-01-26 15:00:00,Central Junction,394.0
+2025-01-26 15:00:00,IT Park Road,354.0
+2025-01-26 15:00:00,Residential Road,333.0
+2025-01-26 15:00:00,Market Street,805.0
+2025-01-26 15:00:00,Ring Road,604.0
+2025-01-26 16:00:00,Central Junction,429.0
+2025-01-26 16:00:00,IT Park Road,518.0
+2025-01-26 16:00:00,Residential Road,396.0
+2025-01-26 16:00:00,Market Street,823.0
+2025-01-26 16:00:00,Ring Road,525.0
+2025-01-26 17:00:00,Central Junction,634.0
+2025-01-26 17:00:00,IT Park Road,508.0
+2025-01-26 17:00:00,Residential Road,318.0
+2025-01-26 17:00:00,Market Street,678.0
+2025-01-26 17:00:00,Ring Road,618.0
+2025-01-26 18:00:00,Central Junction,550.0
+2025-01-26 18:00:00,IT Park Road,743.0
+2025-01-26 18:00:00,Residential Road,462.0
+2025-01-26 18:00:00,Market Street,809.0
+2025-01-26 18:00:00,Ring Road,605.0
+2025-01-26 19:00:00,Central Junction,396.0
+2025-01-26 19:00:00,IT Park Road,657.0
+2025-01-26 19:00:00,Residential Road,253.0
+2025-01-26 19:00:00,Market Street,529.0
+2025-01-26 19:00:00,Ring Road,642.0
+2025-01-26 20:00:00,Central Junction,359.0
+2025-01-26 20:00:00,IT Park Road,358.0
+2025-01-26 20:00:00,Residential Road,231.0
+2025-01-26 20:00:00,Market Street,426.0
+2025-01-26 20:00:00,Ring Road,367.0
+2025-01-26 21:00:00,Central Junction,125.0
+2025-01-26 21:00:00,IT Park Road,181.0
+2025-01-26 21:00:00,Residential Road,241.0
+2025-01-26 21:00:00,Market Street,209.0
+2025-01-26 21:00:00,Ring Road,362.0
+2025-01-26 22:00:00,Central Junction,305.0
+2025-01-26 22:00:00,IT Park Road,155.0
+2025-01-26 22:00:00,Residential Road,184.0
+2025-01-26 22:00:00,Market Street,200.0
+2025-01-26 22:00:00,Ring Road,286.0
+2025-01-26 23:00:00,Central Junction,155.0
+2025-01-26 23:00:00,IT Park Road,155.0
+2025-01-26 23:00:00,Residential Road,191.0
+2025-01-26 23:00:00,Market Street,91.0
+2025-01-26 23:00:00,Ring Road,251.0
+2025-01-27 00:00:00,Central Junction,200.0
+2025-01-27 00:00:00,IT Park Road,33.0
+2025-01-27 00:00:00,Residential Road,169.0
+2025-01-27 00:00:00,Market Street,133.0
+2025-01-27 00:00:00,Ring Road,192.0
+2025-01-27 01:00:00,Central Junction,260.0
+2025-01-27 01:00:00,IT Park Road,82.0
+2025-01-27 01:00:00,Residential Road,127.0
+2025-01-27 01:00:00,Market Street,158.0
+2025-01-27 01:00:00,Ring Road,318.0
+2025-01-27 02:00:00,Central Junction,131.0
+2025-01-27 02:00:00,IT Park Road,0.0
+2025-01-27 02:00:00,Residential Road,142.0
+2025-01-27 02:00:00,Market Street,38.0
+2025-01-27 02:00:00,Ring Road,304.0
+2025-01-27 03:00:00,Central Junction,180.0
+2025-01-27 03:00:00,IT Park Road,40.0
+2025-01-27 03:00:00,Residential Road,116.0
+2025-01-27 03:00:00,Market Street,73.0
+2025-01-27 03:00:00,Ring Road,218.0
+2025-01-27 04:00:00,Central Junction,109.0
+2025-01-27 04:00:00,IT Park Road,179.0
+2025-01-27 04:00:00,Residential Road,113.0
+2025-01-27 04:00:00,Market Street,131.0
+2025-01-27 04:00:00,Ring Road,297.0
+2025-01-27 05:00:00,Central Junction,336.0
+2025-01-27 05:00:00,IT Park Road,208.0
+2025-01-27 05:00:00,Residential Road,185.0
+2025-01-27 05:00:00,Market Street,216.0
+2025-01-27 05:00:00,Ring Road,386.0
+2025-01-27 06:00:00,Central Junction,495.0
+2025-01-27 06:00:00,IT Park Road,491.0
+2025-01-27 06:00:00,Residential Road,368.0
+2025-01-27 06:00:00,Market Street,370.0
+2025-01-27 06:00:00,Ring Road,528.0
+2025-01-27 07:00:00,Central Junction,855.0
+2025-01-27 07:00:00,IT Park Road,881.0
+2025-01-27 07:00:00,Residential Road,510.0
+2025-01-27 07:00:00,Market Street,459.0
+2025-01-27 07:00:00,Ring Road,777.0
+2025-01-27 08:00:00,Central Junction,1078.0
+2025-01-27 08:00:00,IT Park Road,1261.0
+2025-01-27 08:00:00,Residential Road,562.0
+2025-01-27 08:00:00,Market Street,819.0
+2025-01-27 08:00:00,Ring Road,1074.0
+2025-01-27 09:00:00,Central Junction,960.0
+2025-01-27 09:00:00,IT Park Road,907.0
+2025-01-27 09:00:00,Residential Road,725.0
+2025-01-27 09:00:00,Market Street,557.0
+2025-01-27 09:00:00,Ring Road,1075.0
+2025-01-27 10:00:00,Central Junction,321.0
+2025-01-27 10:00:00,IT Park Road,644.0
+2025-01-27 10:00:00,Residential Road,400.0
+2025-01-27 10:00:00,Market Street,549.0
+2025-01-27 10:00:00,Ring Road,689.0
+2025-01-27 11:00:00,Central Junction,620.0
+2025-01-27 11:00:00,IT Park Road,415.0
+2025-01-27 11:00:00,Residential Road,302.0
+2025-01-27 11:00:00,Market Street,568.0
+2025-01-27 11:00:00,Ring Road,543.0
+2025-01-27 12:00:00,Central Junction,445.0
+2025-01-27 12:00:00,IT Park Road,345.0
+2025-01-27 12:00:00,Residential Road,353.0
+2025-01-27 12:00:00,Market Street,527.0
+2025-01-27 12:00:00,Ring Road,558.0
+2025-01-27 13:00:00,Central Junction,458.0
+2025-01-27 13:00:00,IT Park Road,353.0
+2025-01-27 13:00:00,Residential Road,316.0
+2025-01-27 13:00:00,Market Street,617.0
+2025-01-27 13:00:00,Ring Road,538.0
+2025-01-27 14:00:00,Central Junction,400.0
+2025-01-27 14:00:00,IT Park Road,465.0
+2025-01-27 14:00:00,Residential Road,368.0
+2025-01-27 14:00:00,Market Street,763.0
+2025-01-27 14:00:00,Ring Road,601.0
+2025-01-27 15:00:00,Central Junction,642.0
+2025-01-27 15:00:00,IT Park Road,437.0
+2025-01-27 15:00:00,Residential Road,379.0
+2025-01-27 15:00:00,Market Street,640.0
+2025-01-27 15:00:00,Ring Road,796.0
+2025-01-27 16:00:00,Central Junction,667.0
+2025-01-27 16:00:00,IT Park Road,545.0
+2025-01-27 16:00:00,Residential Road,600.0
+2025-01-27 16:00:00,Market Street,767.0
+2025-01-27 16:00:00,Ring Road,771.0
+2025-01-27 17:00:00,Central Junction,1136.0
+2025-01-27 17:00:00,IT Park Road,1178.0
+2025-01-27 17:00:00,Residential Road,514.0
+2025-01-27 17:00:00,Market Street,729.0
+2025-01-27 17:00:00,Ring Road,978.0
+2025-01-27 18:00:00,Central Junction,1033.0
+2025-01-27 18:00:00,IT Park Road,1089.0
+2025-01-27 18:00:00,Residential Road,700.0
+2025-01-27 18:00:00,Market Street,700.0
+2025-01-27 18:00:00,Ring Road,1098.0
+2025-01-27 19:00:00,Central Junction,905.0
+2025-01-27 19:00:00,IT Park Road,998.0
+2025-01-27 19:00:00,Residential Road,514.0
+2025-01-27 19:00:00,Market Street,641.0
+2025-01-27 19:00:00,Ring Road,858.0
+2025-01-27 20:00:00,Central Junction,499.0
+2025-01-27 20:00:00,IT Park Road,577.0
+2025-01-27 20:00:00,Residential Road,363.0
+2025-01-27 20:00:00,Market Street,356.0
+2025-01-27 20:00:00,Ring Road,713.0
+2025-01-27 21:00:00,Central Junction,337.0
+2025-01-27 21:00:00,IT Park Road,281.0
+2025-01-27 21:00:00,Residential Road,339.0
+2025-01-27 21:00:00,Market Street,296.0
+2025-01-27 21:00:00,Ring Road,307.0
+2025-01-27 22:00:00,Central Junction,260.0
+2025-01-27 22:00:00,IT Park Road,191.0
+2025-01-27 22:00:00,Residential Road,177.0
+2025-01-27 22:00:00,Market Street,153.0
+2025-01-27 22:00:00,Ring Road,227.0
+2025-01-27 23:00:00,Central Junction,294.0
+2025-01-27 23:00:00,IT Park Road,
+2025-01-27 23:00:00,Residential Road,175.0
+2025-01-27 23:00:00,Market Street,123.0
+2025-01-27 23:00:00,Ring Road,236.0
+2025-01-28 00:00:00,Central Junction,219.0
+2025-01-28 00:00:00,IT Park Road,106.0
+2025-01-28 00:00:00,Residential Road,140.0
+2025-01-28 00:00:00,Market Street,134.0
+2025-01-28 00:00:00,Ring Road,255.0
+2025-01-28 01:00:00,Central Junction,261.0
+2025-01-28 01:00:00,IT Park Road,133.0
+2025-01-28 01:00:00,Residential Road,172.0
+2025-01-28 01:00:00,Market Street,56.0
+2025-01-28 01:00:00,Ring Road,288.0
+2025-01-28 02:00:00,Central Junction,204.0
+2025-01-28 02:00:00,IT Park Road,59.0
+2025-01-28 02:00:00,Residential Road,82.0
+2025-01-28 02:00:00,Market Street,152.0
+2025-01-28 02:00:00,Ring Road,307.0
+2025-01-28 03:00:00,Central Junction,153.0
+2025-01-28 03:00:00,IT Park Road,74.0
+2025-01-28 03:00:00,Residential Road,157.0
+2025-01-28 03:00:00,Market Street,103.0
+2025-01-28 03:00:00,Ring Road,181.0
+2025-01-28 04:00:00,Central Junction,149.0
+2025-01-28 04:00:00,IT Park Road,132.0
+2025-01-28 04:00:00,Residential Road,115.0
+2025-01-28 04:00:00,Market Street,172.0
+2025-01-28 04:00:00,Ring Road,301.0
+2025-01-28 05:00:00,Central Junction,295.0
+2025-01-28 05:00:00,IT Park Road,211.0
+2025-01-28 05:00:00,Residential Road,261.0
+2025-01-28 05:00:00,Market Street,193.0
+2025-01-28 05:00:00,Ring Road,292.0
+2025-01-28 06:00:00,Central Junction,595.0
+2025-01-28 06:00:00,IT Park Road,589.0
+2025-01-28 06:00:00,Residential Road,299.0
+2025-01-28 06:00:00,Market Street,342.0
+2025-01-28 06:00:00,Ring Road,457.0
+2025-01-28 07:00:00,Central Junction,864.0
+2025-01-28 07:00:00,IT Park Road,981.0
+2025-01-28 07:00:00,Residential Road,598.0
+2025-01-28 07:00:00,Market Street,525.0
+2025-01-28 07:00:00,Ring Road,694.0
+2025-01-28 08:00:00,Central Junction,1071.0
+2025-01-28 08:00:00,IT Park Road,1343.0
+2025-01-28 08:00:00,Residential Road,661.0
+2025-01-28 08:00:00,Market Street,686.0
+2025-01-28 08:00:00,Ring Road,1055.0
+2025-01-28 09:00:00,Central Junction,1073.0
+2025-01-28 09:00:00,IT Park Road,1012.0
+2025-01-28 09:00:00,Residential Road,578.0
+2025-01-28 09:00:00,Market Street,654.0
+2025-01-28 09:00:00,Ring Road,928.0
+2025-01-28 10:00:00,Central Junction,661.0
+2025-01-28 10:00:00,IT Park Road,487.0
+2025-01-28 10:00:00,Residential Road,449.0
+2025-01-28 10:00:00,Market Street,521.0
+2025-01-28 10:00:00,Ring Road,771.0
+2025-01-28 11:00:00,Central Junction,356.0
+2025-01-28 11:00:00,IT Park Road,249.0
+2025-01-28 11:00:00,Residential Road,318.0
+2025-01-28 11:00:00,Market Street,518.0
+2025-01-28 11:00:00,Ring Road,711.0
+2025-01-28 12:00:00,Central Junction,500.0
+2025-01-28 12:00:00,IT Park Road,286.0
+2025-01-28 12:00:00,Residential Road,338.0
+2025-01-28 12:00:00,Market Street,657.0
+2025-01-28 12:00:00,Ring Road,552.0
+2025-01-28 13:00:00,Central Junction,501.0
+2025-01-28 13:00:00,IT Park Road,328.0
+2025-01-28 13:00:00,Residential Road,433.0
+2025-01-28 13:00:00,Market Street,611.0
+2025-01-28 13:00:00,Ring Road,667.0
+2025-01-28 14:00:00,Central Junction,472.0
+2025-01-28 14:00:00,IT Park Road,461.0
+2025-01-28 14:00:00,Residential Road,292.0
+2025-01-28 14:00:00,Market Street,560.0
+2025-01-28 14:00:00,Ring Road,721.0
+2025-01-28 15:00:00,Central Junction,468.0
+2025-01-28 15:00:00,IT Park Road,501.0
+2025-01-28 15:00:00,Residential Road,447.0
+2025-01-28 15:00:00,Market Street,691.0
+2025-01-28 15:00:00,Ring Road,521.0
+2025-01-28 16:00:00,Central Junction,719.0
+2025-01-28 16:00:00,IT Park Road,593.0
+2025-01-28 16:00:00,Residential Road,544.0
+2025-01-28 16:00:00,Market Street,940.0
+2025-01-28 16:00:00,Ring Road,857.0
+2025-01-28 17:00:00,Central Junction,1058.0
+2025-01-28 17:00:00,IT Park Road,1056.0
+2025-01-28 17:00:00,Residential Road,522.0
+2025-01-28 17:00:00,Market Street,876.0
+2025-01-28 17:00:00,Ring Road,858.0
+2025-01-28 18:00:00,Central Junction,868.0
+2025-01-28 18:00:00,IT Park Road,1060.0
+2025-01-28 18:00:00,Residential Road,647.0
+2025-01-28 18:00:00,Market Street,804.0
+2025-01-28 18:00:00,Ring Road,1290.0
+2025-01-28 19:00:00,Central Junction,881.0
+2025-01-28 19:00:00,IT Park Road,1006.0
+2025-01-28 19:00:00,Residential Road,552.0
+2025-01-28 19:00:00,Market Street,652.0
+2025-01-28 19:00:00,Ring Road,953.0
+2025-01-28 20:00:00,Central Junction,488.0
+2025-01-28 20:00:00,IT Park Road,591.0
+2025-01-28 20:00:00,Residential Road,382.0
+2025-01-28 20:00:00,Market Street,442.0
+2025-01-28 20:00:00,Ring Road,667.0
+2025-01-28 21:00:00,Central Junction,311.0
+2025-01-28 21:00:00,IT Park Road,263.0
+2025-01-28 21:00:00,Residential Road,305.0
+2025-01-28 21:00:00,Market Street,332.0
+2025-01-28 21:00:00,Ring Road,495.0
+2025-01-28 22:00:00,Central Junction,232.0
+2025-01-28 22:00:00,IT Park Road,166.0
+2025-01-28 22:00:00,Residential Road,214.0
+2025-01-28 22:00:00,Market Street,236.0
+2025-01-28 22:00:00,Ring Road,370.0
+2025-01-28 23:00:00,Central Junction,171.0
+2025-01-28 23:00:00,IT Park Road,101.0
+2025-01-28 23:00:00,Residential Road,111.0
+2025-01-28 23:00:00,Market Street,159.0
+2025-01-28 23:00:00,Ring Road,220.0
+2025-01-29 00:00:00,Central Junction,155.0
+2025-01-29 00:00:00,IT Park Road,160.0
+2025-01-29 00:00:00,Residential Road,186.0
+2025-01-29 00:00:00,Market Street,89.0
+2025-01-29 00:00:00,Ring Road,222.0
+2025-01-29 01:00:00,Central Junction,76.0
+2025-01-29 01:00:00,IT Park Road,133.0
+2025-01-29 01:00:00,Residential Road,123.0
+2025-01-29 01:00:00,Market Street,151.0
+2025-01-29 01:00:00,Ring Road,234.0
+2025-01-29 02:00:00,Central Junction,128.0
+2025-01-29 02:00:00,IT Park Road,103.0
+2025-01-29 02:00:00,Residential Road,127.0
+2025-01-29 02:00:00,Market Street,128.0
+2025-01-29 02:00:00,Ring Road,282.0
+2025-01-29 03:00:00,Central Junction,109.0
+2025-01-29 03:00:00,IT Park Road,85.0
+2025-01-29 03:00:00,Residential Road,155.0
+2025-01-29 03:00:00,Market Street,157.0
+2025-01-29 03:00:00,Ring Road,298.0
+2025-01-29 04:00:00,Central Junction,158.0
+2025-01-29 04:00:00,IT Park Road,112.0
+2025-01-29 04:00:00,Residential Road,180.0
+2025-01-29 04:00:00,Market Street,121.0
+2025-01-29 04:00:00,Ring Road,236.0
+2025-01-29 05:00:00,Central Junction,274.0
+2025-01-29 05:00:00,IT Park Road,224.0
+2025-01-29 05:00:00,Residential Road,155.0
+2025-01-29 05:00:00,Market Street,201.0
+2025-01-29 05:00:00,Ring Road,347.0
+2025-01-29 06:00:00,Central Junction,553.0
+2025-01-29 06:00:00,IT Park Road,462.0
+2025-01-29 06:00:00,Residential Road,415.0
+2025-01-29 06:00:00,Market Street,321.0
+2025-01-29 06:00:00,Ring Road,583.0
+2025-01-29 07:00:00,Central Junction,936.0
+2025-01-29 07:00:00,IT Park Road,861.0
+2025-01-29 07:00:00,Residential Road,522.0
+2025-01-29 07:00:00,Market Street,467.0
+2025-01-29 07:00:00,Ring Road,989.0
+2025-01-29 08:00:00,Central Junction,1153.0
+2025-01-29 08:00:00,IT Park Road,1027.0
+2025-01-29 08:00:00,Residential Road,725.0
+2025-01-29 08:00:00,Market Street,645.0
+2025-01-29 08:00:00,Ring Road,1115.0
+2025-01-29 09:00:00,Central Junction,800.0
+2025-01-29 09:00:00,IT Park Road,1045.0
+2025-01-29 09:00:00,Residential Road,585.0
+2025-01-29 09:00:00,Market Street,571.0
+2025-01-29 09:00:00,Ring Road,954.0
+2025-01-29 10:00:00,Central Junction,790.0
+2025-01-29 10:00:00,IT Park Road,535.0
+2025-01-29 10:00:00,Residential Road,380.0
+2025-01-29 10:00:00,Market Street,549.0
+2025-01-29 10:00:00,Ring Road,694.0
+2025-01-29 11:00:00,Central Junction,570.0
+2025-01-29 11:00:00,IT Park Road,394.0
+2025-01-29 11:00:00,Residential Road,332.0
+2025-01-29 11:00:00,Market Street,576.0
+2025-01-29 11:00:00,Ring Road,694.0
+2025-01-29 12:00:00,Central Junction,523.0
+2025-01-29 12:00:00,IT Park Road,313.0
+2025-01-29 12:00:00,Residential Road,325.0
+2025-01-29 12:00:00,Market Street,617.0
+2025-01-29 12:00:00,Ring Road,625.0
+2025-01-29 13:00:00,Central Junction,448.0
+2025-01-29 13:00:00,IT Park Road,373.0
+2025-01-29 13:00:00,Residential Road,344.0
+2025-01-29 13:00:00,Market Street,634.0
+2025-01-29 13:00:00,Ring Road,765.0
+2025-01-29 14:00:00,Central Junction,567.0
+2025-01-29 14:00:00,IT Park Road,339.0
+2025-01-29 14:00:00,Residential Road,392.0
+2025-01-29 14:00:00,Market Street,711.0
+2025-01-29 14:00:00,Ring Road,649.0
+2025-01-29 15:00:00,Central Junction,439.0
+2025-01-29 15:00:00,IT Park Road,291.0
+2025-01-29 15:00:00,Residential Road,418.0
+2025-01-29 15:00:00,Market Street,680.0
+2025-01-29 15:00:00,Ring Road,694.0
+2025-01-29 16:00:00,Central Junction,710.0
+2025-01-29 16:00:00,IT Park Road,763.0
+2025-01-29 16:00:00,Residential Road,608.0
+2025-01-29 16:00:00,Market Street,578.0
+2025-01-29 16:00:00,Ring Road,664.0
+2025-01-29 17:00:00,Central Junction,969.0
+2025-01-29 17:00:00,IT Park Road,1041.0
+2025-01-29 17:00:00,Residential Road,610.0
+2025-01-29 17:00:00,Market Street,614.0
+2025-01-29 17:00:00,Ring Road,985.0
+2025-01-29 18:00:00,Central Junction,1032.0
+2025-01-29 18:00:00,IT Park Road,1035.0
+2025-01-29 18:00:00,Residential Road,784.0
+2025-01-29 18:00:00,Market Street,824.0
+2025-01-29 18:00:00,Ring Road,973.0
+2025-01-29 19:00:00,Central Junction,798.0
+2025-01-29 19:00:00,IT Park Road,909.0
+2025-01-29 19:00:00,Residential Road,579.0
+2025-01-29 19:00:00,Market Street,525.0
+2025-01-29 19:00:00,Ring Road,928.0
+2025-01-29 20:00:00,Central Junction,549.0
+2025-01-29 20:00:00,IT Park Road,566.0
+2025-01-29 20:00:00,Residential Road,363.0
+2025-01-29 20:00:00,Market Street,545.0
+2025-01-29 20:00:00,Ring Road,702.0
+2025-01-29 21:00:00,Central Junction,473.0
+2025-01-29 21:00:00,IT Park Road,306.0
+2025-01-29 21:00:00,Residential Road,310.0
+2025-01-29 21:00:00,Market Street,278.0
+2025-01-29 21:00:00,Ring Road,396.0
+2025-01-29 22:00:00,Central Junction,225.0
+2025-01-29 22:00:00,IT Park Road,201.0
+2025-01-29 22:00:00,Residential Road,143.0
+2025-01-29 22:00:00,Market Street,215.0
+2025-01-29 22:00:00,Ring Road,327.0
+2025-01-29 23:00:00,Central Junction,236.0
+2025-01-29 23:00:00,IT Park Road,134.0
+2025-01-29 23:00:00,Residential Road,90.0
+2025-01-29 23:00:00,Market Street,131.0
+2025-01-29 23:00:00,Ring Road,330.0
+2025-01-30 00:00:00,Central Junction,187.0
+2025-01-30 00:00:00,IT Park Road,101.0
+2025-01-30 00:00:00,Residential Road,157.0
+2025-01-30 00:00:00,Market Street,46.0
+2025-01-30 00:00:00,Ring Road,321.0
+2025-01-30 01:00:00,Central Junction,77.0
+2025-01-30 01:00:00,IT Park Road,158.0
+2025-01-30 01:00:00,Residential Road,135.0
+2025-01-30 01:00:00,Market Street,140.0
+2025-01-30 01:00:00,Ring Road,165.0
+2025-01-30 02:00:00,Central Junction,217.0
+2025-01-30 02:00:00,IT Park Road,125.0
+2025-01-30 02:00:00,Residential Road,174.0
+2025-01-30 02:00:00,Market Street,41.0
+2025-01-30 02:00:00,Ring Road,221.0
+2025-01-30 03:00:00,Central Junction,201.0
+2025-01-30 03:00:00,IT Park Road,149.0
+2025-01-30 03:00:00,Residential Road,111.0
+2025-01-30 03:00:00,Market Street,85.0
+2025-01-30 03:00:00,Ring Road,279.0
+2025-01-30 04:00:00,Central Junction,315.0
+2025-01-30 04:00:00,IT Park Road,93.0
+2025-01-30 04:00:00,Residential Road,143.0
+2025-01-30 04:00:00,Market Street,110.0
+2025-01-30 04:00:00,Ring Road,269.0
+2025-01-30 05:00:00,Central Junction,342.0
+2025-01-30 05:00:00,IT Park Road,203.0
+2025-01-30 05:00:00,Residential Road,323.0
+2025-01-30 05:00:00,Market Street,180.0
+2025-01-30 05:00:00,Ring Road,416.0
+2025-01-30 06:00:00,Central Junction,491.0
+2025-01-30 06:00:00,IT Park Road,387.0
+2025-01-30 06:00:00,Residential Road,314.0
+2025-01-30 06:00:00,Market Street,332.0
+2025-01-30 06:00:00,Ring Road,479.0
+2025-01-30 07:00:00,Central Junction,990.0
+2025-01-30 07:00:00,IT Park Road,835.0
+2025-01-30 07:00:00,Residential Road,435.0
+2025-01-30 07:00:00,Market Street,668.0
+2025-01-30 07:00:00,Ring Road,764.0
+2025-01-30 08:00:00,Central Junction,1050.0
+2025-01-30 08:00:00,IT Park Road,1193.0
+2025-01-30 08:00:00,Residential Road,595.0
+2025-01-30 08:00:00,Market Street,577.0
+2025-01-30 08:00:00,Ring Road,963.0
+2025-01-30 09:00:00,Central Junction,1154.0
+2025-01-30 09:00:00,IT Park Road,990.0
+2025-01-30 09:00:00,Residential Road,612.0
+2025-01-30 09:00:00,Market Street,661.0
+2025-01-30 09:00:00,Ring Road,959.0
+2025-01-30 10:00:00,Central Junction,636.0
+2025-01-30 10:00:00,IT Park Road,588.0
+2025-01-30 10:00:00,Residential Road,295.0
+2025-01-30 10:00:00,Market Street,635.0
+2025-01-30 10:00:00,Ring Road,656.0
+2025-01-30 11:00:00,Central Junction,427.0
+2025-01-30 11:00:00,IT Park Road,378.0
+2025-01-30 11:00:00,Residential Road,333.0
+2025-01-30 11:00:00,Market Street,623.0
+2025-01-30 11:00:00,Ring Road,565.0
+2025-01-30 12:00:00,Central Junction,440.0
+2025-01-30 12:00:00,IT Park Road,317.0
+2025-01-30 12:00:00,Residential Road,422.0
+2025-01-30 12:00:00,Market Street,673.0
+2025-01-30 12:00:00,Ring Road,599.0
+2025-01-30 13:00:00,Central Junction,566.0
+2025-01-30 13:00:00,IT Park Road,366.0
+2025-01-30 13:00:00,Residential Road,300.0
+2025-01-30 13:00:00,Market Street,693.0
+2025-01-30 13:00:00,Ring Road,660.0
+2025-01-30 14:00:00,Central Junction,606.0
+2025-01-30 14:00:00,IT Park Road,305.0
+2025-01-30 14:00:00,Residential Road,340.0
+2025-01-30 14:00:00,Market Street,586.0
+2025-01-30 14:00:00,Ring Road,575.0
+2025-01-30 15:00:00,Central Junction,627.0
+2025-01-30 15:00:00,IT Park Road,494.0
+2025-01-30 15:00:00,Residential Road,430.0
+2025-01-30 15:00:00,Market Street,542.0
+2025-01-30 15:00:00,Ring Road,623.0
+2025-01-30 16:00:00,Central Junction,858.0
+2025-01-30 16:00:00,IT Park Road,800.0
+2025-01-30 16:00:00,Residential Road,524.0
+2025-01-30 16:00:00,Market Street,771.0
+2025-01-30 16:00:00,Ring Road,844.0
+2025-01-30 17:00:00,Central Junction,1019.0
+2025-01-30 17:00:00,IT Park Road,1046.0
+2025-01-30 17:00:00,Residential Road,816.0
+2025-01-30 17:00:00,Market Street,792.0
+2025-01-30 17:00:00,Ring Road,1044.0
+2025-01-30 18:00:00,Central Junction,1038.0
+2025-01-30 18:00:00,IT Park Road,1070.0
+2025-01-30 18:00:00,Residential Road,686.0
+2025-01-30 18:00:00,Market Street,951.0
+2025-01-30 18:00:00,Ring Road,1049.0
+2025-01-30 19:00:00,Central Junction,918.0
+2025-01-30 19:00:00,IT Park Road,1066.0
+2025-01-30 19:00:00,Residential Road,649.0
+2025-01-30 19:00:00,Market Street,701.0
+2025-01-30 19:00:00,Ring Road,911.0
+2025-01-30 20:00:00,Central Junction,624.0
+2025-01-30 20:00:00,IT Park Road,576.0
+2025-01-30 20:00:00,Residential Road,604.0
+2025-01-30 20:00:00,Market Street,361.0
+2025-01-30 20:00:00,Ring Road,645.0
+2025-01-30 21:00:00,Central Junction,399.0
+2025-01-30 21:00:00,IT Park Road,352.0
+2025-01-30 21:00:00,Residential Road,261.0
+2025-01-30 21:00:00,Market Street,179.0
+2025-01-30 21:00:00,Ring Road,363.0
+2025-01-30 22:00:00,Central Junction,253.0
+2025-01-30 22:00:00,IT Park Road,86.0
+2025-01-30 22:00:00,Residential Road,223.0
+2025-01-30 22:00:00,Market Street,224.0
+2025-01-30 22:00:00,Ring Road,366.0
+2025-01-30 23:00:00,Central Junction,245.0
+2025-01-30 23:00:00,IT Park Road,19.0
+2025-01-30 23:00:00,Residential Road,76.0
+2025-01-30 23:00:00,Market Street,122.0
+2025-01-30 23:00:00,Ring Road,224.0
+2025-01-31 00:00:00,Central Junction,111.0
+2025-01-31 00:00:00,IT Park Road,83.0
+2025-01-31 00:00:00,Residential Road,223.0
+2025-01-31 00:00:00,Market Street,203.0
+2025-01-31 00:00:00,Ring Road,218.0
+2025-01-31 01:00:00,Central Junction,186.0
+2025-01-31 01:00:00,IT Park Road,118.0
+2025-01-31 01:00:00,Residential Road,141.0
+2025-01-31 01:00:00,Market Street,50.0
+2025-01-31 01:00:00,Ring Road,230.0
+2025-01-31 02:00:00,Central Junction,113.0
+2025-01-31 02:00:00,IT Park Road,163.0
+2025-01-31 02:00:00,Residential Road,147.0
+2025-01-31 02:00:00,Market Street,13.0
+2025-01-31 02:00:00,Ring Road,252.0
+2025-01-31 03:00:00,Central Junction,191.0
+2025-01-31 03:00:00,IT Park Road,13.0
+2025-01-31 03:00:00,Residential Road,162.0
+2025-01-31 03:00:00,Market Street,80.0
+2025-01-31 03:00:00,Ring Road,274.0
+2025-01-31 04:00:00,Central Junction,208.0
+2025-01-31 04:00:00,IT Park Road,129.0
+2025-01-31 04:00:00,Residential Road,199.0
+2025-01-31 04:00:00,Market Street,0.0
+2025-01-31 04:00:00,Ring Road,220.0
+2025-01-31 05:00:00,Central Junction,266.0
+2025-01-31 05:00:00,IT Park Road,125.0
+2025-01-31 05:00:00,Residential Road,377.0
+2025-01-31 05:00:00,Market Street,128.0
+2025-01-31 05:00:00,Ring Road,250.0
+2025-01-31 06:00:00,Central Junction,499.0
+2025-01-31 06:00:00,IT Park Road,351.0
+2025-01-31 06:00:00,Residential Road,243.0
+2025-01-31 06:00:00,Market Street,227.0
+2025-01-31 06:00:00,Ring Road,538.0
+2025-01-31 07:00:00,Central Junction,964.0
+2025-01-31 07:00:00,IT Park Road,911.0
+2025-01-31 07:00:00,Residential Road,606.0
+2025-01-31 07:00:00,Market Street,486.0
+2025-01-31 07:00:00,Ring Road,808.0
+2025-01-31 08:00:00,Central Junction,1012.0
+2025-01-31 08:00:00,IT Park Road,1355.0
+2025-01-31 08:00:00,Residential Road,514.0
+2025-01-31 08:00:00,Market Street,718.0
+2025-01-31 08:00:00,Ring Road,1116.0
+2025-01-31 09:00:00,Central Junction,1045.0
+2025-01-31 09:00:00,IT Park Road,859.0
+2025-01-31 09:00:00,Residential Road,466.0
+2025-01-31 09:00:00,Market Street,631.0
+2025-01-31 09:00:00,Ring Road,977.0
+2025-01-31 10:00:00,Central Junction,623.0
+2025-01-31 10:00:00,IT Park Road,559.0
+2025-01-31 10:00:00,Residential Road,383.0
+2025-01-31 10:00:00,Market Street,575.0
+2025-01-31 10:00:00,Ring Road,696.0
+2025-01-31 11:00:00,Central Junction,620.0
+2025-01-31 11:00:00,IT Park Road,405.0
+2025-01-31 11:00:00,Residential Road,275.0
+2025-01-31 11:00:00,Market Street,475.0
+2025-01-31 11:00:00,Ring Road,627.0
+2025-01-31 12:00:00,Central Junction,485.0
+2025-01-31 12:00:00,IT Park Road,436.0
+2025-01-31 12:00:00,Residential Road,458.0
+2025-01-31 12:00:00,Market Street,537.0
+2025-01-31 12:00:00,Ring Road,584.0
+2025-01-31 13:00:00,Central Junction,421.0
+2025-01-31 13:00:00,IT Park Road,374.0
+2025-01-31 13:00:00,Residential Road,458.0
+2025-01-31 13:00:00,Market Street,649.0
+2025-01-31 13:00:00,Ring Road,549.0
+2025-01-31 14:00:00,Central Junction,553.0
+2025-01-31 14:00:00,IT Park Road,429.0
+2025-01-31 14:00:00,Residential Road,429.0
+2025-01-31 14:00:00,Market Street,608.0
+2025-01-31 14:00:00,Ring Road,555.0
+2025-01-31 15:00:00,Central Junction,615.0
+2025-01-31 15:00:00,IT Park Road,464.0
+2025-01-31 15:00:00,Residential Road,503.0
+2025-01-31 15:00:00,Market Street,623.0
+2025-01-31 15:00:00,Ring Road,676.0
+2025-01-31 16:00:00,Central Junction,785.0
+2025-01-31 16:00:00,IT Park Road,594.0
+2025-01-31 16:00:00,Residential Road,492.0
+2025-01-31 16:00:00,Market Street,874.0
+2025-01-31 16:00:00,Ring Road,897.0
+2025-01-31 17:00:00,Central Junction,901.0
+2025-01-31 17:00:00,IT Park Road,1041.0
+2025-01-31 17:00:00,Residential Road,758.0
+2025-01-31 17:00:00,Market Street,777.0
+2025-01-31 17:00:00,Ring Road,1077.0
+2025-01-31 18:00:00,Central Junction,1070.0
+2025-01-31 18:00:00,IT Park Road,948.0
+2025-01-31 18:00:00,Residential Road,688.0
+2025-01-31 18:00:00,Market Street,947.0
+2025-01-31 18:00:00,Ring Road,1255.0
+2025-01-31 19:00:00,Central Junction,941.0
+2025-01-31 19:00:00,IT Park Road,855.0
+2025-01-31 19:00:00,Residential Road,445.0
+2025-01-31 19:00:00,Market Street,606.0
+2025-01-31 19:00:00,Ring Road,789.0
+2025-01-31 20:00:00,Central Junction,724.0
+2025-01-31 20:00:00,IT Park Road,468.0
+2025-01-31 20:00:00,Residential Road,361.0
+2025-01-31 20:00:00,Market Street,463.0
+2025-01-31 20:00:00,Ring Road,660.0
+2025-01-31 21:00:00,Central Junction,461.0
+2025-01-31 21:00:00,IT Park Road,360.0
+2025-01-31 21:00:00,Residential Road,271.0
+2025-01-31 21:00:00,Market Street,335.0
+2025-01-31 21:00:00,Ring Road,416.0
+2025-01-31 22:00:00,Central Junction,328.0
+2025-01-31 22:00:00,IT Park Road,136.0
+2025-01-31 22:00:00,Residential Road,65.0
+2025-01-31 22:00:00,Market Street,169.0
+2025-01-31 22:00:00,Ring Road,206.0
+2025-01-31 23:00:00,Central Junction,243.0
+2025-01-31 23:00:00,IT Park Road,127.0
+2025-01-31 23:00:00,Residential Road,239.0
+2025-01-31 23:00:00,Market Street,124.0
+2025-01-31 23:00:00,Ring Road,202.0
+2025-02-01 00:00:00,Central Junction,205.0
+2025-02-01 00:00:00,IT Park Road,81.0
+2025-02-01 00:00:00,Residential Road,189.0
+2025-02-01 00:00:00,Market Street,88.0
+2025-02-01 00:00:00,Ring Road,339.0
+2025-02-01 01:00:00,Central Junction,187.0
+2025-02-01 01:00:00,IT Park Road,97.0
+2025-02-01 01:00:00,Residential Road,214.0
+2025-02-01 01:00:00,Market Street,165.0
+2025-02-01 01:00:00,Ring Road,227.0
+2025-02-01 02:00:00,Central Junction,228.0
+2025-02-01 02:00:00,IT Park Road,132.0
+2025-02-01 02:00:00,Residential Road,150.0
+2025-02-01 02:00:00,Market Street,160.0
+2025-02-01 02:00:00,Ring Road,339.0
+2025-02-01 03:00:00,Central Junction,182.0
+2025-02-01 03:00:00,IT Park Road,102.0
+2025-02-01 03:00:00,Residential Road,149.0
+2025-02-01 03:00:00,Market Street,93.0
+2025-02-01 03:00:00,Ring Road,262.0
+2025-02-01 04:00:00,Central Junction,185.0
+2025-02-01 04:00:00,IT Park Road,103.0
+2025-02-01 04:00:00,Residential Road,147.0
+2025-02-01 04:00:00,Market Street,85.0
+2025-02-01 04:00:00,Ring Road,325.0
+2025-02-01 05:00:00,Central Junction,293.0
+2025-02-01 05:00:00,IT Park Road,212.0
+2025-02-01 05:00:00,Residential Road,152.0
+2025-02-01 05:00:00,Market Street,181.0
+2025-02-01 05:00:00,Ring Road,342.0
+2025-02-01 06:00:00,Central Junction,316.0
+2025-02-01 06:00:00,IT Park Road,338.0
+2025-02-01 06:00:00,Residential Road,237.0
+2025-02-01 06:00:00,Market Street,230.0
+2025-02-01 06:00:00,Ring Road,431.0
+2025-02-01 07:00:00,Central Junction,494.0
+2025-02-01 07:00:00,IT Park Road,417.0
+2025-02-01 07:00:00,Residential Road,401.0
+2025-02-01 07:00:00,Market Street,457.0
+2025-02-01 07:00:00,Ring Road,409.0
+2025-02-01 08:00:00,Central Junction,916.0
+2025-02-01 08:00:00,IT Park Road,613.0
+2025-02-01 08:00:00,Residential Road,502.0
+2025-02-01 08:00:00,Market Street,448.0
+2025-02-01 08:00:00,Ring Road,873.0
+2025-02-01 09:00:00,Central Junction,519.0
+2025-02-01 09:00:00,IT Park Road,450.0
+2025-02-01 09:00:00,Residential Road,318.0
+2025-02-01 09:00:00,Market Street,566.0
+2025-02-01 09:00:00,Ring Road,744.0
+2025-02-01 10:00:00,Central Junction,445.0
+2025-02-01 10:00:00,IT Park Road,265.0
+2025-02-01 10:00:00,Residential Road,328.0
+2025-02-01 10:00:00,Market Street,567.0
+2025-02-01 10:00:00,Ring Road,482.0
+2025-02-01 11:00:00,Central Junction,354.0
+2025-02-01 11:00:00,IT Park Road,406.0
+2025-02-01 11:00:00,Residential Road,279.0
+2025-02-01 11:00:00,Market Street,529.0
+2025-02-01 11:00:00,Ring Road,581.0
+2025-02-01 12:00:00,Central Junction,448.0
+2025-02-01 12:00:00,IT Park Road,374.0
+2025-02-01 12:00:00,Residential Road,303.0
+2025-02-01 12:00:00,Market Street,637.0
+2025-02-01 12:00:00,Ring Road,410.0
+2025-02-01 13:00:00,Central Junction,449.0
+2025-02-01 13:00:00,IT Park Road,303.0
+2025-02-01 13:00:00,Residential Road,310.0
+2025-02-01 13:00:00,Market Street,844.0
+2025-02-01 13:00:00,Ring Road,625.0
+2025-02-01 14:00:00,Central Junction,432.0
+2025-02-01 14:00:00,IT Park Road,212.0
+2025-02-01 14:00:00,Residential Road,343.0
+2025-02-01 14:00:00,Market Street,854.0
+2025-02-01 14:00:00,Ring Road,510.0
+2025-02-01 15:00:00,Central Junction,510.0
+2025-02-01 15:00:00,IT Park Road,290.0
+2025-02-01 15:00:00,Residential Road,357.0
+2025-02-01 15:00:00,Market Street,776.0
+2025-02-01 15:00:00,Ring Road,572.0
+2025-02-01 16:00:00,Central Junction,671.0
+2025-02-01 16:00:00,IT Park Road,
+2025-02-01 16:00:00,Residential Road,426.0
+2025-02-01 16:00:00,Market Street,830.0
+2025-02-01 16:00:00,Ring Road,678.0
+2025-02-01 17:00:00,Central Junction,620.0
+2025-02-01 17:00:00,IT Park Road,560.0
+2025-02-01 17:00:00,Residential Road,404.0
+2025-02-01 17:00:00,Market Street,674.0
+2025-02-01 17:00:00,Ring Road,791.0
+2025-02-01 18:00:00,Central Junction,773.0
+2025-02-01 18:00:00,IT Park Road,607.0
+2025-02-01 18:00:00,Residential Road,448.0
+2025-02-01 18:00:00,Market Street,795.0
+2025-02-01 18:00:00,Ring Road,669.0
+2025-02-01 19:00:00,Central Junction,462.0
+2025-02-01 19:00:00,IT Park Road,428.0
+2025-02-01 19:00:00,Residential Road,513.0
+2025-02-01 19:00:00,Market Street,483.0
+2025-02-01 19:00:00,Ring Road,626.0
+2025-02-01 20:00:00,Central Junction,303.0
+2025-02-01 20:00:00,IT Park Road,350.0
+2025-02-01 20:00:00,Residential Road,278.0
+2025-02-01 20:00:00,Market Street,324.0
+2025-02-01 20:00:00,Ring Road,510.0
+2025-02-01 21:00:00,Central Junction,222.0
+2025-02-01 21:00:00,IT Park Road,143.0
+2025-02-01 21:00:00,Residential Road,255.0
+2025-02-01 21:00:00,Market Street,233.0
+2025-02-01 21:00:00,Ring Road,311.0
+2025-02-01 22:00:00,Central Junction,256.0
+2025-02-01 22:00:00,IT Park Road,92.0
+2025-02-01 22:00:00,Residential Road,96.0
+2025-02-01 22:00:00,Market Street,224.0
+2025-02-01 22:00:00,Ring Road,394.0
+2025-02-01 23:00:00,Central Junction,186.0
+2025-02-01 23:00:00,IT Park Road,0.0
+2025-02-01 23:00:00,Residential Road,153.0
+2025-02-01 23:00:00,Market Street,173.0
+2025-02-01 23:00:00,Ring Road,334.0
+2025-02-02 00:00:00,Central Junction,137.0
+2025-02-02 00:00:00,IT Park Road,91.0
+2025-02-02 00:00:00,Residential Road,166.0
+2025-02-02 00:00:00,Market Street,159.0
+2025-02-02 00:00:00,Ring Road,302.0
+2025-02-02 01:00:00,Central Junction,266.0
+2025-02-02 01:00:00,IT Park Road,96.0
+2025-02-02 01:00:00,Residential Road,228.0
+2025-02-02 01:00:00,Market Street,120.0
+2025-02-02 01:00:00,Ring Road,338.0
+2025-02-02 02:00:00,Central Junction,195.0
+2025-02-02 02:00:00,IT Park Road,96.0
+2025-02-02 02:00:00,Residential Road,156.0
+2025-02-02 02:00:00,Market Street,104.0
+2025-02-02 02:00:00,Ring Road,329.0
+2025-02-02 03:00:00,Central Junction,168.0
+2025-02-02 03:00:00,IT Park Road,105.0
+2025-02-02 03:00:00,Residential Road,181.0
+2025-02-02 03:00:00,Market Street,235.0
+2025-02-02 03:00:00,Ring Road,299.0
+2025-02-02 04:00:00,Central Junction,197.0
+2025-02-02 04:00:00,IT Park Road,36.0
+2025-02-02 04:00:00,Residential Road,153.0
+2025-02-02 04:00:00,Market Street,107.0
+2025-02-02 04:00:00,Ring Road,256.0
+2025-02-02 05:00:00,Central Junction,213.0
+2025-02-02 05:00:00,IT Park Road,185.0
+2025-02-02 05:00:00,Residential Road,172.0
+2025-02-02 05:00:00,Market Street,134.0
+2025-02-02 05:00:00,Ring Road,358.0
+2025-02-02 06:00:00,Central Junction,285.0
+2025-02-02 06:00:00,IT Park Road,293.0
+2025-02-02 06:00:00,Residential Road,235.0
+2025-02-02 06:00:00,Market Street,308.0
+2025-02-02 06:00:00,Ring Road,480.0
+2025-02-02 07:00:00,Central Junction,746.0
+2025-02-02 07:00:00,IT Park Road,508.0
+2025-02-02 07:00:00,Residential Road,302.0
+2025-02-02 07:00:00,Market Street,427.0
+2025-02-02 07:00:00,Ring Road,511.0
+2025-02-02 08:00:00,Central Junction,697.0
+2025-02-02 08:00:00,IT Park Road,471.0
+2025-02-02 08:00:00,Residential Road,327.0
+2025-02-02 08:00:00,Market Street,649.0
+2025-02-02 08:00:00,Ring Road,750.0
+2025-02-02 09:00:00,Central Junction,692.0
+2025-02-02 09:00:00,IT Park Road,559.0
+2025-02-02 09:00:00,Residential Road,433.0
+2025-02-02 09:00:00,Market Street,736.0
+2025-02-02 09:00:00,Ring Road,603.0
+2025-02-02 10:00:00,Central Junction,563.0
+2025-02-02 10:00:00,IT Park Road,291.0
+2025-02-02 10:00:00,Residential Road,254.0
+2025-02-02 10:00:00,Market Street,592.0
+2025-02-02 10:00:00,Ring Road,421.0
+2025-02-02 11:00:00,Central Junction,468.0
+2025-02-02 11:00:00,IT Park Road,266.0
+2025-02-02 11:00:00,Residential Road,297.0
+2025-02-02 11:00:00,Market Street,418.0
+2025-02-02 11:00:00,Ring Road,496.0
+2025-02-02 12:00:00,Central Junction,412.0
+2025-02-02 12:00:00,IT Park Road,242.0
+2025-02-02 12:00:00,Residential Road,342.0
+2025-02-02 12:00:00,Market Street,677.0
+2025-02-02 12:00:00,Ring Road,507.0
+2025-02-02 13:00:00,Central Junction,473.0
+2025-02-02 13:00:00,IT Park Road,357.0
+2025-02-02 13:00:00,Residential Road,383.0
+2025-02-02 13:00:00,Market Street,722.0
+2025-02-02 13:00:00,Ring Road,472.0
+2025-02-02 14:00:00,Central Junction,
+2025-02-02 14:00:00,IT Park Road,95.0
+2025-02-02 14:00:00,Residential Road,220.0
+2025-02-02 14:00:00,Market Street,787.0
+2025-02-02 14:00:00,Ring Road,495.0
+2025-02-02 15:00:00,Central Junction,496.0
+2025-02-02 15:00:00,IT Park Road,326.0
+2025-02-02 15:00:00,Residential Road,353.0
+2025-02-02 15:00:00,Market Street,725.0
+2025-02-02 15:00:00,Ring Road,669.0
+2025-02-02 16:00:00,Central Junction,610.0
+2025-02-02 16:00:00,IT Park Road,410.0
+2025-02-02 16:00:00,Residential Road,368.0
+2025-02-02 16:00:00,Market Street,841.0
+2025-02-02 16:00:00,Ring Road,572.0
+2025-02-02 17:00:00,Central Junction,610.0
+2025-02-02 17:00:00,IT Park Road,458.0
+2025-02-02 17:00:00,Residential Road,423.0
+2025-02-02 17:00:00,Market Street,707.0
+2025-02-02 17:00:00,Ring Road,573.0
+2025-02-02 18:00:00,Central Junction,613.0
+2025-02-02 18:00:00,IT Park Road,642.0
+2025-02-02 18:00:00,Residential Road,437.0
+2025-02-02 18:00:00,Market Street,684.0
+2025-02-02 18:00:00,Ring Road,584.0
+2025-02-02 19:00:00,Central Junction,700.0
+2025-02-02 19:00:00,IT Park Road,461.0
+2025-02-02 19:00:00,Residential Road,416.0
+2025-02-02 19:00:00,Market Street,558.0
+2025-02-02 19:00:00,Ring Road,620.0
+2025-02-02 20:00:00,Central Junction,361.0
+2025-02-02 20:00:00,IT Park Road,356.0
+2025-02-02 20:00:00,Residential Road,274.0
+2025-02-02 20:00:00,Market Street,452.0
+2025-02-02 20:00:00,Ring Road,499.0
+2025-02-02 21:00:00,Central Junction,
+2025-02-02 21:00:00,IT Park Road,183.0
+2025-02-02 21:00:00,Residential Road,174.0
+2025-02-02 21:00:00,Market Street,196.0
+2025-02-02 21:00:00,Ring Road,399.0
+2025-02-02 22:00:00,Central Junction,169.0
+2025-02-02 22:00:00,IT Park Road,156.0
+2025-02-02 22:00:00,Residential Road,152.0
+2025-02-02 22:00:00,Market Street,211.0
+2025-02-02 22:00:00,Ring Road,398.0
+2025-02-02 23:00:00,Central Junction,57.0
+2025-02-02 23:00:00,IT Park Road,78.0
+2025-02-02 23:00:00,Residential Road,136.0
+2025-02-02 23:00:00,Market Street,125.0
+2025-02-02 23:00:00,Ring Road,258.0
+2025-01-15 06:00:00,Ring Road,532.0
+2025-01-19 16:00:00,Residential Road,475.0
+2025-01-17 05:00:00,Central Junction,263.0
+2025-01-23 21:00:00,Residential Road,238.0
+2025-01-07 15:00:00,IT Park Road,396.0
+2025-01-20 16:00:00,Market Street,759.0
+2025-02-01 01:00:00,Central Junction,187.0
+2025-01-15 11:00:00,Market Street,590.0
+2025-01-15 07:00:00,IT Park Road,887.0
+2025-01-10 11:00:00,Market Street,589.0
+2025-01-31 11:00:00,Market Street,475.0
+2025-01-11 21:00:00,Central Junction,256.0
