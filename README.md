@@ -35,7 +35,6 @@ For Colab, upload normalized_nyc.csv and set DATA_FILE to its path in the datase
 - `outputs/`: model grid, comparisons, test assignments, cluster profiles, ambiguity diagnostics and four charts
 - `Project_Report.docx`: editable report with actual results from the simulation
 - `Project_Presentation.pptx`: presentation slides
-- `Viva_Questions.md`: viva preparation
 - `requirements.txt`: Python dependencies
 
 ## Interpretation
